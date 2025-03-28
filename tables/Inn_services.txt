@@ -1,0 +1,10 @@
+1;This place has hot meals and a variety of drinks, but no sleeping accommodations.
+2;This place has basic rooms for rent, with shared bathrooms and simple furnishings.
+3;This place has luxury suites with private bathrooms and comfortable beds.
+4;This place has a stable for travelers' horses, with grooming services available.
+5;This place has a game room with card tables, dartboards, and other entertainment.
+6;This place has a private dining area for special occasions or important meetings.
+7;This place has a bathhouse with hot springs or heated pools for relaxation.
+8;This place has a library or study area with books and scrolls for patrons to peruse.
+9;This place has a performance stage for bards, musicians, and other entertainers.
+10;This place has a secret gambling den, hidden away from prying eyes.

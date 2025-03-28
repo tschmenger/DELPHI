@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Delphi - the D&D Randomizer</title>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+      <link rel="stylesheet" href="CSS/delphi_styles.css">
+  </head>
+<body>
+<!--  ################################### -->
+    <div class="container">
+        <img src="/Logo/Raw_2.jpg" alt="Header Image" class="header-image">
+        <h1>Delphi, the oracle</h1>
+        <br>
+        <button id="randomizeButton">Randomize All</button>
+<!--  ################################### Yes/No-->
+        <div class="section">
+            <h2>Yes/No</h2>
+            <div class="content" id="yesNoContent">
+                <p>Answer: <span id="yesNoAnswer"></span></p>
+                <button class="d20-button section-d20-button">
+                    <i class="fas fa-dice-d20"></i>
+                </button>
+            </div>
+        </div>
+<!--  ################################### Foods-->
+<div class="section">
+    <h2>Foods</h2>
+    <div class="content" id="FoodsContent">
+        <p><span id="FoodsLister"></span></p>
+        <button class="d20-button section-d20-button">
+            <i class="fas fa-dice-d20"></i>
+        </button>
+    </div>
+</div>
+<!--  ################################### Drinks-->
+<div class="section">
+    <h2>Drinks</h2>
+    <div class="content" id="DrinksContent">
+        <p><span id="DrinksLister"></span></p>
+        <button class="d20-button section-d20-button">
+            <i class="fas fa-dice-d20"></i>
+        </button>
+    </div>
+</div>
+<!--  ################################### NPCs CATEGORY -->
+<div class="category">
+    <h2>NPCs</h2>
+    <div class="category-content">
+            <!--  ################################### Simple NPC moods -->
+            <div class="section">
+                <h3>Simple NPC moods</h3>
+                <div class="content" id="NPCmood">
+                    <p>This NPC is ...<span id="NPCmoodAnswer"></span></p>
+                    <button class="d20-button section-d20-button">
+                        <i class="fas fa-dice-d20"></i>
+                    </button>
+                </div>
+            </div>
+            <!--  ################################### NPCs -->
+            <div class="section">
+            <h3>NPCs</h3>
+            <div class="content" id="NPCgenerator_full">
+            <p><span id="npcDescription"></span></p>
+            <button class="d20-button section-d20-button">
+                <i class="fas fa-dice-d20"></i>
+            </button>
+            </div>
+            </div>
+
+    </div>
+</div>
+
+<!--  ################################### PLACES CATEGORY -->
+<div class="category">
+    <h2>Places</h2>
+    <div class="category-content">
+        <!--  ################################### Taverns -->
+        <div class="section">
+            <h3>Taverns</h3>
+            <div class="content" id="Inn_generator_full">
+                <p><span id="tavernDescription"></span></p>
+                <button class="d20-button section-d20-button">
+                    <i class="fas fa-dice-d20"></i>
+                </button>
+            </div>
+        </div>
+
+        <!--  ################################### Shops -->
+        <div class="section">
+            <h3>Shops</h3>
+            <div class="content" id="Shop_generator_full">
+                <p><span id="shopDescription"></span></p>
+                <button class="d20-button section-d20-button">
+                    <i class="fas fa-dice-d20"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<!--  ################################### Magic Items CATEGORY -->
+<div class="category">
+    <h2>Magic Items</h2>
+    <div class="category-content">
+            <!--  ################################### Magic Items Table A-->
+            <div class="section">
+                <h3>Magic Items Table A</h3>
+                <div class="content" id="magicitems_A">
+                    <p><span id="magicItemAdescriptor"></span></p>
+                    <button class="d20-button section-d20-button">
+                        <i class="fas fa-dice-d20"></i>
+                    </button>
+                </div>
+            </div>
+            <!--  ################################### Magic Items Table B-->
+            <div class="section">
+                <h3>Magic Items Table B</h3>
+                <div class="content" id="magicitems_B">
+                    <p><span id="magicItemBdescriptor"></span></p>
+                    <button class="d20-button section-d20-button">
+                        <i class="fas fa-dice-d20"></i>
+                    </button>
+                </div>
+            </div>
+            <!--  ################################### Magic Items Table C-->
+            <div class="section">
+                <h3>Magic Items Table C</h3>
+                <div class="content" id="magicitems_C">
+                    <p><span id="magicItemCdescriptor"></span></p>
+                    <button class="d20-button section-d20-button">
+                        <i class="fas fa-dice-d20"></i>
+                    </button>
+                </div>
+            </div>
+            <!--  ################################### Magic Items Table D-->
+            <div class="section">
+                <h3>Magic Items Table D</h3>
+                <div class="content" id="magicitems_D">
+                    <p><span id="magicItemDdescriptor"></span></p>
+                    <button class="d20-button section-d20-button">
+                        <i class="fas fa-dice-d20"></i>
+                    </button>
+                </div>
+            </div>
+            <!--  ################################### Magic Items Table E-->
+            <div class="section">
+                <h3>Magic Items Table E</h3>
+                <div class="content" id="magicitems_E">
+                    <p><span id="magicItemEdescriptor"></span></p>
+                    <button class="d20-button section-d20-button">
+                        <i class="fas fa-dice-d20"></i>
+                    </button>
+                </div>
+            </div>
+            <!--  ################################### Magic Items Table F-->
+            <div class="section">
+                <h3>Magic Items Table F</h3>
+                <div class="content" id="magicitems_F">
+                    <p><span id="magicItemFdescriptor"></span></p>
+                    <button class="d20-button section-d20-button">
+                        <i class="fas fa-dice-d20"></i>
+                    </button>
+                </div>
+            </div>
+            <!--  ################################### Magic Items Table G-->
+            <div class="section">
+                <h3>Magic Items Table G</h3>
+                <div class="content" id="magicitems_G">
+                    <p><span id="magicItemGdescriptor"></span></p>
+                    <button class="d20-button section-d20-button">
+                        <i class="fas fa-dice-d20"></i>
+                    </button>
+                </div>
+            </div>
+            <!--  ################################### Magic Items Table H-->
+            <div class="section">
+                <h3>Magic Items Table H</h3>
+                <div class="content" id="magicitems_H">
+                    <p><span id="magicItemHdescriptor"></span></p>
+                    <button class="d20-button section-d20-button">
+                        <i class="fas fa-dice-d20"></i>
+                    </button>
+                </div>
+            </div>
+            <!--  ################################### Magic Items Table I-->
+            <div class="section">
+                <h3>Magic Items Table I</h3>
+                <div class="content" id="magicitems_I">
+                    <p><span id="magicItemIdescriptor"></span></p>
+                    <button class="d20-button section-d20-button">
+                        <i class="fas fa-dice-d20"></i>
+                    </button>
+                </div>
+            </div>
+            <!--  ################################### Item Quirks-->
+            <div class="section">
+                <h3>Item Quirks</h3>
+                <div class="content" id="quirksContent">
+                    <p><span id="itemquirk"></span></p>
+                    <button class="d20-button section-d20-button">
+                        <i class="fas fa-dice-d20"></i>
+                    </button>
+                </div>
+            </div>
+            <!--  ################################### Mild magic effects on the player-->
+            <div class="section">
+                <h3>Mild magic effects on the player</h3>
+                <div class="content" id="mildmagiceffectContent">
+                    <p><span id="mildeffect"></span></p>
+                    <button class="d20-button section-d20-button">
+                        <i class="fas fa-dice-d20"></i>
+                    </button>
+                </div>
+            </div>
+    </div>
+</div>
+<div id="versionContainer">
+    <div id="version">Version 2025/03/28</div>
+</div>
+
+</div>
+<script src="JS/csv_utils.js"></script>
+<script src="JS/delphi_script.js"></script>
+</body>
+</html>

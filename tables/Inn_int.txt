@@ -1,0 +1,10 @@
+1;The interior is dimly lit, with a large fireplace casting a warm glow over the room.
+2;The tavern is filled with the aroma of roasting meats and the sound of lively conversation.
+3;The walls are adorned with hunting trophies and old weapons, giving it a rustic feel.
+4;The interior is clean and well-maintained, with polished wooden floors and comfortable seating.
+5;The tavern has a large, circular bar in the center, with patrons gathered around it.
+6;The interior is cozy, with small, intimate tables and a crackling fire in the hearth.
+7;The tavern is lively, with a minstrel playing music in the corner and patrons dancing.
+8;The interior is spacious, with high ceilings and large windows letting in plenty of light.
+9;The tavern has a secretive atmosphere, with hidden nooks and private booths for discreet conversations.
+10;The interior is opulent, with plush seating, expensive decorations, and a sense of luxury.

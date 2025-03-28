@@ -1,0 +1,20 @@
+1;Your skin briefly shimmers with a faint glow.
+2;A soft melody plays around you for a few seconds.
+3;Your hair changes color for a moment.
+4;A gentle breeze carries the scent of flowers.
+5;Small, harmless sparks dance around your fingers.
+6;Your eyes briefly glow with a soft light.
+7;A small, glowing orb floats near you for a moment.
+8;Your voice echoes slightly for a few words.
+9;A faint, ethereal mist surrounds you briefly.
+10;Your shadow flickers as if touched by moonlight.
+11;A small, harmless butterfly appears near you.
+12;Your footsteps leave glowing prints for a second.
+13;A soft chime rings out as you move.
+14;Your breath is visible as a faint, colored mist.
+15;A small, glowing rune appears on your hand.
+16;Your surroundings briefly seem more vibrant.
+17;A faint, pleasant aroma fills the air around you.
+18;Your clothing rustles as if touched by an unseen hand.
+19;A small, glowing feather floats down near you.
+20;Your movements leave a faint, glowing trail.

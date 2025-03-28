@@ -1,0 +1,10 @@
+1;A group of rowdy adventurers, loudly recounting their latest exploits.
+2;A mysterious, hooded figure sitting alone in the corner, nursing a drink.
+3;A local merchant, deep in conversation with a potential business partner.
+4;A bard, strumming a lute and singing tales of far-off lands.
+5;A group of off-duty guards, relaxing after a long day of work.
+6;A scholar, poring over ancient texts and taking notes.
+7;A couple on a date, sharing a quiet meal and stolen glances.
+8;A traveler, weary from the road, seeking a warm meal and a place to rest.
+9;A local noble, surrounded by an entourage, enjoying a night out.
+10;A thief, casually scoping out the room for potential targets.

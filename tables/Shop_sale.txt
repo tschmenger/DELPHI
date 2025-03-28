@@ -1,0 +1,10 @@
+1 ; Swords, daggers, bows, crossbows, spears, maces, magical weapons.
+2 ; Leather armor, chainmail, plate armor, shields, magical armor.
+3 ; Healing potions, mana potions, antidotes, invisibility potions.
+4 ; Spell scrolls, maps, ancient texts, magical scrolls.
+5 ; Rare herbs, alchemical ingredients, poisons, healing salves.
+6 ; Necklaces, rings, bracelets, magical jewelry.
+7 ; Thieves' tools, adventuring gear, climbing equipment, lockpicks.
+8 ; Wands, staves, amulets, enchanted trinkets.
+9 ; Adventurer's outfits, cloaks, boots, magical garments.
+10 ; Artifacts, curiosities, rare books, decorative items.

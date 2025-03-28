@@ -1,0 +1,10 @@
+1 ; A stolen artifact must be retrieved from a dangerous dungeon.
+2 ; A mysterious map leads to a hidden treasure.
+3 ; A local noble needs help solving a murder mystery.
+4 ; A ancient curse must be lifted from a nearby village.
+5 ; A powerful monster is terrorizing the countryside.
+6 ; A lost heir to the throne needs to be found and protected.
+7 ; A magical plague is spreading, and a cure must be found.
+8 ; A rival adventuring party has challenged the players to a contest.
+9 ; A prophecy foretells a great calamity that must be prevented.
+10 ; A powerful artifact must be destroyed to save the world.

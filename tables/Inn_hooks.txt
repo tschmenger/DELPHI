@@ -1,0 +1,10 @@
+1;The tavern is built on an ancient burial ground, and strange occurrences have been happening lately.
+2;The innkeeper is secretly a spy for a rival kingdom, gathering information from travelers.
+3;A hidden treasure is rumored to be buried beneath the tavern's cellar.
+4;The tavern is a front for a smuggling operation, moving contraband through a secret tunnel.
+5;A powerful artifact is hidden within the tavern, drawing the attention of dangerous individuals.
+6;The tavern is haunted by the ghost of a former patron, seeking vengeance for a past wrong.
+7;A secret society holds their meetings in a hidden room within the tavern.
+8;The tavern is the site of a legendary duel that took place centuries ago, and the spirits of the combatants still linger.
+9;A rare and valuable ingredient is used in one of the tavern's signature dishes, attracting the attention of thieves.
+10;The tavern is the last known location of a missing person, and clues to their whereabouts can be found within.

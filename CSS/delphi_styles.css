@@ -1,0 +1,185 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 20px;
+    transition: background-color 0.3s;
+}
+.container {
+    text-align: center;
+    width: 100%;
+    max-width: 800px;
+    margin-top: 70px; /* Add space at the top to avoid overlap */
+}
+.header-image {
+    width: 100%;
+    max-width: 80px; /* Adjust based on your design needs */
+    height: auto;
+    display: block;
+    margin: 0 auto 20px; /* Adjust margin as needed */
+}
+@media (max-width: 600px) {
+    .header-image {
+        width: 100%;
+        max-width: 15%;
+    }
+    .section-d20-button {
+        
+        right: 40px; /* Position the button closer to the right edge */
+        transform: none; /* Remove the horizontal centering */
+    }
+
+    .section-d20-button:hover {
+        transform: rotate(180deg); /* Only rotate on hover */
+    }
+    #version {
+        display: none;
+    }
+}
+.content a {
+    color: #ff6f61; /* Set link color to white */
+    text-decoration: none; /* Remove underline from links */
+}
+/* Optional: Style links on hover */
+.content a:hover {
+    color: #FF0000; /* Change to a different color on hover */
+    text-decoration: underline; /* Add underline on hover */
+}
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #ff6f61; /* Accent color for the title */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+button {
+    padding: 12px 24px;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #ff6f61;
+    color: #fff;
+    transition: background-color 0.3s, transform 0.3s;
+}
+button:hover {
+    background-color: #ff5252;
+    transform: scale(1.05);
+}
+.section-d20-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 20px;
+    height: 40px;
+    border-radius: 10%; /* Make it circular */
+    background-color: #fff;
+    color: #000;
+    font-size: 24px; /* Adjust font size for the icon */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #000;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.5), 0 0 10px rgba(0, 0, 0, 0.5);
+    z-index: 10; /* Ensure it stays on top */
+    transition: background-color 0.3s, transform 0.3s;
+}
+.section-d20-button:hover {
+    background-color: #eee;
+    transform: rotate(180deg);
+}
+.section {
+    position: relative; /* Ensure the button is positioned relative to the section */
+    margin-top: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: box-shadow 0.3s;
+}
+.section h2 {
+    position: relative; /* Ensure the button is positioned relative to the section */
+    cursor: pointer;
+    background-color: #2c2c2c;
+    padding: 15px;
+    border-radius: 8px 8px 0 0;
+    transition: background-color 0.3s, color 0.3s;
+}
+.section h2:hover {
+    background-color: #2c2c2c;
+    color: #ff6f61;
+}
+.section h3 {
+    position: relative; /* Ensure the button is positioned relative to the section */
+    cursor: pointer;
+    background-color: #363131;
+    padding: 15px;
+    border-radius: 8px 8px 0 0;
+    transition: background-color 0.3s, color 0.3s;
+}
+.section h3:hover {
+    background-color: #5a4c4c;
+    color: #ff6f61;
+}
+
+.content {
+    display: none;
+    padding: 20px;
+    border-top: 1px solid #333;
+    background-color: #1f1f1f;
+    transition: max-height 0.3s ease-out, background-color 0.3s;
+}
+.content.show {
+    display: block;
+    background-color: #2c2c2c;
+    box-shadow: inset 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.category {
+    margin-top: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: box-shadow 0.3s;
+}
+.category h2 {
+    cursor: pointer;
+    background-color: #1f1f1f;
+    padding: 15px;
+    border-radius: 8px 8px 0 0;
+    transition: background-color 0.3s, color 0.3s;
+}
+.category h2:hover {
+    background-color: #2c2c2c;
+    color: #ff6f61;
+}
+.category-content {
+    display: none;
+    padding: 20px;
+    background-color: #1f1f1f;
+    transition: max-height 0.3s ease-out, background-color 0.3s;
+}
+.category-content.show {
+    display: block;
+    background-color: #2c2c2c;
+    box-shadow: inset 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.category h3 {
+    margin-top: 25px;
+    font-size: 1.2em;
+    color: #e0e0e0;
+}
+#version {
+    position: fixed;
+    bottom: 5px;
+    right: 10px;
+    font-size: 14px;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 5px 10px;
+    border-radius: 5px;
+  }

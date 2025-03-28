@@ -1,0 +1,10 @@
+1 ; A quaint wooden cottage with a thatched roof and a small garden out front.
+2 ; A sturdy stone building with a large, heavy wooden door and iron bars on the windows.
+3 ; A brightly painted shop with a large, colorful sign and potted plants outside.
+4 ; A dark, foreboding shop with a faded sign and a sense of mystery.
+5 ; A shop tucked away in an alley, with a discreet entrance and no sign.
+6 ; A grand, two-story building with ornate carvings and a welcoming entrance.
+7 ; A shop with a large, open-air market stall in front, displaying various wares.
+8 ; A shop with a small, cozy porch and a rocking chair outside.
+9 ; A shop with a large, intricate mural painted on the side of the building.
+10 ; A shop with a small, well-tended herb garden and a bench for customers to sit on.

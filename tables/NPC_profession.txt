@@ -1,0 +1,8 @@
+1; Peasant
+2; Merchant
+3; Mercenary
+4; Soldier
+5; Priest
+6; Sage
+7; Adventurer
+8; Travelling Merchant

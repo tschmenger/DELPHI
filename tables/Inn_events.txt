@@ -1,0 +1,10 @@
+1;A sudden brawl breaks out between two rival groups of patrons.
+2;A mysterious stranger approaches the party with a whispered offer.
+3;A drunken patron stumbles and accidentally spills a drink on someone, causing a commotion.
+4;A group of musicians starts playing a lively tune, and patrons begin to dance.
+5;A messenger rushes in, delivering urgent news that affects the entire tavern.
+6;A pickpocket is caught red-handed, and the patrons demand justice.
+7;A ghostly apparition appears briefly, causing a chill to run through the room.
+8;A local celebrity or hero enters the tavern, drawing the attention of everyone present.
+9;A fire breaks out in the kitchen, filling the tavern with smoke and panic.
+10;A group of guards bursts in, searching for a wanted criminal believed to be hiding inside.

@@ -1,0 +1,50 @@
+1-2;Grog (rum with water, maybe with lemon or lime)
+3-4;Dregs and water ("dregs" are defined as the sediment in a liquid, such as wine or coffee)
+5-6;Goblin spit ale
+7-8;Turnip wine
+9-10;Miller’s moonshine
+11-12;Dwarven ale
+13-14;Spiced ale
+15-16;King’s ale
+17-18;Trollbane ale
+19-20;Desert star wine
+21-22;Wight wine (I imagine this has a goofy undead wight on the label)
+23-24;Rice wine
+25-26;Fey wine
+27-28;Wild orchid wine
+29-30;Lotus leaf wine
+31-32;Stonesulder wine: This yellow-hued, sharp-flavored liquid is made by the sap from demon plants from the Abyss, which is then fermented in wooden barrels.
+33-34;Cactus spirits
+35-36;Fharlanghn spirits
+37-38;Swamplight spirits
+39-40;Desert lily brandy
+41-42;Berry brandy
+43-44;Goat’s milk and brandy
+45-46;Herb and mint tea with brandy
+47-48;Peach wine
+49-50;Tangerine brandy
+51-52;Fireweed whiskey
+53-54;Wanderer whiskey
+55-56;Bacon beer
+57-58;Dwarven double draft
+59-60;Scorpionweed reserve
+61-62;Corellon reserve
+63-64;Moss mead
+65-66;Lemon mead
+67-68;Honeysuckle mead
+69-70;Moradin mead
+71-72;Silvermoon mead
+73-74;Sundew mead
+75-76;Sparkling Evermead
+77-78;Glitter mead
+79-80;Willow tea
+81-82;Black tupelo tea
+83-84;Plum leaf tea
+85-86;Crowberry cider
+87-88;Apricot cider
+89-90;Plum cider
+91-92;Berry cider
+93-94;Cranberry cider
+95-96;Spiced apple cider
+97-98;Mushroom moonshine
+99-100;Fungus wine

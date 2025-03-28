@@ -1,0 +1,10 @@
+1 ; Friendly and outgoing, always eager to chat with customers.
+2 ; Mysterious and reserved, revealing little about themselves.
+3 ; Knowledgeable and wise, offering advice and insights.
+4 ; Cunning and shrewd, always looking for a good deal.
+5 ; Eccentric and quirky, with unusual habits and mannerisms.
+6 ; Generous and kind, often giving discounts or free items to those in need.
+7 ; Grumpy and gruff, but with a heart of gold.
+8 ; Charismatic and charming, able to sell anything to anyone.
+9 ; Nervous and anxious, always looking over their shoulder.
+10 ; Calm and collected, unphased by any situation.

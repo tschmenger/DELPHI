@@ -1,0 +1,10 @@
+1 ; Glows softly in the presence of danger.
+2 ; Humms a faint melody when held.
+3 ; Changes color based on the user's mood.
+4 ; Floats gently above the ground.
+5 ; Whispers ancient secrets to its owner.
+6 ; Emits a pleasant scent that calms those nearby.
+7 ; Shimmers with an otherworldly light.
+8 ; Has a mind of its own and occasionally moves on its own.
+9 ; Protects the owner from minor injuries.
+10 ; Allows the owner to understand and communicate with animals.

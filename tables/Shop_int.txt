@@ -1,0 +1,10 @@
+1 ; Dimly lit with shelves packed with dusty tomes and ancient artifacts.
+2 ; Bright and airy with neatly organized displays of potions and herbs.
+3 ; Cluttered with various trinkets and curiosities, giving it a chaotic feel.
+4 ; Elegant with polished wooden floors and glass cases showcasing valuable items.
+5 ; Cozy with a fireplace, comfortable chairs, and a warm, inviting atmosphere.
+6 ; Mysterious with dark corners, flickering candles, and a sense of the unknown.
+7 ; Industrial with workbenches, tools, and the smell of metal and oil.
+8 ; Magical with glowing orbs, floating items, and a sense of enchantment.
+9 ; Rustic with wooden beams, rough-hewn tables, and the scent of herbs.
+10 ; Eclectic with a mix of styles and items, creating a unique and interesting space.

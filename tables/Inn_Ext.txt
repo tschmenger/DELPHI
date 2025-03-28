@@ -1,0 +1,10 @@
+1;The tavern is a quaint, two-story building with a thatched roof and ivy climbing the walls.
+2;The building is made of dark, weathered wood with a large, inviting sign hanging above the door.
+3;The tavern has a stone facade with stained-glass windows that glow warmly in the evening light.
+4;The exterior is adorned with lanterns and has a wide porch where patrons can sit and enjoy the evening.
+5;The tavern is a bustling, three-story structure with balconies overlooking the street.
+6;The building is old and slightly rundown, with a faded sign and chipped paint.
+7;The tavern has a large, welcoming entrance with double doors and a carved wooden sign.
+8;The exterior is decorated with colorful banners and has a lively atmosphere, with music spilling out onto the street.
+9;The tavern is a cozy, single-story building with a chimney puffing smoke, giving it a homey feel.
+10;The building is grand and imposing, with tall pillars and an ornate entrance, suggesting a high-end establishment.

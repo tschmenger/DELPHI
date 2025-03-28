@@ -1,0 +1,11 @@
+1; <a href="https://www.fantasynamegenerators.com/dnd-human-names.php">Human</a>
+2; <a href="https://www.fantasynamegenerators.com/dnd-elf-names.php">Elf</a>
+3; <a href="https://www.fantasynamegenerators.com/dnd-half-elf-names.php">Half-Elf</a>
+4; <a href="https://www.fantasynamegenerators.com/dnd-dwarf-names.php">Dwarf</a>
+5; <a href="https://www.fantasynamegenerators.com/dnd-gnome-names.php">Gnome</a>
+6; <a href="https://www.fantasynamegenerators.com/dnd-halfling-names.php">Halfling</a>
+7; <a href="https://www.fantasynamegenerators.com/dnd-tabaxi-names.php">Tabaxi</a>
+8; <a href="https://www.fantasynamegenerators.com/dnd-orc-names.php">Orc</a>
+9; <a href="https://www.fantasynamegenerators.com/dnd-half-orc-names.php">Half-Orc</a>
+10; <a href="https://www.fantasynamegenerators.com/dnd-drow-names.php">Drow</a>
+11; <a href="https://www.fantasynamegenerators.com/dnd-tiefling-names.php">Tiefling</a>

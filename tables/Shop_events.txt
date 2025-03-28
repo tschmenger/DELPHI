@@ -1,0 +1,10 @@
+1 ; A sudden power outage plunges the shop into darkness.
+2 ; A group of thieves attempts to rob the shop.
+3 ; A magical experiment gone wrong causes chaos in the shop.
+4 ; A famous adventurer visits the shop, causing a commotion.
+5 ; A mysterious portal opens in the shop, leading to another dimension.
+6 ; A fire breaks out, threatening to destroy the shop.
+7 ; A ghostly apparition appears, seeking help.
+8 ; A rare and valuable item is discovered in the shop.
+9 ; A powerful storm hits, causing damage to the shop.
+10 ; A group of protesters gathers outside the shop, demanding change.

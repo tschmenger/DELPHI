@@ -1,0 +1,10 @@
+1 ; A hooded figure who never shows their face.
+2 ; A noble dressed in fine clothes, accompanied by guards.
+3 ; A child with a mysterious aura, seeking a specific item.
+4 ; An adventurer covered in scars and battle wounds.
+5 ; A scholar with a stack of ancient books, looking for rare ingredients.
+6 ; A bard singing tales of their adventures, seeking inspiration.
+7 ; A rogue with a sly grin, eyeing the most valuable items.
+8 ; A cleric in full religious regalia, seeking divine artifacts.
+9 ; A druid accompanied by a wild animal, looking for natural remedies.
+10 ; A ghostly apparition, visible only to the shopkeeper.

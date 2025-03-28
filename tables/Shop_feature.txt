@@ -1,0 +1,10 @@
+1 ; A hidden room accessible only by a secret passage.
+2 ; A magical ward that protects the shop from thieves.
+3 ; A talking familiar that assists customers.
+4 ; A display case with a legendary item on display (not for sale).
+5 ; A basement workshop where custom items are crafted.
+6 ; A crystal ball that shows glimpses of the future.
+7 ; A garden in the back with rare and magical plants.
+8 ; A library with ancient and valuable books.
+9 ; A training area where customers can test weapons and armor.
+10 ; A shrine dedicated to a deity, offering blessings to customers.
