@@ -1,0 +1,12 @@
+1;Crude 
+2;Standard 
+3;Fancy 
+4;Elven 
+5;Bejeweled 
+6;Draconic 
+7;Dwarven 
+8;Pretty Princess 
+9;Pirate 
+10;Woven 
+11;Creepy 
+12;Heavy Duty

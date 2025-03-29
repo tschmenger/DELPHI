@@ -1,0 +1,10 @@
+1;Trip wire 
+2;Pressure plate 
+3;Opening a door 
+4;Lifting the lid on a chest 
+5;Grabbing a certain rung of a ladder 
+6;Removing an object from it’s resting place 
+7;Touching anything in the room, including the floor 
+8;Breaking the beam of a light source 
+9;Disturbing a source of water in the room 
+10;Pulling on a suspicious looking rope hanging from the ceiling 

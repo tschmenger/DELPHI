@@ -1,0 +1,10 @@
+1;A low hum is heard 
+2;A very unnatural light begins glowing brightly from an unknown source 
+3;Any runes in the room begin glowing a bright red 
+4;The room suddenly drops drastically in temperature 
+5;The room gets uncomfortably hot 
+6;A soft hiss is heard 
+7;A fizzling sound is heard 
+8;A high pitched hum rings out 
+9;A crackling of energy is heard through the room 
+10;Silence 

@@ -1,0 +1,12 @@
+1;Iron 
+2;Steel 
+3;Brass 
+4;Silver 
+5;Gold 
+6;Bronze 
+7;Ebony 
+8;Leather 
+9;Wood 
+10;Mithril 
+11;Adamantite 
+12;Dragon Leather 

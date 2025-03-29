@@ -1,0 +1,12 @@
+1;Poison Dart 
+2;Arrow 
+3;Small explosion 
+4;Alarm 
+5;Pit trap 
+6;Boulder Trap 
+7;Heavy Blade 
+8;Spears 
+9;Water fills room 
+10;Sand fills room 
+11;Poison gas 
+12;Random Spell 

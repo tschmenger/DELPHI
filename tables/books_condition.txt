@@ -1,0 +1,10 @@
+1;Worn and tattered. 
+2;Poor. An ink stain obscures a fair amount of the pages. 
+3;Accidentally damaged. Various water damage around the edges but readable. 
+4;Vandalized. It appears that a good dozen pages have been ripped out. 
+5;Deliberately damaged. Towards the middle there is a section hollowed out. In this hiding place, you find (d6): 1. a locket; 2. a knife; 3. a small hammer; 4. a small scroll; 5. a vial of mysterious liquid; 6. a ring. 
+6;Badly damaged. A lot of the ink has run through water damage and it is nearly illegible. 
+7;Ancient. The pages crumble as they turn. 
+8;Strange. The pages are blank? 
+9;Good, but used. There are handwritten notes in the margins of the pages. 
+10;Pristine. You can smell the ink drying. 

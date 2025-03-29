@@ -1,0 +1,111 @@
+1;adventure
+2;afterlife
+3;alchemical remedies
+4;anatomy
+5;ancient
+6;ancient ruins
+7;animation
+8;anthropomancy
+9;apocalypse
+10;astronomical events
+11;ballads
+12;bawdy tunes
+13;birds
+14;comedy
+15;comets
+16;conjurings
+17;constellations
+18;corpses
+19;crystal gazing
+20;cultural
+21;dirges and laments
+22;domestic beasts
+23;drama
+24;dreams
+25;economic
+26;economics and taxation
+27;elementalism
+28;enchantment
+29;epic poetry
+30;exorcisms
+31;exotic
+32;exotic travelogue
+33;fairy tales, 3
+34;fiendish bargains
+35;fiendish bestiary
+36;fiendish realms
+37;fiendish symbols
+38;folk tales, 4
+39;forbidden
+40;foreign cultures
+41;fortresses and palaces
+42;grammar and punctuation
+43;habits
+44;handling
+45;healing herbs
+46;healing tonics
+47;herbal remedies
+48;heroic ballads
+49;history
+50;husbandry
+51;hymns
+52;illusions
+53;lichdom
+54;love ballads
+55;love poetry
+56;lyric poetry
+57;metallurgy
+58;military
+59;moon
+60;murder mystery
+61;mushrooms
+62;odes and laments
+63;oneiromancy
+64;painting
+65;palm reading
+66;poisoncraft
+67;poisonous beasts
+68;poisons
+69;political
+70;potionmaking
+71;prayers
+72;pyromancy
+73;recipes
+74;regional
+75;regional bestiary
+76;regional landmarks and terrain
+77;religious history
+78;rituals
+79;rituals and practices
+80;romance
+81;roots
+82;sacred symbols
+83;sacred texts
+84;saints and martyrs
+85;satire
+86;sculpture
+87;sketching
+88;spirits and souls
+89;stars
+90;stonemasonry
+91;strange phenomena
+92;summoning
+93;sun
+94;surgery
+95;tarot cards
+96;tea leaves
+97;teleportation and travel
+98;temples and tombs
+99;trade routes
+100;tragedy
+101;translations
+102;traveler's phrases
+103;trees
+104;undead bestiary
+105;vampirism
+106;visions
+107;warding
+108;weather
+109;wildflowers
+110;works of a celebrated poet
+111;works of a celebrated singer

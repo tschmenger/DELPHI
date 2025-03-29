@@ -1,0 +1,12 @@
+1;Artistic Scrollwork 
+2;Tree Pattern 
+3;Dwarven Runes 
+4;Elvish Script 
+5;Lion emblem 
+6;Carving of a Dragon 
+7;Decorative skull 
+8;Glowing Crystals 
+9;Mystic Sigils 
+10;Staring Eyes 
+11;Claw-like feet 
+12;Bas-relief of a battle 

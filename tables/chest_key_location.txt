@@ -1,0 +1,6 @@
+1;Hidden in same room 
+2;Plain sight 
+3;On guardian 
+4;Another room 
+5;Held by owner 
+6;Lost 

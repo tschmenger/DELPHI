@@ -53,7 +53,22 @@ document.addEventListener('DOMContentLoaded', async () => {
     const shop_secrets = await csvToTable('tables/Shop_secrets.txt');
     const shop_unusual = await csvToTable('tables/Shop_unusual.txt');
     const shop_events = await csvToTable('tables/Shop_events.txt');
+    // ######### Books
+    const booktheme = await csvToTable('tables/books.txt');
+    const bookcover = await csvToTable('tables/books_cover.txt');
+    const bookcondition = await csvToTable('tables/books_condition.txt');
+    const bookauthors = await csvToTable('tables/books_authors.txt');
+    // ######### Traps
+    const ind_trap = await csvToTable('tables/trap_indirect.txt');
+    const mech_source = await csvToTable('tables/trap_mechanical_source.txt');
+    const mech_trigger = await csvToTable('tables/trap_mechanical_triggered.txt');
+    const mechanical_trap = await csvToTable('tables/trap_mechanical.txt');
+    const arcane_source = await csvToTable('tables/trap_arcane_source.txt');
+    const arcane_trigger = await csvToTable('tables/trap_arcane_triggered.txt');
+    const arcane_trap = await csvToTable('tables/trap_arcane.txt');
+    const trap_options =  await csvToTable('tables/trap_optional.txt');
     // ######### DMG tables
+    const framingevents = await csvToTable('tables/framing_events.txt');
     const magicitemsA = await csvToTable('tables/MagicItemTableA.txt');
     const magicitemsB = await csvToTable('tables/MagicItemTableB.txt');
     const magicitemsC = await csvToTable('tables/MagicItemTableC.txt');
@@ -118,6 +133,10 @@ document.addEventListener('DOMContentLoaded', async () => {
         tavernDescription += generateNPC(false, true, true, false, false);
         tavernDescription += `<br>`;
         tavernDescription += `${randomSelect(Inn_services)}<br>`;
+        tavernDescription += `<br><strong>On the menu is</strong> `;
+        tavernDescription += `${randomSelect(foods).trim()} and<br>`;
+        tavernDescription += `${randomSelect(foods).trim()}.<br>`;
+        tavernDescription += `The speciality drink here is ${randomSelect(drinks)}.<br>`;
         tavernDescription += `<br><strong>You look around and see:</strong><br>`;
         tavernDescription += `${randomSelect(Inn_patrons)}<br>`;
         tavernDescription += `<br><strong>After staying for a while:</strong><br>`;
@@ -219,6 +238,45 @@ document.addEventListener('DOMContentLoaded', async () => {
         const DrinksLister = randomSelect(drinks);
         document.getElementById('DrinksLister').textContent = DrinksLister;
     };
+    // ####################################### Books
+    const updateBooks = () => {
+        let book_descr = "";
+        book_descr += `This book is about <strong>${randomSelect(booktheme).trim()}</strong>.`;
+        book_descr += `This book cover is <strong>${randomSelect(bookcover).trim()}</strong>`;
+        book_descr += `The book is <strong>${randomSelect(bookcondition).trim()}</strong>`;
+        book_descr += `The book is <strong>${randomSelect(bookauthors).trim()}</strong>`;
+        document.getElementById('book_descr').innerHTML = book_descr;
+    };
+    // ####################################### TRAPS
+    const updateIndirectTraps = () => {
+        const indirect_trap = `${randomSelect(ind_trap).trim()}.`;
+        document.getElementById('indirect_trap').innerHTML = indirect_trap;
+    };
+    const updateOptTraps = () => {
+        const optional_trapdescr = `${randomSelect(trap_options).trim()}.`;
+        document.getElementById('optional_trapdescr').innerHTML = optional_trapdescr;
+    };
+    const updateMechanicalTraps = () => {
+        let mechanical_trapdescr = "";
+        mechanical_trapdescr += `<strong>This trap is triggered by:</strong> ${randomSelect(mech_source).trim()}.<br>`;
+        mechanical_trapdescr += `<strong>The player notices:</strong> ${randomSelect(mech_trigger).trim()}.<br>`;
+        mechanical_trapdescr += `<strong>What happens is:</strong> ${randomSelect(mechanical_trap).trim()}.`;
+        document.getElementById('mechanical_trapdescr').innerHTML = mechanical_trapdescr;
+    };
+    const updateArcaneTraps = () => {
+        let arcane_trapdescr = "";
+        arcane_trapdescr += `<strong>This trap is triggered by:</strong> ${randomSelect(arcane_source).trim()}.<br>`;
+        arcane_trapdescr += `<strong>The player notices:</strong> ${randomSelect(arcane_trigger).trim()}.<br>`;
+        arcane_trapdescr += `<strong>What happens is:</strong> ${randomSelect(arcane_trap).trim()}.`;
+        document.getElementById('arcane_trapdescr').innerHTML = arcane_trapdescr;
+    };
+    // ####################################### Key Events
+    const updateFramingEvents = () => {
+        const key_event_Description = `${randomSelect(framingevents).trim()}`;
+        document.getElementById('key_event_Description').innerHTML = key_event_Description;
+    }
+    
+
 
     // ####################################### ####################################### #######################################
     // ####################################### ####################################### Functionality
@@ -242,7 +300,12 @@ document.addEventListener('DOMContentLoaded', async () => {
         updateMagicItemsI();
         updateFood();
         updateDrinks();
-
+        updateBooks();
+        updateIndirectTraps();
+        updateMechanicalTraps();
+        updateOptTraps();
+        updateArcaneTraps();
+        updateFramingEvents();
     };
     // ####################################### Creating clickable D20
     // Add event listeners to all d20 buttons within sections

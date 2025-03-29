@@ -1,0 +1,6 @@
+1;Padlock 
+2;Internal mechanism 
+3;Combination 
+4;Puzzle Lock 
+5;Password 
+6;Hidden lock mechanism 

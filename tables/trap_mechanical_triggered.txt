@@ -1,0 +1,10 @@
+1;Gears can be heard grinding from inside the walls 
+2;A low boom is heard that echoes out through the dungeon 
+3;A high pitched whirring can be heard 
+4;Various ticking sounds are heard 
+5;A quick release of steam followed by a bang 
+6;A low rumbling that shakes the room for a moment 
+7;A single click 
+8;The sound of chains sliding across stone 
+9;A thumping sound that starts slow and begins picking up speed 
+10;Nothing. Silence 

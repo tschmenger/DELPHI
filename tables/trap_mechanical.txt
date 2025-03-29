@@ -1,0 +1,10 @@
+1;The floor opens downward into a 40 foot pit 
+2;From unseen slits in the wall, poisoned needles fly out 
+3;A wall opens revealing a golem to ambush the party 
+4;A large log swings down from the ceiling 
+5;The parts of the dungeon begin collapsing, blocking off areas 
+6;Vents on the ceiling begin emptying noxious fumes into the room 
+7;A large blade swings horizontally across the room attempting to decapitate 
+8;The room begins filling with water after the doors slam shut 
+9;The walls slowly begin closing inwards 
+10;A large rolling boulder drops from the ceiling towards the party 

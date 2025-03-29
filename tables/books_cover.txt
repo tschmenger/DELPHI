@@ -1,0 +1,12 @@
+1;Missing. The pages are bound with string woven through holes near the spine. 
+2;Stained leather. Some sign of wear. 
+3;Wooden. The title is carved into the spine. 
+4;Paperback. 
+5;Animal hide. The fur is still on. 
+6;Stone. Iron rings hold it together. 
+7;Cast Iron. Hinges keep it bound. 
+8;Leather with gemstones embedded in it. 
+9;Leather with the title branded on it. 
+10;Leather with gilding on the spine. 
+11;Torn off. It's kept together by a leather belt. 
+12;Tree Bark. Dried vine binds it.

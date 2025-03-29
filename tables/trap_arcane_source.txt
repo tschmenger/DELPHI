@@ -1,0 +1,10 @@
+1;An arcane rune on the floor 
+2;Arcane markings around a door frame 
+3;A pillar that has a low hum to it 
+4;A jeweled eye that scans the room 
+5;Stone statue that has glowing red eyes 
+6;A mysterious green fog that rolls around the base of the room 
+7;A very dimly lit candle that could be extinguished with the faintest breath 
+8;A phrase scrawled on the wall that activates when said out loud 
+9;Failing to cast any spell on a dull crystal floating in the center of the room 
+10;Lighting a rather inviting looking torch in the center of the room 

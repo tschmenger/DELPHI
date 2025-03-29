@@ -1,0 +1,10 @@
+1;A standalone volume, the author's only published work. 
+2;A standalone volume, the author's only surviving work. 
+3;A standalone volume, written by a prolific but obscure author. 
+4;A standalone volume, written by a well-known author. 
+5;The sequel to a book by the same author. 
+6;A part of a series with 3-9 books. 
+7;A single volume of a larger work with 4-15 volumes. 
+8;An edition of a regularly published book with multiple authors. 
+9;A collection of works by the same author. 
+10;An anthology of works by several authors. 

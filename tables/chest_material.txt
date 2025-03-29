@@ -1,0 +1,12 @@
+1;Old, rotting wood 
+2;Sturdy oak 
+3;Diamondwood 
+4;Iron 
+5;Steel 
+6;Bone 
+7;Obsidian 
+8;Glass 
+9;Ice 
+10;Silver 
+11;Gold 
+12;Ebony
