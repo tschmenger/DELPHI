@@ -10,10 +10,28 @@
 <body>
 <!--  ################################### -->
     <div class="container">
-        <img src="/Logo/Raw_2.jpg" alt="Header Image" class="header-image">
+        <img src="/Logo/Raw_2.jpg" alt="Delphi" class="header-image">
         <h1>Delphi, the oracle</h1>
         <br>
         <button id="randomizeButton">Randomize All</button>
+<!-- Sidebar for Dice Rolls -->
+        <div class="sidebar" id="diceSidebar">
+            <button class="toggle-sidebar-button">
+                <i class="fas fa-dice-d20"></i> Dice Rolls
+            </button>
+            <div class="sidebar-content">
+                <button class="dice-button" data-dice="d4"><i class="fa-solid fa-dice-d4"></i></i> d4</button>
+                <button class="dice-button" data-dice="d6"><i class="fas fa-dice-d6"></i> d6</button>
+                <button class="dice-button" data-dice="d8"><i class="fas fa-dice-d8"></i> d8</button>
+                <button class="dice-button" data-dice="d10"><i class="fas fa-dice-d10"></i> d10</button>
+                <button class="dice-button" data-dice="d12"><i class="fas fa-dice-d12"></i> d12</button>
+                <button class="dice-button" data-dice="d20"><i class="fas fa-dice-d20"></i> d20</button>
+                <button class="dice-button" data-dice="d100"><i class="fas fa-dice-d100"></i> d100</button>
+                <div class="dice-result-display" id="diceResultDisplay">
+                    <!-- Dice roll results will be displayed here -->
+                </div>
+            </div>
+        </div>
 <!--  ################################### Yes/No-->
         <div class="section">
             <h2>Yes/No</h2>
@@ -218,9 +236,13 @@
 <div id="versionContainer">
     <div id="version">Version 2025/03/28</div>
 </div>
-
+<br>
+<a href="https://github.com/tschmenger" target="_blank">
+    <i class="fab fa-github"></i> GitHub
+</a>
 </div>
 <script src="JS/csv_utils.js"></script>
 <script src="JS/delphi_script.js"></script>
+<script src="JS/delphi_sidebar.js"></script>
 </body>
 </html>
