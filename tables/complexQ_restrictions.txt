@@ -1,0 +1,12 @@
+1;don't sleep for the duration
+2;cannot cast evocation spells
+3;do not commune with divinity
+4;do not harm anyone
+5;do not loot anything from the quest location/touch the quest object/speak with the quest NPC
+6;do not fight with weapons or spells
+7;do not speak of the quest or any details therein
+8;do not eat or drink for the duration
+9;do not wear footwear at the quest location
+10;won't remember anything prior to accepting the quest until after it's completed
+11;do not see in color for the duration
+12;cannot speak any language except one or more vital to completing the quest for the duration

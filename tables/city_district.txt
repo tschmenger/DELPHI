@@ -1,0 +1,20 @@
+1;Slums. 
+2;Residential district, poor. 
+3;Residential district, middle class. 
+4;Residential district, upper class. 
+5;Palace district. 
+6;Temple district. 
+7;Crafting district. 
+8;Docks district. 
+9;Riverfront district. 
+10;Harbor district. 
+11;University district. 
+12;Military district. 
+13;Market district. 
+14;Garden district. 
+15;Monument district. 
+16;Necropolis. 
+17;Theater district. 
+18;Civic center. 
+19;Ethnic enclave. 
+20;Foreign enclave. 

@@ -1,0 +1,20 @@
+1;Find and/or rescue an NPC or group.
+2;Guard an NPC or group on a journey.
+3;Defend a location from attack.
+4;Hunt down and capture a villain NPC.
+5;Locate and kill a monster.
+6;Clear a location overrun by monsters.
+7;Find and recover a stolen item.
+8;Find and recover an ancient relic (maybe even a cursed one).
+9;Locate and explore a lost civilization or location.
+10;Deliver a valuable item or important message.
+11;Investigate and solve a mystery or murder.
+12;Gather information about a secretive faction or organization.
+13;Infiltrate a secretive faction or organization.
+14;Contact or summon a deity, demigod, demon, etc.
+15;Banish a deity, demigod, demon, etc.
+16;Overthrow a dictator or tyrant.
+17;Prevent a war or battle between two factions.
+18;Survive a perilous journey or escape a perilous location.
+19;Attain the materials/resources to build or repair an import item.
+20;Travel to another plane of existence, complete a quest there, and return home.

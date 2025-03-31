@@ -1,0 +1,20 @@
+1;(d8): 1. Armory Street, 2. Barricade Street, 3. Knight Street, 4. Moat Street, 5. Pike Street, 6. Rampart Street, 7. Shield Street, 8. Spear Street. 
+2;(d8): 1. Arch Street, 2. Bridge Street, 3. Canal Street, 4. Cross Street, 5. Falls Road, 6. Ferryman Street, 7. Pole Street, 8. River Street. 
+3;(d8): 1. Castle Street, 2. House Street,3. Hovel Street, 4. Inn Street, 5. Keep Street, 6. Manor Street, 7. Rock Way, 8. Tower Street. 
+4;(d8): 1. Cattle Road, 2. Common Street, 3. Green Street, 4. Greenway Street, 5. Meadow Lane, 6. Orchard Street, 7. Pasture Road, 8. Wildflower Lane. 
+5;(d20): 1. Anvil Street, 2. Barrel Street, 3. Carpenter Street, 4. Chandler Street, 5. Cooper Street, 6. Dyer Street, 7. Forge Street, 8. Glass Street, 9. Hammer Street, 10. Horseshoe Street, 11. Iron Street, 12. Mason Street, 13. Smith Street, 14. Steel Street. 15. Tailor Street, 16. Stone Street, 17. Timber Street, 18. Wood Street, 19. Wright Street, 20. Weaver Street. 
+6;(d10): 1. Bluff Street, 2. Cliff Street, 3. Crestline Way, 4. High Street, 5. Highland Way, 6. Hill Street, 7. Hilltop Lane, 8. Ridge Street, 9. Ridgeline Way, 10. Summit Street. 
+7;(d10): 1. Crooks' Alley, 2 Devil's Alley, 3. Devil's Lane, 4. Low Street, 5. Magpie Lane, 6. Paupers Street, 7. Penny Lane, 8. Rat's Alley, 9. Serpent's Alley, 10. Shady Lane. 
+8;Market Street. 
+9;(d8): 1. Baker Street, 2. Hook Street, 3. Farm Road, 4. Feather Street, 5. Mill Street, 6. Pork Road, 7. Ranchers Road, 8. Stockyard Street. 
+10;(d8): 1. Banner Road, 2. Captains Street, 3. Drum Street, 4. March Street, 5. Parade Street, 6. Triumphant Way, 7. Trumpet Street, 8. Victory Lane. 
+11;(d8): 1. Crown Street, 2. King Street, 3. Lords Lane, 4. Monarch Street, 5. Palace Way, 6. Queens Street, 7. Royal Street, 8. State Street. 
+12;(d8): 1. Circle Street, 2. Borderline Road, 3. Brick Road, 4. Curtain Street, 5. Perimeter Street, 6. Townline Road, 7. Watch Street, 8. Wall Street. 
+13;(d8): 1. Bay Street, 2. Commerce Street, 3. Dockside Way, 4. Harbor Street, 5. Lake Street, 6. Pier Street, 7. Portside Way, 8. Water Street. 
+14;(d8): 1. Bayview Street, 2. Castleview Street, 3. Gardenview Street, 4. Greenview Street, 5. Harborview Street, 6. Marketview Street, 7. Riverview Street, 8. Waterview Street. 
+15;(d8): 1. North Road, 2. North Street, 3. South Road, 4. South Street, 5. East Road, 6. East Street, 7. West Road, 8. West Street. 
+16;(d12): 1. Beech Street, 2. Cedar Street, 3. Cherry Street, 4. Cypress Street, 5. Fir Street, 6. Maple Street, 7. Oak Street, 8. Palm Street, 9. Pine Street, 10. Spruce Street, 11. Walnut Street, 12. Willow Street. 
+17;(d8): 1. Northgate Street, 2. Southgate Street, 3. Eastgate Street, 4. Westgate Street, 5. Old Gate Road, 6. Rivergate Street, 7. Watchtower Street, 8. Watergate Street. 
+18;(d12): 1. Briar Street, 2. Bush Street, 3. Gardenia Lane, 4. Garden Street, 5. Lilac Street, 6. Lily Way, 7. Petal Street, 8. Poppy Street, 9. Rose Street, 10. Sunflower Lane, 11. Thorny Lane, 12. Violet Street. 
+19;(d8): 1. Copper Street, 2. Crystal Road, 3. Emerald Way, 4. Jewelers Lane, 5. Golden Lane, 6. Rich Way, 7. Ruby Road, 8. Silver Lane. 
+20;(d8): 1. Ancient Way, 2. Bath Street, 3. Fountain Street, 4. Old Brick Road, 5. Old Stone Road, 6. Stone Ruin Road, 7. Tumblestone Way, 8. Well Street. 

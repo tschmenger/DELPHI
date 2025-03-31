@@ -1,0 +1,8 @@
+1-4;is empty or abandoned
+5-6;is heavily guarded, expensive goods
+7-10;holds cheap goods
+11-14;holds bulk goods
+15;houses live animals
+16-17;stores weapons/armor
+18-19;stores goods from a distant land 
+20;is a secret smuggler's den

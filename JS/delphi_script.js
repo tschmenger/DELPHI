@@ -44,6 +44,8 @@ document.addEventListener('DOMContentLoaded', async () => {
     const Inn_patrons = await csvToTable('tables/Inn_patrons.txt');
     const Inn_events = await csvToTable('tables/Inn_events.txt');
     const Inn_hooks = await csvToTable('tables/Inn_hooks.txt');
+    const tavern_name_A = await csvToTable('tables/tavern_name_A.txt');
+    const tavern_name_B = await csvToTable('tables/tavern_name_B.txt');
     // ######### Shops
     const shop_exterior = await csvToTable('tables/Shop_ext.txt');
     const shop_interior = await csvToTable('tables/Shop_int.txt');
@@ -78,6 +80,41 @@ document.addEventListener('DOMContentLoaded', async () => {
     const magicitemsG = await csvToTable('tables/MagicItemTableG.txt');
     const magicitemsH = await csvToTable('tables/MagicItemTableH.txt');
     const magicitemsI = await csvToTable('tables/MagicItemTableI.txt');
+    // ######### trinkets
+    const trinket_table = await csvToTable('tables/trinkets.txt');
+    // ######### encounters
+    const urbanencounter = await csvToTable('tables/urban_encounters.txt');
+    // ######### generic buildings
+    const generic_toplevel = await csvToTable('tables/generic_building.txt'); 
+    const generic_residence = await csvToTable('tables/generic_residence.txt');
+    const generic_temple = await csvToTable('tables/generic_temple.txt');
+    const generic_warehouse = await csvToTable('tables/generic_warehouse.txt');
+    // ######### simple quests
+    const simplequests = await csvToTable('tables/simple_quests.txt');
+    // ######### cities
+    const cityculture = await csvToTable('tables/city_culture.txt');
+    const citydefense = await csvToTable('tables/city_defense.txt');
+    const citydistrict = await csvToTable('tables/city_district.txt');
+    const citygeography = await csvToTable('tables/city_geography.txt');
+    const citygovernment = await csvToTable('tables/city_government.txt');
+    const cityhistory = await csvToTable('tables/city_history.txt');
+    const citylandmark = await csvToTable('tables/city_landmark.txt');
+    const citylaw = await csvToTable('tables/city_law.txt');
+    const cityplayers = await csvToTable('tables/city_players.txt');
+    const cityresources = await csvToTable('tables/city_resources.txt');
+    const citystreetnames = await csvToTable('tables/city_streetnames.txt');
+    const citythreats = await csvToTable('tables/city_threats.txt');
+    // ####################################### ####################################### #######################################
+    const complexQappearance =  await csvToTable('tables/complexQ_appearance.txt');
+    const complexQgoal =  await csvToTable('tables/complexQ_goal.txt');
+    const complexQlocations =  await csvToTable('tables/complexQ_locations.txt');
+    const complexQloot =  await csvToTable('tables/complexQ_loot.txt');
+    const complexQnpcs =  await csvToTable('tables/complexQ_npcs.txt');
+    const complexQobjects =  await csvToTable('tables/complexQ_objects.txt');
+    const complexQrestrictions =  await csvToTable('tables/complexQ_restrictions.txt');
+    const complexQstatus =  await csvToTable('tables/complexQ_status.txt');
+    const complexQtimelimit =  await csvToTable('tables/complexQ_timelimit.txt');
+    const complexQtwists =  await csvToTable('tables/complexQ_twists.txt');
     // ####################################### Setting parameters
     /**
      * Generate a random NPC based on the specified parameters.
@@ -127,6 +164,8 @@ document.addEventListener('DOMContentLoaded', async () => {
         let tavernDescription = "";
         tavernDescription += `<br><strong>Arriving at the inn you see:</strong><br>`;
         tavernDescription += `${randomSelect(Inn_exterior)}<br>`;
+        tavernDescription += `<br><strong>A sign outside reveals the name of this inn:</strong><br>`;
+        tavernDescription += `${randomSelect(tavern_name_A)} ${randomSelect(tavern_name_B)}<br>`;
         tavernDescription += `<br><strong>You look around inside and notice:</strong><br>`;
         tavernDescription += `${randomSelect(Inn_interior)}<br>`;
         tavernDescription += `<br><strong>The bartender is a</strong> `;
@@ -146,7 +185,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         return tavernDescription.trim();
     }
     const updateInns = () => {
-        const tavernDescription = generateInns(); // Example parameters
+        const tavernDescription = generateInns(); 
         document.getElementById('tavernDescription').innerHTML  = tavernDescription;
     }
     // ####################################### Shops
@@ -170,7 +209,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         return shopDescription.trim();
     }
     const updateShops = () => {
-        const shopDescription = generateShops(); // Example parameters
+        const shopDescription = generateShops(); 
         document.getElementById('shopDescription').innerHTML  = shopDescription;
     }
     // ####################################### Magic Items Table A
@@ -274,10 +313,87 @@ document.addEventListener('DOMContentLoaded', async () => {
     const updateFramingEvents = () => {
         const key_event_Description = `${randomSelect(framingevents).trim()}`;
         document.getElementById('key_event_Description').innerHTML = key_event_Description;
-    }
+    };
+    // ####################################### Trinkets
+    const updateTrinkets = () => {
+        const trinketsdescription = `${randomSelect(trinket_table).trim()}.`;
+        document.getElementById('trinketsdescription').innerHTML = trinketsdescription;
+    }; 
+    // ####################################### Encounters
+    const updateUrbanEncounter = () => {
+        const urbanencounterDescription = `${randomSelect(urbanencounter).trim()}`;
+        document.getElementById('urbanencounterDescription').innerHTML = urbanencounterDescription;
+    }; 
+    // ####################################### Generic Buildings
+    const updateGenericBuildings = async () => {
+        const buildingType = randomSelect(generic_toplevel).trim();
+        let buildingDescription;
+
+        // Use if-else statements to determine the description based on the building type
+        if (buildingType === "Residence") {
+            genericbuildingDescription = `<strong>The residence in front of you is</strong> ${randomSelect(generic_residence)}`;
+        } else if (buildingType === "Religious") {
+            genericbuildingDescription = `<strong>The religious building in front of you is</strong> ${randomSelect(generic_temple)}`;
+        } else if (buildingType === "Tavern") {
+            genericbuildingDescription = `There is a tavern ahead. <br>${generateInns()}`;
+        } else if (buildingType === "Shop") {
+            genericbuildingDescription = `There is a shop ahead. <br>${generateShops()}`;
+        } else if (buildingType === "Warehouse") {
+            genericbuildingDescription = `<strong>The Warehouse in front of you</strong> ${randomSelect(generic_warehouse)}`;
+        } else {
+            console.error("Unknown building type:", buildingType);
+            genericbuildingDescription = "Unknown building type.";
+        }
     
+        // Update the HTML with the generated description
+        document.getElementById('genericbuildingDescription').innerHTML = genericbuildingDescription;
+    };
+    // ####################################### Simple Quests
+    const updateSimpleQuests = async () => {
+        const simpleQDescription = `${randomSelect(simplequests).trim()}`;
+        document.getElementById('simpleQDescription').innerHTML = simpleQDescription;
+    };
+    // ####################################### Complex Quests
+    const updateComplexQ = async () => {
+        let complexQDescription;
+        complexQDescription = `A ${randomSelect(complexQappearance).trim()} ${generateNPC(false, true, true, false, false).replace(/\./g, '')} ${randomSelect(complexQstatus).trim()} approaches.<br>`;
+        selectedAction = randomSelect(complexQgoal);
+        if (selectedAction.includes("(NPC)")) {
+            type = "NPC";
+            selecteddescription = randomSelect(complexQnpcs);
+        } else if (selectedAction.includes("(object)")) {
+            type = "object";
+            selecteddescription = randomSelect(complexQobjects);
+        } else if (selectedAction.includes("(location)")) {
+            type = "location";
+            selecteddescription = randomSelect(complexQlocations);
+        }
+        complexQDescription += `They ask you/the party for your aid to <strong>${selectedAction.replace(" (" + type + ")", "")}${selecteddescription.trim()}</strong>.<br>`;
+        complexQDescription += `However, <strong>${randomSelect(complexQtwists).trim()}</strong><br>`
+        complexQDescription += `They promise <strong>${randomSelect(complexQloot).trim().replace(/\./g, '')}</strong> in return for your help, but it must be done by <strong>${randomSelect(complexQtimelimit).trim()}</strong> and with <strong>${randomSelect(complexQrestrictions).trim()}</strong>.<br>`
 
+        document.getElementById('complexQDescription').innerHTML = complexQDescription;
+    }
+    // ####################################### CITIES
 
+    const updateCities = async () => {
+        let city_Description;
+        city_Description = `The city grew up around...<strong>${randomSelect(citygeography).trim()}</strong><br>`;
+        city_Description += `The city is near a region ideal for mining, growing, or grazing...<strong>${randomSelect(cityresources).trim()}</strong><br>`;
+        city_Description += `The city is known for its...<strong>${randomSelect(cityculture).trim()}</strong><br>`;
+        city_Description += `The city is ruled by...<strong>${randomSelect(citygovernment).trim()}</strong><br>`;
+        city_Description += `The city experienced...<strong>${randomSelect(cityhistory).trim()}</strong><br>`;
+        city_Description += `The people of the city are fearful of (leaders and commonfolk may fear different things)...<strong>${randomSelect(citythreats).trim()}</strong><br>`;
+        
+        city_Description += `The city is defended by...<strong>${randomSelect(citydefense).trim()}</strong><br>`;
+        city_Description += `The laws are...<strong>${randomSelect(citylaw).trim()}</strong><br>`;
+        city_Description += `Within or outside the government, power is held by...<strong>${randomSelect(cityplayers).trim()}</strong><br>`;
+        city_Description += `You see a/an...<strong>${randomSelect(citylandmark).trim()}</strong><br>`;
+        city_Description += `This part of the city is the...<strong>${randomSelect(citydistrict).trim()}</strong><br>`;
+        city_Description += `The locals call this street...<strong>${randomSubtable(randomSelect(citystreetnames).trim()).split('. ')[1]}</strong><br>`;
+        
+        document.getElementById('city_Description').innerHTML = city_Description;
+    };
     // ####################################### ####################################### #######################################
     // ####################################### ####################################### Functionality
     // ####################################### Update Everything Function
@@ -306,6 +422,12 @@ document.addEventListener('DOMContentLoaded', async () => {
         updateOptTraps();
         updateArcaneTraps();
         updateFramingEvents();
+        updateTrinkets();
+        updateUrbanEncounter();
+        updateGenericBuildings();
+        updateSimpleQuests();
+        updateComplexQ();
+        updateCities();
     };
     // ####################################### Creating clickable D20
     // Add event listeners to all d20 buttons within sections

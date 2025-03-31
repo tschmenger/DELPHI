@@ -1,0 +1,20 @@
+1;Iron ore. 
+2;Copper ore. 
+3;Gold or silver deposits. 
+4;Clay or granite deposits. 
+5;Quartz or salt deposits. 
+6;Peat or coal deposits. 
+7;Hardwood lumber. 
+8;Barley and oats. 
+9;Beans and corn. 
+10;Nuts and olives. 
+11;Rice or wheat. 
+12;Potatoes and leeks. 
+13;Sugar cane. 
+14;Tobacco. 
+15;Cotton. 
+16;Fruit trees. 
+17;Cabbages and beets. 
+18;Cattle. 
+19;Dairy cows. 
+20;Sheep. 

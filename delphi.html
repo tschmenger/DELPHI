@@ -42,26 +42,6 @@
                 </button>
             </div>
         </div>
-<!--  ################################### Foods-->
-<div class="section">
-    <h2>Foods</h2>
-    <div class="content" id="FoodsContent">
-        <p><span id="FoodsLister"></span></p>
-        <button class="d20-button section-d20-button">
-            <i class="fas fa-dice-d20"></i>
-        </button>
-    </div>
-</div>
-<!--  ################################### Drinks-->
-<div class="section">
-    <h2>Drinks</h2>
-    <div class="content" id="DrinksContent">
-        <p><span id="DrinksLister"></span></p>
-        <button class="d20-button section-d20-button">
-            <i class="fas fa-dice-d20"></i>
-        </button>
-    </div>
-</div>
 <!--  ################################### NPCs CATEGORY -->
 <div class="category">
     <h2>NPCs</h2>
@@ -103,13 +83,72 @@
                 </button>
             </div>
         </div>
+        <!--  ################################### Cities -->
+        <div class="section">
+            <h3>Cities</h3>
+            <div class="content" id="city_table">
+                <p><span id="city_Description"></span></p>
+                <button class="d20-button section-d20-button">
+                    <i class="fas fa-dice-d20"></i>
+                </button>
+            </div>
+        </div>
+    <!--  ################################### Simple Quests -->
+    <div class="section">
+        <h3>Simple quests</h3>
+        <div class="content" id="simpleQ_generator">
+            <p><span id="simpleQDescription"></span></p>
+            <button class="d20-button section-d20-button">
+                <i class="fas fa-dice-d20"></i>
+            </button>
+        </div>
+    </div>
+    <!--  ################################### Complex Quests -->
+    <div class="section">
+        <h3>Complex quests</h3>
+        <div class="content" id="complexQ_generator">
+            <p><span id="complexQDescription"></span></p>
+            <button class="d20-button section-d20-button">
+                <i class="fas fa-dice-d20"></i>
+            </button>
+        </div>
+    </div>
 
     </div>
 </div>
-<!--  ################################### PLACES CATEGORY -->
+<!--  ################################### Encounter CATEGORY -->
 <div class="category">
-    <h2>Places</h2>
+    <h2>Encounters</h2>
     <div class="category-content">
+        <!--  ################################### Urban Encounters -->
+        <div class="section">
+            <h3>Urban Encounters</h3>
+            <div class="content" id="urban_encounter_full">
+                <p><span id="urbanencounterDescription"></span></p>
+                <button class="d20-button section-d20-button">
+                    <i class="fas fa-dice-d20"></i>
+                </button>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+
+<!--  ################################### Buildings CATEGORY -->
+<div class="category">
+    <h2>Buildings</h2>
+    <div class="category-content">
+        <!--  ################################### Generic Buildings -->
+        <div class="section">
+            <h3>What building?</h3>
+            <div class="content" id="building_generator">
+                <p><span id="genericbuildingDescription"></span></p>
+                <button class="d20-button section-d20-button">
+                    <i class="fas fa-dice-d20"></i>
+                </button>
+            </div>
+        </div>
         <!--  ################################### Taverns -->
         <div class="section">
             <h3>Taverns</h3>
@@ -131,6 +170,26 @@
                 </button>
             </div>
         </div>
+    </div>
+</div>
+<!--  ################################### Foods-->
+<div class="section">
+    <h2>Foods</h2>
+    <div class="content" id="FoodsContent">
+        <p><span id="FoodsLister"></span></p>
+        <button class="d20-button section-d20-button">
+            <i class="fas fa-dice-d20"></i>
+        </button>
+    </div>
+</div>
+<!--  ################################### Drinks-->
+<div class="section">
+    <h2>Drinks</h2>
+    <div class="content" id="DrinksContent">
+        <p><span id="DrinksLister"></span></p>
+        <button class="d20-button section-d20-button">
+            <i class="fas fa-dice-d20"></i>
+        </button>
     </div>
 </div>
 <!--  ################################### TRAP CATEGORY -->
@@ -224,6 +283,16 @@
 <div class="category">
     <h2>Loot</h2>
     <div class="category-content">
+            <!--  ################################### Trinkets -->
+            <div class="section">
+                <h3>Trinkets</h3>
+                <div class="content" id="trinkets">
+                    <p><span id="trinketsdescription"></span></p>
+                    <button class="d20-button section-d20-button">
+                        <i class="fas fa-dice-d20"></i>
+                    </button>
+                </div>
+            </div>
             <!--  ################################### Magic Items Table A-->
             <div class="section">
                 <h3>Magic Items Table A</h3>
@@ -318,15 +387,15 @@
     </div>
 </div>
 <div id="versionContainer">
-    <div id="version">Version 2025/03/29</div>
+    <div id="version">Version 0.4 - 2025/03/31</div>
 </div>
 <br>
 <a href="https://github.com/tschmenger/DELPHI" target="_blank">
     <i class="fab fa-github"></i> GitHub
 </a>
 </div>
-<script src="JS/csv_utils.js"></script>
-<script src="JS/delphi_script.js"></script>
-<script src="JS/delphi_sidebar.js"></script>
+<script src="JS/csv_utils.js?v=20250331"></script>
+<script src="JS/delphi_script.js?v=20250331"></script>
+<script src="JS/delphi_sidebar.js?v=20250329"></script>
 </body>
 </html>

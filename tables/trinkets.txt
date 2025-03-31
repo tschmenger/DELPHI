@@ -1,0 +1,200 @@
+1;A mummified goblin hand
+2;A piece of crystal that faintly glows in the moonlight
+3;A gold coin minted in an unknown land
+4;A diary written in a language you don't know
+5;A brass ring that never tarnishes
+6;An old chess piece made from glass
+7;A pair of knucklebone dice, each with a skull symbol on the side that would normally show six pips
+8;A small idol depicting a nightmarish creature that gives you unsettling dreams when you sleep near it
+9;A rope necklace from which dangles four mummified elf fingers
+10;The deed for a parcel of land in a realm unknown to you
+11;A 1-ounce block made from an unknown material
+12;A small cloth doll skewered with needles
+13;A tooth from an unknown beast
+14;An enormous scale, perhaps from a dragon
+15;A bright green feather
+16;An old divination card bearing your likeness
+17;A glass orb filled with moving smoke
+18;A 1-pound egg with a bright red shell
+19;A pipe that blows bubbles
+20;A glass jar containing a weird bit of flesh floating in pickling fluid
+21;A tiny gnome-crafted music box that plays a song you dimly remember from your childhood
+22;A small wooden statuette of a smug halfling
+23;A brass orb etched with strange runes
+24;A multicolored stone disk
+25;A tiny silver icon of a raven
+26;A bag containing forty-seven humanoid teeth, one of which is rotten
+27;A shard of obsidian that always feels warm to the touch
+28;A dragon's bony talon hanging from a plain leather necklace
+29;A pair of old socks
+30;A blank book whose pages refuse to hold ink, chalk, graphite, or any other substance or marking
+31;A silver badge in the shape of a five-pointed star
+32;A knife that belonged to a relative
+33;A glass vial filled with nail clippings
+34;A rectangular metal device with two tiny metal cups on one end that throws sparks when wet
+35;A white, sequined glove sized for a human
+36;A vest with one hundred tiny pockets
+37;A small, weightless stone block
+38;A tiny sketch portrait of a goblin
+39;An empty glass vial that smells of perfume when opened
+40;A gemstone that looks like a lump of coal when examined by anyone but you
+41;A scrap of cloth from an old banner
+42;A rank insignia from a lost legionnaire
+43;A tiny silver bell without a clapper
+44;A mechanical canary inside a gnomish lamp
+45;A tiny chest carved to look like it has numerous feet on the bottom
+46;A dead sprite inside a clear glass bottle
+47;A metal can that has no opening but sounds as if it is filled with liquid, sand, spiders, or broken glass (your choice)
+48;A glass orb filled with water, in which swims a clockwork goldfish
+49;A silver spoon with an 'M' engraved on the handle
+50;A whistle made from gold-colored wood
+51;A dead scarab beetle the size of your hand
+52;Two toy soldiers, one with a missing head
+53;A small box filled with different-sized buttons
+54;A candle that can't be lit
+55;A tiny cage with no door
+56;An old key
+57;An indecipherable treasure map
+58;A hilt from a broken sword
+59;A rabbit's foot
+60;A glass eye
+61;A cameo carved in the likeness of a hideous person
+62;A silver skull the size of a coin
+63;An alabaster mask
+64;A pyramid of sticky black incense that smells very bad
+65;A nightcap that, when worn, gives you pleasant dreams
+66;A single caltrop made from bone
+67;A gold monocle frame without the lens
+68;A 1-inch cube, each side painted a different color
+69;A crystal knob from a door
+70;A small packet filled with pink dust
+71;A fragment of a beautiful song, written as musical notes on two pieces of parchment
+72;A silver teardrop earring made from a real teardrop
+73;The shell of an egg painted with scenes of human misery in disturbing detail
+74;A fan that, when unfolded, shows a sleeping cat
+75;A set of bone pipes
+76;A four-leaf clover pressed inside a book discussing manners and etiquette
+77;A sheet of parchment upon which is drawn a complex mechanical contraption
+78;An ornate scabbard that fits no blade you have found so far
+79;An invitation to a party where a murder happened
+80;A bronze pentacle with an etching of a rat's head in its center
+81;A purple handkerchief embroidered with the name of a powerful archmage
+82;Half of a floorplan for a temple, castle, or some other structure
+83;A bit of folded cloth that, when unfolded, turns into a stylish cap
+84;A receipt of deposit at a bank in a far-flung city
+85;A diary with seven missing pages
+86;An empty silver snuffbox bearing an inscription on the surface that says "dreams"
+87;An iron holy symbol devoted to an unknown god
+88;A book that tells the story of a legendary hero's rise and fall, with the last chapter missing
+89;A vial of dragon blood
+90;An ancient arrow of elven design
+91;A needle that never bends
+92;An ornate brooch of dwarven design
+93;An empty wine bottle bearing a pretty label that says, "The Wizard of Wines Winery, Red Dragon Crush, 331422-W"
+94;A mosaic tile with a multicolored, glazed surface
+95;A petrified mouse
+96;A black pirate flag adorned with a dragon's skull and crossbones
+97;A tiny mechanical crab or spider that moves about when it's not being observed
+98;A glass jar containing lard with a label that reads, "Griffon Grease"
+99;A wooden box with a ceramic bottom that holds a living worm with a head on each end of its body
+100;A metal urn containing the ashes of a hero
+101;Cookie cutter shaped like a unicorn
+102;Two yew rings linked together
+103;Silver hand mirror with a nymph-shaped handle
+104;Painted wooden key whose teeth change configuration every day at dawn
+105;Delicate silver cameo with pictures of twin children opposite one another
+106;Golden pendant charm shaped like a leprechaun
+107;Tiny wooden box containing a croquet set sized for pixies or sprites
+108;Tiny pair of sharp, iron scissors
+109;Chess piece shaped like a dancing satyr wearing a bishop's hat and clutching a gnarled staff
+110;Saltshaker shaped like a wizard's tower
+111;Crystal orb that allows an elf who holds it to sleep
+112;Pendant that shows the phases of the moon
+113;Large iron fingernail
+114;Tiny electrum whistle that only Fey can hear
+115;Wooden jigsaw puzzle piece as big as a saucer, with a painted image of a jug on it
+116;Spool of glistening silver thread
+117;Sheet of music that goblins find upsetting when they hear it played or sung
+118;Rotten ogre's tooth with the Elvish glyph for "moon" etched into it
+119;Vitrified eye of a displacer beast
+120;Tiny duskwood coffin containing the ashes of a troll
+121;Old invitation to a banquet in the Summer Court, written in ink on vellum in Sylvan
+122;Gossamer shawl that glows faintly in moonlight
+123;Ball-and-cup toy that plays a short, victorious jingle whenever the ball lands in the cup
+124;Sprite's skull covered in ink fingerprints
+125;Silver fork with the outer tines bent sideways
+126;A soot-stained sock in which a nugget of coal magically appears each day at dawn
+127;Tiny wooden stool (sized for a pixie or sprite) that gives splinters to those who hold it
+128;Tiny clockwork dragonfly that slowly beats its wings (but can't fly) when wound up
+129;Toy unicorn made of wood, painted with bright colors
+130;Pixie plushie that sings when you squeeze it
+131;1-inch-square painting of a sleeping elf
+132;Thimble that helps you daydream when worn
+133;Pumpkin cupcake that magically regenerates itself in its paper cup each day at dawn
+134;Fake Three-Dragon Ante card depicting a faerie dragon
+135;Teacup made from a varnished mushroom cap that magically keeps its liquid contents lukewarm
+136;Rock that floats and is small enough to hide in your closed fist
+137;Tiny bottle filled with rainwater collected from the Feywild
+138;Opalescent conch shell that laughs when you hold it to your ear
+139;Vial of viscous liquid labeled "Fomorian spit. Do not drink!"
+140;Wax candle that roars and crackles like a bonfire while lit
+141;Potted daffodil that sways when near a source of music
+142;8-ounce, glass wine bottle that magically reassembles itself 1 minute after being broken
+143;Tiny wooden sylph figurehead from a model ship
+144;Tiny pumpkin-shaped cauldron carved out of bog oak
+145;Bar of soap that smells like something memorable from your childhood
+146;Piece of orange parchment folded to look like a knight astride a unicorn
+147;Tinted glasses so dark that they can't be seen through
+148;8-inch-long glass ant figurine
+149;Piece of parchment bearing a child's drawing of an oni
+150;Tiny hourglass without sand in it
+151;Empty vial with corked ends at the top and bottom
+152;Pair of green leprechaun boots tied together by their laces
+153;Smoking pipe made from a tree root
+154;Red cap that droops down to one's shoulders when worn
+155;Mask that helps you remember your dreams if you wear it while you sleep
+156;Notebook that shows what's written on it only when held upside down
+157;Wooden top with four sides, each bearing the image of children enjoying a different season
+158;Tiny beehive wig made for sprites or pixies
+159;Wooden mouse figurine that squeaks when held
+160;Stuffed oni doll with a creepy smile and one missing eye
+161;Empty bag labeled "Candy"
+162;Tinted glass monocle that makes things look green
+163;Black executioner's hood sized for a pixie or sprite
+164;Piano key carved from a satyr's horn
+165;Tiny wooden lute with cat hairs for strings
+166;Iron needle with an eye that refuses to let thread pass through it
+167;Tiny sundial that casts a shadow only in moonlight
+168;Wooden pan flute that attracts harmless local fauna when played
+169;Silvered pinecone
+170;Flask of spectral glowworms that change color to reflect the mood of the flask's holder
+171;Wooden apple painted blue
+172;Tuning fork that sounds the tone for the F key
+173;Nunchaku sized for a pixie or sprite
+174;Copper coin with a smiling satyr's face on one side and a satyr's skull on the other
+175;Severed chicken's foot attached to a leather cord
+176;Collection of baby teeth in a tiny wooden box
+177;Pinwheel whirligig that spins even when there's no wind
+178;Child's parasol covered in moss and leaves
+179;Wooden magnifying glass missing its lens
+180;Glossy mushroom with a red, bell-shaped cap that jingles when shook
+181;Pouch of seeds that smell like home
+182;Petrified robin's egg
+183;Wooden spoon with a hole in the center
+184;Paper wasp nest in a jar
+185;Sprig of rosemary wrapped with ribbon at one end
+186;Tiny, unfurnished dollhouse sized for a pixie child
+187;Paintbrush made entirely of ceramic-even the bristles
+188;Candlestick whose candlelight looks like a tiny, dancing fairy made of fire
+189;Spectacle frames in the shape of butterfly wings
+190;Set of false wooden teeth
+191;Tiny book of fairytales
+192;Rucksack in which one potato magically appears each day at dawn
+193;Pixie's winter jacket lined with fox fur
+194;Tasseled wine charm shaped like a sprite
+195;Weak magnetic wand
+196;100-sided die the size of a plum, cut from coal
+197;Glass slipper, missing its mate
+198;Tiny dreamcatcher
+199;Barbell sized for a pixie or sprite
+200;Music box that plays a sprightly tune you remember from your childhood

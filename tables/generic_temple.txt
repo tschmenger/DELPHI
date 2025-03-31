@@ -1,0 +1,6 @@
+1-10;a temple to a good or neutral deity
+11-12;a temple to a false deity (run by charlatan priests) 
+13;a home of ascetics
+14-15;an abandoned shrine
+16-17;a library dedicated to religious study
+18-20;a hidden shrine to a fiend or an evil deity

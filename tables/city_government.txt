@@ -1,0 +1,10 @@
+1;The head of a noble family. 
+2;A council of distinguished nobles. 
+3;A council of wealthy merchants. 
+4;A council of elected officials. 
+5;An elected mayor. 
+6;A benevolent sovereign. 
+7;A wicked tyrant. 
+8;A brutal warlord. 
+9;A cabal of witches and wizards. 
+10;The leaders of a religious order. 

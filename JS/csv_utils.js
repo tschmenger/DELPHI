@@ -27,7 +27,7 @@ async function csvToTable(path) {
     });
 
     // Debug: Log the constructed table
-    // console.log("Constructed Table:", table);
+    console.log("Constructed Table:", table);
 
     return table;
 }
@@ -37,6 +37,7 @@ async function csvToTable(path) {
  * @param {Array} table - The table of objects with weights and values.
  * @returns {string} - The randomly selected value.
  */
+
 function randomSelect(table) {
     const totalWeight = table.reduce((sum, item) => sum + item.weight, 0);
 
@@ -54,4 +55,31 @@ function randomSelect(table) {
         upto += item.weight;
     }
     return null; // In case of any error
+}
+
+// Function to roll a dice for subtables
+function randomSubtable(line) {
+// Use regex to extract the dice part (e.g., d8) if needed.
+const diceMatch = line.match(/\(d(\d+)\)/);
+if (!diceMatch) {
+    console.warn("No dice roll found; returning full line.");
+    return line;
+}
+const diceCount = parseInt(diceMatch[1], 10);
+const colonIndex = line.indexOf('):');
+if (colonIndex === -1) {
+    console.error("Could not find the expected colon separator in the line.");
+    return line;
+}
+// Extract the substring after the "):" marker.
+const itemsStr = line.substring(colonIndex + 2).trim();
+// Split the string by commas
+const items = itemsStr.split(/\s*,\s*/);
+// Check if the number of items matches the expected dice count (optional).
+if (items.length !== diceCount) {
+    console.warn(`Expected ${diceCount} items but found ${items.length}. Using available items.`);
+}
+// Randomly select one
+const randomIndex = Math.floor(Math.random() * items.length);
+return items[randomIndex].trim();
 }

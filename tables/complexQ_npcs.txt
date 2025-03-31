@@ -1,0 +1,25 @@
+01-04;kidnapped child 
+05-08;unique enemy
+09-12;special beast 
+13-16;missing maiden
+17-20;wandering priest
+21-24;injured unicorn
+25-28;herd of beasts
+29-32;bard whose songs come true
+33-36;ancient dragon (roll 1d10 for color:) 01–silver 02-gold 03-bronze 04-brass 05-copper 06-black 07-red 08-blue 09-green 10-white 
+37-40;orc raiding party
+41-44;trade carvan
+45-48;unborn child
+49-52;royal family member (roll 1d6:) 01-king 02-queen 03- prince 04-princess 05-look-alike (roll again; ignore repeats) 06-former (roll again; ignore repeats) 
+53-56;lost flock
+57-60;rabid beasts
+63-64;demonic infiltrator
+65-68;escaped convict
+69-72;sick villager(s)
+73-76;evil baron
+77-80;suspected vampire clan
+81-84;plague rats
+85-88;quest-giver's sibling/cousin/grandparent/etc
+89-92;undead scourge (minimum 40)
+93-96;fallen angel
+97-100;ghost of a member of a royal family

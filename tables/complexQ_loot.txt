@@ -1,0 +1,50 @@
+01-02;A jeweled goblet worth 5d10x10gp.
+03-04;A set of cursed rings (1 per party member) that make them unable to understand one another and cannot be removed. Remove curse ends effect.
+05-06;The firstborn of the quest giver.
+07-08;Exposure. (No, really.)
+09-10;Noble titles.
+11-12;A series of puzzle cubes (varying wealth). 
+13-14;Anything the party asks for.
+15-16;"Riches beyond imagining!" (50/50 chance the quest-giver can actually deliver on this.)
+17-18;A mansion.
+19-20;Divine favor.
+21-22;3d10 gems worth 10gp apiece. One is cursed; 50% chance the quest-giver knew this.
+23-24;A portrait of each party member, painted by an aspiring artist (they were not told about this exchange).
+25-26;Free rooms and meals at the local inn for 1d10 days.
+27-28;A crisp high-five.
+29-30;A "good word" with local authorities.
+31-32;Exoneration for the party/an NPC of their choice.
+33-34;A priceless tome (allegedly).
+35-36;Membership into a guild or gang.
+37-38;An I.O.U. from the quest-giver.
+39-40;+1 weapons for each party member.
+41-42;A private show by a professional dancer.
+43-44;Noble clothing (50gp) for each party member.
+45-46;6d6 trinkets from the Trinkets table.
+47-48;A string of pearls worth 5d10x10gp.
+49-50;A wizard's spellbook containing 3 cantrips, 2 1st- level spells, and 1 2nd-second level spell.
+51-52;A pet wolf cub. And its fleas.
+53-54;A "magic carpet" (nonmagical).
+55-56;The finest meal the party has ever had.
+57-58;A ship in the docks.
+59-60;Handmade scarves.
+61-62;Relics supposedly belonging to an angel...or a demon.
+63-64;A castle (small size).
+65-66;3 bottles of perfume (10gp each).
+67-68;A single horse.
+69-70;Toys made by the ghost of a deceased girl.
+71-72;Training by a royal knight.
+73-74;A candle that neither goes out nor loses wax as it burns.
+75-76;A kitten recently weaned off its mother. It is a common housecat.
+77-78;A pouch containing 4d4cp, 2d4sp, and 1 gp. 
+79-80;A set of tools for each party member, chosen by them.
+81-82;A free tour of a museum, castle, ship, or other location of interest.
+83-84;Poetry written by the quest giver summarizing their view of the event.
+85-86;2d4 spare musical instruments (at least one per party member).
+87-88;Bolts of cloth worth 10d10 gp.
+89-90;A small statue of the quest giver's deceased childhood pet.
+91-92;An um allegedly containing the ashes of one of the party member's relations.
+93-94;A life debt by the quest-giver.
+95-96;A "sentient" box that "speaks when opened". Unfortunately, it's also "deathly shy". Identify reveals it's a nonmagical box.
+97-98;A set of loaded dice and/or cheat decks for all party members.
+99-100;Hats.  3d8 of them. And none of them look good on the party members.

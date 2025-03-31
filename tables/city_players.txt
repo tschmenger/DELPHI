@@ -1,0 +1,20 @@
+1;A ruthless assassins’ guild. 
+2;A populist demagogue. 
+3;The captain of a mercenary company. 
+4;A champion knight or arena fighter. 
+5;One or more crafting guilds. 
+6;A dangerous crime boss. 
+7;One or more criminal gangs. 
+8;A charismatic cult leader. 
+9;One or more merchant guilds. 
+10;A scheming noble lord or lady. 
+11;An outspoken philosopher or scholar. 
+12;A celebrated poet and playwright. 
+13;A popular priest or priestess. 
+14;A secret society of lorekeepers. 
+15;Smugglers and black market dealers. 
+16;The son or daughter of a deposed ruler. 
+17;A wealthy trader of exotic goods. 
+18;A conniving vampire or fiend. 
+19;A bold war hero. 
+20;A clever witch or wizard. 

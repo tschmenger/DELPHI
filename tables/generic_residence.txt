@@ -1,0 +1,8 @@
+1-2;some abandoned squat
+3-8;a middle-class home
+9-10;an upper-class home
+11-15;a crowded tenement
+16-17;an orphanage
+18;a hidden slavers' den
+19;a front for a secret cult
+20;a lavish, guarded mansion

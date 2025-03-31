@@ -1,0 +1,20 @@
+1;Mass conversions. 
+2;An earthquake. 
+3;An age of exploration. 
+4;A terrible famine. 
+5;A disastrous flood. 
+6;A legendary storm. 
+7;An assassination. 
+8;A series of riots. 
+9;A great discovery. 
+10;A vermin infestation. 
+11;A destructive fire. 
+12;A deadly plague. 
+13;A bloody rebellion. 
+14;A lengthy siege. 
+15;Religious wars. 
+16;Territorial wars. 
+17;A foreign occupation. 
+18;An economic boom. 
+19;A great depression. 
+20;A dragon attack. 

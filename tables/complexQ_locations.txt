@@ -1,0 +1,25 @@
+01-04;fairy ring in a forest
+05-08;long-lost city
+09-12;corrupted pond
+13-16;burial chamber
+17-20;guarded vault
+21-24;crumbling tower
+25-28;abandoned farm
+29-32;forest glade
+33-36;underwater palace
+37-40;vampire den
+41-44;decrepit windmill
+45-48;witch's hut
+49-52;labyrinthine caverns
+53-56;paradise-like demiplane
+57-60;wizard's tower
+61-64;house of mirrors
+65-68;gigantic bird's cage
+69-72;recently-discovered island
+73-76;abandoned prison
+77-80;haunted mansion
+81-84;dwarven city
+85-88;enchanted library
+89-92;ghost ship
+93-96;noblewoman's chambers
+97-100;tallest mountainpeak

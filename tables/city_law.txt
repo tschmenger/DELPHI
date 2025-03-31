@@ -1,0 +1,12 @@
+1;Enforced by a strict, orderly city watch. 
+2;Enforced by a corrupt, roguish city watch. 
+3;Not enforced among the wealthy elite. 
+4;Enforced in a haphazard fashion, incomprehensible to visitors. 
+5;Not enforced for those who pay bribes. 
+6;More like guidelines. 
+7;Enforced by a secret society of assassins, mages, or priests. 
+8;Enforced by a company of mercenaries. 
+9;Simple, easy to learn and to follow. 
+10;Extensive and complicated, nonsensical. 
+11;Enforced by a cheerful drunken sheriff. 
+12;Enforced by a rigid soldier-turned-sheriff.

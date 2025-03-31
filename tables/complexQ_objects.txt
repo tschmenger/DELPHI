@@ -1,0 +1,25 @@
+01-04;broken blade 
+05-08;priceless artifact 
+09-12;token of evil
+13-16;ancient goblet
+17-20;lost crown
+21-24;vital message
+25-28;cursed bottle
+29-32;special gem 
+33-36;jester's scepter
+37-40;priceless painting
+41-44;sentient mace
+45-48;lost tools 
+49-52;royal tapestry  
+53-56;ancient turtle shell 
+57-60;angelic scroll
+61-64;valuable pendant
+65-68;broken toy
+69-72;stolen treasures
+73-76;cursed dress
+77-80;ancient tome
+81-84;sacred bones
+85-88;mundane oil lamp
+89-92;gilded bracers
+93-96;bizarre writings
+97-100;lock of angel hair

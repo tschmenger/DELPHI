@@ -1,0 +1,20 @@
+1;Academy or university. 
+2;Ancient ruin. 
+3;Arena. 
+4;Cemetery. 
+5;Civic hall, council hall, or guild hall. 
+6;Common or greenway. 
+7;Fortress. 
+8;Gateway or arch. 
+9;Library. 
+10;Lighthouse or watchtower. 
+11;Marketplace. 
+12;Memorial (d4): 1. mausoleum; 2. reflecting pool; 3. large statue; 4. botanical garden. 
+13;Monument (d6): 1. colossus; 2. column; 3. obelisk; 4. plaque; 5. statue garden; 6. wall. 
+14;Palace. 
+15;Parade grounds or drilling yard. 
+16;Pier, marina, or traveler's bazaar. 
+17;Plaza or public square. 
+18;Temple. 
+19;Theater. 
+20;Stockyards. 

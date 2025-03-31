@@ -1,0 +1,10 @@
+1;A disciplined military guard. 
+2;A standing army of devoted soldiers. 
+3;A company of sellswords and knaves. 
+4;An order of holy knights. 
+5;Little; the city’s been sacked many times. 
+6;A huge, fortress or citadel within the city. 
+7;A series of watchtowers and forts spread throughout the region. 
+8;Thick stone walls and impenetrable gates. 
+9;High stone walls, catapults, and scorpions. 
+10;A powerful magical ward or gigantic golem. 

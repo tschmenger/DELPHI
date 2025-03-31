@@ -1,0 +1,20 @@
+1;Architectural style. 
+2;Architectural feats. 
+3;Artists and poets. 
+4;Inventive cuisine. 
+5;Traditional cuisine. 
+6;Suggestive dancing. 
+7;Gladiatorial games. 
+8;Horse races. 
+9;Scholars and sages. 
+10;Music and/or dance. 
+11;Romance. 
+12;Jousting games. 
+13;Superior soldiers. 
+14;Street festivals. 
+15;Religious feasts. 
+16;Religious fervor. 
+17;Traditional dress. 
+18;Unusual dress. 
+19;Theater scene. 
+20;Wine and/or ale. 

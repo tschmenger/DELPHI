@@ -1,0 +1,49 @@
+01-02;It's all a dream. (Possibly including the reward.) 
+03-04;The quest was also given to numerous other parties.
+05-06;The party members can all breathe water for the duration.
+07-08;The quest giver is not who they pretend to be (roll again on quest-giver chart, or choose something fitting for the adventure).
+09-10;An immortal, flightless, likely cursed duck keeps appearing before the party, no matter how they try to get rid of it.
+11-12;The quest giver doesn't actually have a way of repaying the party (the reward is a lie).
+13-14;The quest location is incorrect (party was sent west when they needed to go east, etc).
+15-16;Nothing nefarious is actually afoot. The quest giver misinterpreted the situation.
+17-18;An angel is watching the party closely, most likely in disguise.
+19-20;A dragon is also involved in this quest and doesn't like the party.
+21-22;The party is unknowingly in a time loop.
+23-24;All magic weapons and objects cease functioning as soon as the party accepts the quest.
+25-26;A former enemy of one of the party members is hunting them.
+27-28;Every time the objective is viewed, its colors or shape change.
+29-30;An imp is secretly behind it all.
+31-32;At the quest location, water flows upwards.
+33-34;All doors at the quest location lead to the same room.
+35-36;A riddlemaster guards the objective.
+37-38;The quest location is freezing regardless of what the party does to warm it.
+39-40;Eerily lifelike dolls of the party members begin appearing as the quest progresses. Over time, they gradually change, features twisting or damage occuring where the PCs were injured.
+41-42;All NPCs identify the quest giver as deceased. 43-44 The quest objective turns out to be a portal to another plane.
+45-46;A pair of animated sandals follows the party throughout the quest.
+47-48;Disembodied voices warn the party to abandon the quest
+49-50;Magic suffuses the quest location, making Detect Magic useless.
+51-52;The quest location is currently being used as a gambling den.
+53-54;Goblins reach the quest objective before the party.
+55-56;For the duration of the quest, all coins flipped land on their edges, even if caught in a hand.
+57-58;All creatures at the quest location are plagued and maddened, humanoid or otherwise.
+59-60;All blood shed at the quest location is violet. 
+61-62;Light sources at the quest location are ultraviolet regardless of the time of day.
+63-64;The quest objective can't be reached by walking. 
+65-66;A series of puzzles tailored to each party member bars the way to the objective....as if they were expected by someone…
+67-68;The party are magically separated somewhere along the way.
+69-70;Giants guard the objective.
+71-72;An angel and a demon are fighting over the objective when the party arrive.
+73-74;NPCs asked about the quest refuse to speak of it. 
+75-76;The party members are cursed, one by one, as the quest progresses.
+77-78;A fairy invisibly follows the party, randomly casting Guidance on them.
+79-80;A witch sends her fox familiar to befriend the party.
+81-82;Plants at the quest location telepathically scream in horror nonstop. The party can hear them.
+83-84;Bones of an unidentifiable creature are found at the quest location.
+85-86;A wealthy nobleman repeatedly sends assassins to kill the party.
+87-88;A party member dreams that a god of nature warns them to abandon the quest.
+89-90;A ghost repeatedly tries to possess a party member.
+91-92;All infernal beings are Enlarged at the quest location.
+93-94;A Teleportation Circle is found at the quest location. It leads to the Shadowfell.
+95-96;The moon appears blue at the quest location and there are no stars in the sky.
+97-98;All beasts are silent and motionless at the quest location.
+99-100;The party is constantly hungry during the quest, regardless of how much they eat.

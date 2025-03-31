@@ -1,0 +1,10 @@
+1;A coastal harbor. 
+2;A calm, coastal bay. 
+3;A large freshwater lake. 
+4;A wide, navigable river. 
+5;A river navigable by small craft. 
+6;The mouth of a river or a river delta. 
+7;The confluence of two rivers. 
+8;A series of natural springs. 
+9;A well-traveled crossroads. 
+10;A water source and a well-traveled road. 

@@ -1,0 +1,36 @@
+01-03;2d6 days passes, before sunset
+04-06;2d6 days passes, before sunrise
+07-09;an execution is carried out
+10-11;a royal ball
+12-14;a civil war starts
+15-17;a lunar eclipse
+18-20;a solar eclipse
+21-22;the next full moon
+23-25;the next new moon
+26-28;twilight, today
+29-31;an ancient evil is released
+32-33;an angel is slain 
+34-36;the plague spreads
+37-39;a prophecy comes to pass
+40-42;the next child is born
+43-44;a truce is reached
+45-47;a structure is completed
+48-50;a caravan arrives
+51-53;a carnival departs
+54-55;a noble's wedding
+56-58;the dragon wakes
+59-61;a wizard's funeral
+62-64;the next rainfall
+65-66;the changing of the seasons
+67-69;the next holiday
+70-72;a two-tailed comet is seen in the night sky
+73-75;a sacred animal gives birth
+76-77;the drought ends
+78-80;a hurricane reaches the shore
+81-83;a ship departs
+84-86;a baker completes their masterpiece
+87-88;a temporarily exorcised spirit returns
+89-91;the portal opens
+92-94;the waves wash away the evidence
+95-97;the sun reaches an ominous position in the sky
+98-100;the moon shatters

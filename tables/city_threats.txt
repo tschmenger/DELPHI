@@ -1,0 +1,12 @@
+1;Bandits and outlaws. 
+2;Barbarian invasions. 
+3;Disease outbreaks. 
+4;A dragon or legendary beast. 
+5;Destructive flooding. 
+6;Food shortages. 
+7;Occupation by a foreign empire. 
+8;The wrath of a vengeful god. 
+9;Magic and new inventions. 
+10;Pirates, smugglers, and bands of thieves. 
+11;A recently established religion. 
+12;A rival city. 
