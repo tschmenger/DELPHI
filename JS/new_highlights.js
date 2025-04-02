@@ -4,7 +4,9 @@ function applyNewHighlights() {
     // - selector: "h2" or "h3" (depending on your element type)
     // - text: a substring that should appear in the header's textContent
     const newHighlights = {
-    //   yesno: { selector: 'h2', text: 'Yes/No' },
+      toolkit: { selector: 'h2', text: 'DM Tools' },
+      immersion: { selector: 'h3', text: 'Immersion' },
+    // yesno: { selector: 'h3', text: 'Yes/No' },
     //   npcs_category: { selector: 'h2', text: 'NPCs' },
     //   simple_npc_moods: { selector: 'h3', text: 'Simple NPC moods' },
     //   npcs_section: { selector: 'h3', text: 'NPCs' },
@@ -26,12 +28,16 @@ function applyNewHighlights() {
     //   trap_options: { selector: 'h3', text: 'Trap Options' },
     //   mechanical_traps: { selector: 'h3', text: 'Mechanical Traps' },
     //   arcane_traps: { selector: 'h3', text: 'Arcane Traps' },
-    //   items: { selector: 'h2', text: 'Items' },
+      items: { selector: 'h2', text: 'Items' },
     //   item_quirks: { selector: 'h3', text: 'Item Quirks' },
     //   mild_magic_effects: { selector: 'h3', text: 'Mild magic effects on the player' },
-    //   books: { selector: 'h3', text: 'Books' },
+      books: { selector: 'h3', text: 'Books' },
       loot: { selector: 'h2', text: 'Loot' },
-      trinkets: { selector: 'h3', text: 'Trinkets' }
+      trinkets: { selector: 'h3', text: 'Trinkets' },
+      hoard_04: {selector: 'h3', text: 'Treasure Hoard Challenge Rating 0-4'},
+      hoard_510: {selector: 'h3', text: 'Treasure Hoard Challenge Rating 5-10'},
+      hoard_1116: {selector: 'h3', text: 'Treasure Hoard Challenge Rating 11-16'},
+      hoard_17: {selector: 'h3', text: 'Treasure Hoard Challenge Rating 17+'}
     //   magic_items_a: { selector: 'h3', text: 'Magic Items Table A' },
     //   magic_items_b: { selector: 'h3', text: 'Magic Items Table B' },
     //   magic_items_c: { selector: 'h3', text: 'Magic Items Table C' },

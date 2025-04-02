@@ -5,7 +5,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Delphi - the D&D Randomizer</title>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-      <link rel="stylesheet" href="CSS/delphi_styles.css">
+      <link rel="stylesheet" href="CSS/delphi_styles.css?v20250331">
   </head>
 <body>
 <!--  ################################### -->
@@ -32,16 +32,32 @@
                 </div>
             </div>
         </div>
-<!--  ################################### Yes/No-->
-        <div class="section">
-            <h2>Yes/No</h2>
-            <div class="content" id="yesNoContent">
-                <p>Answer: <span id="yesNoAnswer"></span></p>
-                <button class="d20-button section-d20-button">
-                    <i class="fas fa-dice-d20"></i>
-                </button>
+<!--  ################################### DM Toolkit -->
+<div class="category">
+    <h2>DM Tools</h2>
+    <div class="category-content">
+    <!--  ################################### Yes/No-->
+            <div class="section">
+                <h3>Yes/No</h3>
+                <div class="content" id="yesNoContent">
+                    <p>Answer: <span id="yesNoAnswer"></span></p>
+                    <button class="d20-button section-d20-button">
+                        <i class="fas fa-dice-d20"></i>
+                    </button>
+                </div>
             </div>
+    <!--  ################################### Immersion-->
+    <div class="section">
+        <h3>Immersion</h3>
+        <div class="content" id="immersiveContent">
+            <p><span id="immersivedescription"></span></p>
+            <button class="d20-button section-d20-button">
+                <i class="fas fa-dice-d20"></i>
+            </button>
         </div>
+    </div>
+    </div>
+</div>
 <!--  ################################### NPCs CATEGORY -->
 <div class="category">
     <h2>NPCs</h2>
@@ -293,6 +309,53 @@
                     </button>
                 </div>
             </div>
+            <!--  ################################### Random Loot Treasure Hoard 0-4 -->
+            <div class="section">
+                <h3>Treasure Hoard Challenge Rating 0-4</h3>
+                <div class="content" id="treasureh04">
+                    <p><span id="treasurehoard04description"></span></p>
+                    <button class="d20-button section-d20-button">
+                        <i class="fas fa-dice-d20"></i>
+                    </button>
+                </div>
+            </div>
+            <!--  ################################### Random Loot Treasure Hoard 5-10 -->
+            <div class="section">
+                <h3>Treasure Hoard Challenge Rating 5-10</h3>
+                <div class="content" id="treasureh510">
+                    <p><span id="treasurehoard510description"></span></p>
+                    <button class="d20-button section-d20-button">
+                        <i class="fas fa-dice-d20"></i>
+                    </button>
+                </div>
+            </div>
+            <!--  ################################### Random Loot Treasure Hoard 11-16 -->
+            <div class="section">
+                <h3>Treasure Hoard Challenge Rating 11-16</h3>
+                <div class="content" id="treasureh1116">
+                    <p><span id="treasurehoard1116description"></span></p>
+                    <button class="d20-button section-d20-button">
+                        <i class="fas fa-dice-d20"></i>
+                    </button>
+                </div>
+            </div>
+            <!--  ################################### Random Loot Treasure Hoard 17+ -->
+            <div class="section">
+                <h3>Treasure Hoard Challenge Rating 17+</h3>
+                <div class="content" id="treasureh17">
+                    <p><span id="treasurehoard17description"></span></p>
+                    <button class="d20-button section-d20-button">
+                        <i class="fas fa-dice-d20"></i>
+                    </button>
+                </div>
+            </div>
+
+    </div>
+</div>
+<!--  ################################### Magic Items Tables A-I -->
+<div class="category">
+    <h2>Magic Items Tables A-I</h2>
+    <div class="category-content">
             <!--  ################################### Magic Items Table A-->
             <div class="section">
                 <h3>Magic Items Table A</h3>
@@ -387,7 +450,7 @@
     </div>
 </div>
 <div id="versionContainer">
-    <div id="version">Version 0.4 - 2025/03/31</div>
+    <div id="version">Version 0.6 - 2025/04/02</div>
 </div>
 <br>
 <a href="https://github.com/tschmenger/DELPHI" target="_blank">
@@ -395,8 +458,9 @@
 </a>
 </div>
 <script src="JS/csv_utils.js?v=20250331"></script>
-<script src="JS/delphi_script.js?v=20250331"></script>
+<script src="JS/delphi_script.js?v=20250401"></script>
 <script src="JS/delphi_sidebar.js?v=20250329"></script>
-<script src="JS/new_highlights.js?v=20250331"></script>
+<script src="JS/new_highlights.js?v=20250402"></script>
+<script src="JS/advanced_utils.js?v=20250401"></script>
 </body>
 </html>

@@ -1,0 +1,6 @@
+1; Smell - Location (moss, decay, rust, damp, food, incense) or personal (blood, body odour).
+2; Sound - Location (splashes, creaking, barking) or action (swords clashing, heavy breathing).
+3;Sight - Distinctive or unusual visible feature of environment, NPC or enemy.
+4;Skin - Touching wood, stone, metal etc. Rain, sweat, blood on face, cobwebs in hair. 
+5;Social - Speech, facial expression, or emote from from you, sidekick, NPC or enemy.
+6;Sense - Sixth, temperature, atmosphere, memory, mood, emotion.

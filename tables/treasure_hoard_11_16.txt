@@ -1,0 +1,33 @@
+01–03;–,–
+04–06;2d4 (5) 250 gp art objects,–
+07–10;2d4 (5) 750 gp art objects,–
+11–12;3d6 (10) 500 gp gems,–
+13–15;3d6 (10) 1000 gp gems,–
+16–19;2d4 (5) 250 gp art objects,Roll 1d4 times on magicitemsA and 1d6 times on magicitemsB
+20–23;2d4 (5) 750 gp art objects,Roll 1d4 times on magicitemsA and 1d6 times on magicitemsB
+24–26;3d6 (10) 500 gp gems,Roll 1d4 times on magicitemsA and 1d6 times on magicitemsB
+27–29;3d6 (10) 1000 gp gems,Roll 1d4 times on magicitemsA and 1d6 times on magicitemsB
+30–35;2d4 (5) 250 gp art objects,Roll 1d6 times on magicitemsC
+36–40;2d4 (5) 750 gp art objects,Roll 1d6 times on magicitemsC
+41–45;3d6 (10) 500 gp gems,Roll 1d6 times on magicitemsC 
+46–50;3d6 (10) 1000 gp gems,Roll 1d6 times on magicitemsC
+51–54;2d4 (5) 250 gp art objects,Roll 1d4 times on magicitemsD
+55–58;2d4 (5) 750 gp art objects,Roll 1d4 times on magicitemsD
+59–62;3d6 (10) 500 gp gems,Roll 1d4 times on magicitemsD
+63–66;3d6 (10) 1000 gp gems,Roll 1d4 times on magicitemsD
+67–68;2d4 (5) 250 gp art objects,Roll 1d1 times on magicitemsE
+69–70;2d4 (5) 750 gp art objects,Roll 1d1 times on magicitemsE
+71–72;3d6 (10) 500 gp gems,Roll 1d1 times on magicitemsE
+73–74;3d6 (10) 1000 gp gems,Roll 1d1 times on magicitemsE
+75–76;2d4 (5) 250 gp art objects,Roll 1d1 times on magicitemsF and 1d4 times on magicitemsG
+77–78;2d4 (5) 750 gp art objects,Roll 1d1 times on magicitemsF and 1d4 times on magicitemsG
+79–80;3d6 (10) 500 gp gems,Roll 1d1 times on magicitemsF and 1d4 times on magicitemsG
+81–82;3d6 (10) 1000 gp gems,Roll 1d1 times on magicitemsF and 1d4 times on magicitemsG
+83–85;2d4 (5) 250 gp art objects,Roll1d4 times on magicitemsH
+86–88;2d4 (5) 750 gp art objects,Roll 1d4 times on magicitemsH
+89–90;3d6 (10) 500 gp gems,Roll 1d4 times on magicitemsH
+91–92;3d6 (10) 1000 gp gems,Roll 1d4 times on magicitemsH
+93–94;2d4 (5) 250 gp art objects,Roll 1d1 times on magicitemsI
+95–96;3d6 (10) 500 gp gems,Roll 1d1 times on magicitemsI
+97–98;3d6 (10) 1000 gp gems,Roll 1d1 times on magicitemsI
+99–100;3d6 (10) 1000 gp gems,Roll 1d1 times on magicitemsI

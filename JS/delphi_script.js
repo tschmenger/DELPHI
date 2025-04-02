@@ -21,8 +21,10 @@ document.addEventListener('DOMContentLoaded', async () => {
         // };
     // ####################################### ####################################### #######################################
     // ####################################### Loading tables
+    // ####################################### DM Tools
     // ######### YesNo with impro
     const yesNoTable = await csvToTable('tables/YesNo.csv');
+    const immersivetable = await csvToTable('tables/DMtoolkit_immersion.txt');
     // ######### several minor things
     const mildeffects = await csvToTable('tables/MildMagicEffects.txt');
     const quirkyitems = await csvToTable('tables/items_quirks.txt');
@@ -80,6 +82,11 @@ document.addEventListener('DOMContentLoaded', async () => {
     const magicitemsG = await csvToTable('tables/MagicItemTableG.txt');
     const magicitemsH = await csvToTable('tables/MagicItemTableH.txt');
     const magicitemsI = await csvToTable('tables/MagicItemTableI.txt');
+    // #########
+    const treasurehoard04 = await csvToTable('tables/treasure_hoard_0_4.txt');
+    const treasurehoard510 = await csvToTable('tables/treasure_hoard_5_10.txt');
+    const treasurehoard1116 = await csvToTable('tables/treasure_hoard_11_16.txt');
+    const treasurehoard17 = await csvToTable('tables/treasure_hoard_17.txt');
     // ######### trinkets
     const trinket_table = await csvToTable('tables/trinkets.txt');
     // ######### encounters
@@ -149,6 +156,11 @@ document.addEventListener('DOMContentLoaded', async () => {
         // console.log("Selected Answer:", yesNoAnswer);
 
         document.getElementById('yesNoAnswer').textContent = yesNoAnswer;
+    };
+    // ####################################### Immersion
+    const updateImmersion = () => {
+        const immersivedescription = randomSelect(immersivetable);
+        document.getElementById('immersivedescription').textContent = immersivedescription;
     };
     // ####################################### Simple NPC Moods
     const updateNPCmood = () => {
@@ -267,6 +279,45 @@ document.addEventListener('DOMContentLoaded', async () => {
         const magicItemIdescriptor = randomSelect(magicitemsI);
         document.getElementById('magicItemIdescriptor').textContent = magicItemIdescriptor;
     };
+    // ####################################### Treasure_Hoard_0-4
+    const updateTreasure04= () => {
+       const fixedstring = "6d6x100 copper pieces, 3d6x100 silver pieces, 2d6x10 gold pieces";
+       const processedCoins = processCoins(fixedstring);
+       const treasurehoard04description = randomSelect(treasurehoard04);
+       const processedTreasure = processTreasure(treasurehoard04description);
+       document.getElementById('treasurehoard04description').innerHTML = processedCoins + "<br>" + processedTreasure;
+       //console.log(treasurehoard04description, document.getElementById('treasurehoard04description').innerHTML);
+    }
+    // ####################################### Treasure_Hoard_5-10
+    const updateTreasure510= () => {
+        const fixedstring = "2d6x100 copper pieces, 2d6x1000 silver pieces, 6d6x100 gold pieces and 3d6x10 platinum pieces";
+        const processedCoins = processCoins(fixedstring);
+        const treasurehoard510description = randomSelect(treasurehoard510);
+        const processedTreasure = processTreasure(treasurehoard510description);
+        document.getElementById('treasurehoard510description').innerHTML = processedCoins + "<br>" + processedTreasure;
+        //console.log(treasurehoard510description, document.getElementById('treasurehoard510description').innerHTML);
+     }
+    // ####################################### Treasure_Hoard_11-16
+    const updateTreasure1116= () => {
+        const fixedstring = "4d6x1000 gold pieces and 5d6x100 platinum pieces";
+        const processedCoins = processCoins(fixedstring);
+        const treasurehoard1116description = randomSelect(treasurehoard1116);
+        console.log(treasurehoard1116description);
+        const processedTreasure = processTreasure(treasurehoard1116description);
+        document.getElementById('treasurehoard1116description').innerHTML = processedCoins + "<br>" + processedTreasure;
+        console.log(treasurehoard1116description, document.getElementById('treasurehoard1116description').innerHTML);
+     }
+    // ####################################### Treasure_Hoard_17
+    const updateTreasure17= () => {
+        const fixedstring = "12d6x1000 gold pieces and 8d6x100 platinum pieces";
+        const processedCoins = processCoins(fixedstring);
+        const treasurehoard17description = randomSelect(treasurehoard17);
+        console.log(treasurehoard17description);
+        const processedTreasure = processTreasure(treasurehoard17description);
+        document.getElementById('treasurehoard17description').innerHTML = processedCoins + "<br>" + processedTreasure;
+        console.log(treasurehoard17description, document.getElementById('treasurehoard17description').innerHTML);
+     }
+
     // ####################################### Foods
     const updateFood = () => {
         const FoodsLister = randomSelect(foods);
@@ -375,7 +426,6 @@ document.addEventListener('DOMContentLoaded', async () => {
         document.getElementById('complexQDescription').innerHTML = complexQDescription;
     }
     // ####################################### CITIES
-
     const updateCities = async () => {
         let city_Description;
         city_Description = `The city grew up around...<strong>${randomSelect(citygeography).trim()}</strong><br>`;
@@ -428,6 +478,11 @@ document.addEventListener('DOMContentLoaded', async () => {
         updateSimpleQuests();
         updateComplexQ();
         updateCities();
+        updateImmersion();
+        updateTreasure04();
+        updateTreasure510();
+        updateTreasure1116();
+        updateTreasure17();
     };
     // ####################################### Creating clickable D20
     // Add event listeners to all d20 buttons within sections

@@ -1,0 +1,25 @@
+01–02;–,–
+03–05;3d6 (1 0) 1000 gp gems,Roll 1d8 times on magicitemsC
+06–08;1d10 (5) 2500 gp art objects,Roll 1d8 times on magicitemsC
+09–11;1d4 (2) 7500 gp art objects,Roll 1d8 times on magicitemsC
+12–14;1d8 (4) 5000 gp gems,Roll 1d8 times on magicitemsC
+15–22;3d6 (10) 1000 gp gems ,Roll 1d6 times on magicitemsD
+23–30;1dl0 (5) 2500 gp art objects ,Roll 1d6 times on magicitemsD
+31–38;1d4 (2) 7500 gp art objects,Roll 1d6 times on magicitemsD
+39–46;1d8 (4) 5000 gp gems,Roll 1d6 times on magicitemsD
+47–52;3d6 (10) 1000 gp gems,Roll 1d6 times on magicitemsE
+53–58;1d10 (5) 2500 gp art objects ,Roll1d6 times on magicitemsE
+59–63;1d4 (2) 7500 gp art objects ,Roll 1d6 times on magicitemsE
+64–68;1d8 (4) 5000 gp gems,Roll 1d6 times on magicitemsE
+69;3d6 (1 0) 1000 gp gems ,Roll 1d4 times on magicitemsG
+70;1d10 (5) 2500 gp art objects,Roll 1d4 times on magicitemsG
+71;1d4 (2) 7500 gp art objects ,Roll1d4 times on magicitemsG
+72;1d8 (4) 5000 gp gems,Roll 1d4 times on magicitemsG
+73–74;3d6 (1 0) 1000 gp gems ,Roll 1d4 times on magicitemsH
+75–76;1d10 (5) 2500 gp art objects ,Roll 1d4 times on magicitemsH
+77–78;1d4 (2) 7500 gp art objects,Roll 1d4 times on magicitemsH
+79–80;1d8 (4) 5000 gp gems,Roll 1d4 times on magicitemsH
+81–85;3d6 (10) 1000 gp gems ,Roll 1d4 times on magicitemsI
+86–90;1d10 (5) 2500 gp art objects ,Roll 1d4 times on magicitemsI
+91–95;1d4 (2) 7500 gp art objects,Roll 1d1 times on magicitemsF and 1d4 times on magicitemsG
+96–100;1d8 (4) 5000 gp gems,Roll 1d4 times on magicitemsI
