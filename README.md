@@ -7,6 +7,8 @@ Check it out here: [https://schafft-wissen.org/delphi.html](https://schafft-wiss
 
 I use selfmade random tables as well as official ones.
 
+Sources from the internet are shown below!
+
 Sources:
 - Dungeon Master Guide 
 - https://dungeonmastertools.github.io/
