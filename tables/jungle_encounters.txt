@@ -1,0 +1,101 @@
+1;A group of humanoid bones litter the jungle floor. It is apparent they were slain in battle. From the size and their weapons, they could have been from a tribe of goblins, kobolds, or orcs.
+2;The party hears a loud snuffling sound, before seeing several boars feeding on a corpse of a dwarf. The boars will attack the party if provoked. The dwarf’s body has already been looted.
+3;The party hears the sound of temple music in the distance. The music seems to be coming from the direction of the river.
+4;The party hears the sound of chanting coming from the jungle. As they get closer, they see two lemurs, who are guarding a druidic looking altar made of twigs and leaves.
+5;The party hears the sound of chanting coming from the jungle. As they get closer, they see a group of five lizardfolk, painted with blood, all are holding stone knives. Two are dancing around a fire. They chant, “Blood Ritual, Blood Ritual, Blood Ritual” over and over again.
+6;The party hears the sound of rocks clattering on the jungle floor. The sound is getting closer. As they go to investigate it, they see three ape men swinging on vines, and throwing rocks at them. They are 3 feet tall, have dark brown skin, are wearing bone jewelry. If provoked, they will fight to the death.
+7;On the path ahead, players notice a pack of five lizards carrying a large, heavy chest. As the group tries to sneak past them, one of them suddenly turns to the party and says something in Draconic. The other four lizardmen then turn to the party with wicked smiles.
+8;The party passes by a cave. On the cave wall is painted the symbol of the druidic circle. Inside the cave are 18 lizardfolk in prayer, with six lizardpriests conducting a ritual. The lizardpriests will fight the party, and will summon a giant reptilian demon if they’re about to be defeated.
+9;The sound of singing can be heard deep in the jungle. It is coming from a small clearing. The clearing is filled with a band of traveling bards named The Chord. They are led by a half-orc named Taboo.
+10;The party comes across a small tribe of humans living in huts, all of them are wearing primitive clothes, and have spears. The leader of the tribe is a short, muscular man named Bosco. He will ask the party if they have seen any elves around. 
+11;In the undergrowth ahead, there is a small lizardfolk village. The village is a warren of mud and wood. There are four lizardfolk guards, and a shaman. The shaman is the only lizardfolk who will speak Common. He will tell the party that they are welcome to stay the night, but that they must leave the next morning. He will give the party directions to their closest port town.
+12;On the path ahead, there are two elves sitting at the foot of a tree. One of them is holding an open book. The other is carving a wooden doll. They claim to be traveling musicians. They say they are on their way to the coast to sell their goods. They mention that they saw a group of lizardmen several miles back, who seemed to be searching for something.
+13;An elf from a nearby city is on a hunting trip. She saw a group of lizardfolk on the other side of the river. They seem to be on a hunt as well.
+14;The party hears a loud growl from deep in the jungle, before seeing a giant gorilla charging at them. It’s a silverback, and it has a group of young ones with it. If the party runs, they will run away. If the party fights, the silverback will fight until it’s dead. The party can try to negotiate with the silverback, but it doesn’t speak Common.
+15;The party sees a group of 9 lizardfolk from a nearby village. They are all carrying axes, and have a net. They will ask the party if they have seen a large, black creature with a long neck. A large dinosaur with a big neck tracks through the area. If the party met the dinosaur, they can describe it, and the lizardfolk will tell them that it is called a Lithosaur, and that it has been terrorizing their village. If they have killed the creature already, they will reward the party with a pouch of silver pieces, and tell them that they will be honored to share a meal with them.
+16;A group of apes are swinging through the trees. If the party stays very still, they will eventually pass by. They are on their way to a nearby village of elf warriors.
+17;A group of humans are camped out in the jungle. They are all holding spears and shields, and they are wearing primitive clothes. They are a group of hunters. One of them has heard a strange sound from the jungle. A group of orcs are on the other side of the river, and they seem to be looking for something.
+17;A group of lizardfolk are approaching a group of orc warriors. They seem to be arguing. One of the lizardfolk is holding a necklace. The lizardfolk seem to be refusing to give the necklace to the orcs. They eventually agree to give it to one of the orcs, but become defensive when the orcs touch it. Eventually, the orcs give up, and head back the way they came.
+18;A group of elves is watching a group of humans from a distance. The elves have been following the group for several days. There are 16 human warriors, and one female spellcaster. The spellcaster has a magic staff that she is carrying on a sling. It is a long staff made of a strange black wood.
+19;The party sees a group of humans traveling with a caravan of camels. They are led by a tall man with a long black coat. He is armed with a scimitar, and has several guards with him. They are traveling across the desert to the west.
+20;A group of goblins are trying to dig through a hole in the ground. The tunnel is long and dark, but there is light coming from the end.
+21;An ogre with battleaxe is watching a group of goblins. He is waiting for his dinner to cook. A group of orcs are tied to a tree. One of them is still alive. The orcs are being roasted by the fire.
+22;A group of goblins are hiding on a tree branch. They are making strange whistling sounds. A huge, lion-like beast is walking towards the party.
+23;A group of goblins are running through the jungle. They are being chased by a rhinoceros. One of the goblins is carrying a bag of gold on its back.
+24;A group of orcs are attacking a castle. They are trying to bring down the castle walls. A group of knights are riding on horseback towards the orcs. One of the knights is on a white horse, and is carrying a banner with a red cross on it.
+25;A group of goblins are making camp. They are making fires, and cooking food. A group of humans are approaching. The humans are also carrying weapons and armor, and are wearing leather armor. They are bounty hunters. They are looking for the goblins, and are willing to kill them if they have to.
+26;A group of orcs are riding on horseback through the jungle. They are heading east, towards a nearby city.
+27;A group of lizardfolk are using vines to swing across the river. The biggest lizardfolk is carrying a human woman. The humans are all wearing leather armor, and seem to be skilled in fighting.
+28;A group of goblins are holding a human man down. They are torturing him. The rest of the party sees two other goblins and a hobgoblin.
+29;Up ahead, players can hear a battle raging. They see a group of elves fighting a group of orcs. The orcs are tied up on the ground, and the elves are surrounding them, attacking them with spears and arrows. The orcs and elves carry different banners.
+30;The party sees a group of orcs near a campfire. They are wearing leather armor and carrying large shields and spears. They are on their way to a nearby village.
+31;As the jungle grows even denser, players hear a loud roar. A pterodactyl is swooping down on the party.
+32;A group of elves are walking through the jungle. They are on their way home from a nearby city.
+33;A group of elves is sitting by the riverbank. They are fishing. If the party approaches, they will wave and say hello.
+34;A group of orcs is standing around a campfire. They are roasting boar and drinking ale. They are singing and laughing, and seem very friendly.
+35;A group of orcs is standing around a campfire. They are cooking, and seem to be planning an ambush.
+36;A group of elves is sitting near a campfire. They seem to be guarding an area. They are painted like animals, and are carrying spears. They are not hostile, but do not want anyone to enter the jungle beyond them.
+37;A group of goblins is hiding in the bushes. They are staring at a group of humans riding horses. The humans are armed with spears and shields. They are looking for the goblins, and want to kill them.
+38;A group of humans is sitting by a campfire. They seem to be on their way to a nearby city.
+39;A group of goblins is standing around a campfire. They are roasting boar and drinking ale. They seem to be planning an ambush.
+40;A group of hobgoblins is sitting by a campfire. They are roasting boar and drinking ale. If they notice the players, they will attack.
+41;The smell of smoke and cooking food wafts through the air. The party sees a group of humans and a group of orcs. The humans and orcs are sitting around a campfire together. They are all eating and drinking together. A human wizard has cast a Charm spell on the orcs to keep them under control. There’s a 50% chance the spell fails mid-meal.
+42;The strong stench of rotting meat wafts through the air. The party sees a human camped out in the jungle. He is chopping meat. He is a butcher. A group of dogs are tied to a tree. If players rescue the dogs, they will follow them for life.
+43;A group of skeletal soldiers are practicing formations in the clearing. They are skeletons in an old, blood-soaked uniform. They are training with stolen swords and shields. They are not hostile. They are actually humans with an illusory disguise practicing for a big prank.
+44;Up ahead, the party sees a large black lizard with red eyes. It’s a black dragon. If the party back away, it will slither off. If the party attacks, the dragon will breathe fire at them. It will fight until its dead.
+45;The usual jungle noises are silenced as a loud boom in the distance resounds through the jungle. It sounds like a thunder clap, but it’s not. If the party investigates, they will discover a mage practicing his deadly arts. There’s a small chance one of the explosions will harm the players.
+46;A large mutant alligator with one red eye stalks through the jungle. The party sees it devouring a smaller alligator. If the players approach, the mutant will attack.
+47;A group of 1d10 half-orc bandits are sitting around a campfire. They are boozing it up. As the party approaches, they will attack.
+48;The party sees an old woman sitting by her campfire. She looks frail. She is actually an incredibly powerful witch. She is keeping 10 skeletons busy with manual labor while she conducts some sort of ritual. The skeletons are performing tasks like gathering wood, making armor, and forging swords. The witch has the skeletons under a Charm spell. If the party attacks or disturbs the skeletons, the witch will awaken. She will defend herself with fire magic.
+49;A group of humans is sitting around a campfire. They are drinking ale. They are mercenaries that are waiting for a chance to fight. A human with a red beard is telling war stories. He is trying to impress the rest of the party.
+50;The party sees a group of 1d20 kobolds sitting around a campfire. They are roasting boar. If they notice the players, they will attack.
+51;A group of human bandits are sitting around a campfire. They are talking about looting a village with their next job. They are wearing old, rusty armor. They are not hostile. They are just talking about their dreams.
+52;The party sees a campfire in the distance. As they approach, the smell of burning meat fills the air. The players see a group of humans sitting around a campfire. They are cooking dinner. They are just sitting around talking about the day.
+53;The party is in a small clearing in the jungle. Just ahead, they see a group of lizardfolk sitting around a campfire. They are cooking dinner. They are just sitting around talking about the day.
+54;A group of humans with a pack of attack dogs are waiting in ambush. They will attack. They are wearing chainmail.
+55;The party hears a loud boom in the distance. It sounds like a thunderclap, but it’s not. If the party investigates, they will discover a mage practicing his deadly arts. There’s a small chance one of the explosions will harm the players.
+56;A group of human laborers are building a road. They are forcing captured ogres to do the labor.
+57;A group of 1d10 lizardfolk soldiers are patrolling through the jungle. They are looking for intruders.
+58;The party sees a group of human bandits sitting around a campfire. They are roasting boar. If they notice the players, they will attack.
+59;The party is suddenly attacked by 1d20 giant mosquitoes. They attack and then flee the area.
+60;A group of human and halfling prisoners are being escorted by a group of human guards. They are headed towards a nearby town. The players can do nothing to change their fate.
+61;The sound of a snake slithering through the leaves leads players to a giant snake. A large python is trying to swallow a deer.
+62;A group of 1d8 lizardfolk are standing guard over a prisoner they have captured. The prisoner looks like they have been here for a long time. They are standing over a campfire. They are roasting the prisoner alive. They will defend their meal to the death.
+63;A large mutant pig with 1d8 eyes is rampaging through the jungle.
+64;The jungle canopy suddenly comes alive as a group of large spiders attack. They shoot webbing at the players.
+65;As the players get deeper into the jungle, they will notice the leaves of the plants and trees becoming too dark and green. The plants start growing twice as fast as normal. The party will hear a strange whispery noise. There is a 1 in 20 chance that a creature called a psychovore is feasting on the plants.
+66;The party hears a loud noise coming from a cave. It sounds like a mix between a shriek and a cough. It’s a mix between a loon and a woodpecker. If the players investigate, they will discover a green dragon.
+67;A group of 1d20 jungle birds are sitting on a tree branch.
+68;The party hears a loud boom in the distance. It sounds like a thunder clap, but it’s not. If the party investigates, they will discover a mage practicing his deadly arts. There’s a small chance one of the explosions will harm the players.
+69;A group of 1d6 lizardfolk hunters are looking for prey. They are hunting a deer.
+70;A large mutant alligator with one blue eye stalks through the jungle. The party sees it devouring a smaller alligator. If the players approach, the mutant will attack.
+71;The party sees a group of 1d10 lizardfolk that are arguing amongst themselves. They are demanding that one lizardfolk step down and let the other become the new chief.
+72;The party sees a group of 1d8 lizardfolk hunters chasing a deer. They are trying not to let it get away.
+73;The party sees a group of human tracks. They appear to be heading in the direction of a nearby ruin.
+74;A group of human soldiers are patrolling through the jungle. They are looking for intruders.
+75;A group of lizardfolk is standing guard along a river. They are searching for crocodiles.
+76;A large mutant pig with 1d6 eyes is rampaging through the jungle.
+77;The party is in a clearing in the jungle. A group of 1d4+2 lizardfolk is sitting around a campfire. They are cooking dinner. They are just sitting around talking about the day.
+78;The party comes across a campfire in the distance. As they approach, the smell of burning meat fills the air. The players see a group of humans sitting around a campfire. They are cooking dinner. They are just sitting around talking about the day. They hate the local king. If players are friendly, the humans will offer them ale and stories of local lore. They are quite knowledgeable about the area.
+79;The jungle canopy above rustles. A band of 1d8+2 baboons attack.
+80;A fifteen foot long snake slithers by. If players do not disturb it, it will ignore them.
+81;Two old men stumble out of the jungle undergrowth. They are arguing about a woman. They are drunk. If the players approach, they will attack.
+82;On the path ahead, observant players will notice the skeletons of giant insects, birds, and lizards. They are bleached white by the sun. Do not inform the players unless they investigate. There is a 1 in 20 chance that one of them is a rare skeleton and worth money in the nearest city.
+83;A heavily armored knight is imprisoned inside a cage. The knight is a woman. She was captured by lizardfolk and taken here. The cage is locked with a magic lock. If they help free her, she will thank them and offer a reward if players escort her home – which is far away in another kingdom. Her name is Jessica Applethorne, and she is a princess from a distant land.
+84;Up ahead, the party hears a laugh. If they investigate, they will discover a group of 1d12+4 lizardfolk sitting around a campfire. They are laughing at a lizardfolk that is tied to a post. A lizardfolk witch is performing a ritual on the lizardfolk’s hand. If the party approaches, the witch will attack along with the others.
+85;The party sees a large mutant pig with one red eye stalking through the jungle. The party sees it devouring a small alligator. The pig can talk common and has a low intelligence.
+86;The jungle opens ahead. A group of 1d6+2 humans in armor are sitting in the field. They are in a camp. They are in a bad mood because they are lost. They are guarding the remains of their fallen comrades.
+87;A pack of 1d4+1 wolves are hunting something. They give the party a wide berth.
+88;A pack of 1d4+1 wolves are hunting something. They attack the party.
+89;The party sees a small clearing with a handful of humanoid bones around a campfire. They are gnawed on. If the party investigates, they find the remains of 1d4+2 humans. They were slaughtered by lizardfolk.
+90;A group of 1d4+2 lizardfolk are hunting/gathering food. They are not hostile.
+91;The path passes through an old shrine to an ancient jungle god. The shrine is covered with moss. It is in disrepair. An old, rusted dagger is stuck in the ground. A small lizard sits on top of the dagger. If the party tries to remove the dagger, the lizard will attack. If the party kills the lizard, the dagger will disappear.
+92;The party hears sounds of battle ahead. If they investigate, they will see lizardfolk versus an army of 1d6+6 treants. The lizardfolk are losing. The party can join the battle on either side.
+93;A knight and a wizard are walking through the jungle. They are lost. They are arguing about a woman. They are drunk. If the party approaches, they will attack.
+94;A group of 1d4+2 lizardfolk are carrying a corpse. They are headed to the nearest lake to feed it to the crocodiles.
+95;The party comes across a campfire. A group of 1d4+2 lizardfolk are sitting around the campfire. They are cooking dinner. They are drunk. One of them is passed out. The drunk lizardfolk will wake up and attack the party.
+96;The party hears hooting in the distance. The hooting sounds like an owl. A moment later the hooting sounds like an owl with a deep, throaty voice. If the party investigates, they see two owls sitting in the distance. They are talking to one another. The owls are intelligent owls. They are not hostile towards the party. They are discussing how they have been watching the party’s movements. They speak in an ancient, forgotten language.
+97;A group of 1d4+2 lizardfolk are hunting dinner. They are not hostile. They are carrying bad-smelling smoke bombs.
+98;The party comes across a clearing. There are 1d4+2 lizardfolk eating dinner. They are having a feast. It smells delicious. A green dragon, hiding in the foliage, is spying on them. If the party does not disturb them, the dragon will try to snatch their food. If the party attacks, the dragon will attack.
+99;A group of 1d4+2 lizardfolk are hunting dinner. They are not hostile. They are carrying smoke bombs.
+100;A pack of 2d8 wolves is hunting. They attack the party.

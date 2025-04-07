@@ -1,0 +1,100 @@
+1;The party comes across a strange, bowl-shaped clearing in the forest. The clearing is filled with strange flowers and mushrooms. If the party camp for the night, they will be attacked by strange insects.
+2;A murder of strange ravens fly overhead.
+3;The party stumbles upon a camp of 1d4 human barbarians. They are led by a warrior called Blackbeard.
+4;The party stumbles upon a camp of 1d4+2 human barbarians. They are led by a warrior called Blackbeard.
+5;The party comes across a clearing with a strange looking tree in the center. If the tree is touched, it will turn into a treant named Treebeard.
+6;The party stumbles upon a group of strange goblins. They are led by a hobgoblin named Hargaroth.
+7;The party comes across a group of 1d4+2 griffons. They are led by a griffon named Redbeard.
+8;A nearby stream has dried up.
+9;The party is ambushed by 1d4+2 goblins. They are led by a hobgoblin named Hargaroth.
+10;A short distance ahead, the party can see a small village in the distance. The village is actually a colony of giant ants and their queen, who is disguised as a human in the village.
+11;A group of 1d6+1 orcs is fighting a large group of 1d6+2 ogres.
+12;A group of 1d6+1 dwarves is trying to get a large wagon off the road. They’ll ask the players to help them.
+13;A group of 2d6 dwarves is marching through the forest. They are on their way to the closest city. The players’ party will join them for protection.
+14;A group of 1d4+2 bandits has set up an ambush on the road. They will attack the players’ party with crossbows and shortbows from the trees.
+15;An elderly couple is walking along the road. They are looking for help with a problem they’re having with a goblin that’s been terrorizing them.
+16;The players come across a group of men, who are dressed in black robes, and are carrying boxes to a wagon. They are trying to hide, and will attack the players if they get too close to the crates. The men in black robes are cultists trying to get rid of evidence that would convict them of practicing evil.
+17;A lone traveler has lost his way in the forest. He will ask the players to show him the way back to the main road.
+18;Two men dressed in black robes are arguing over whether or not they should steal a baby deer that has been abandoned by its mother.
+19;A group of 1d10 young men and women are celebrating their coming of age by running through the forest at night, laughing and screaming, while drinking and throwing things at each other.
+20;A group of 1d4 men dressed in black robes are arguing about whether or not to kill a deer for food.
+21;The party is approached by a group of elderly villagers who hand them a package and ask them to deliver it to a nearby town. If the party asks, the villagers explain that this is a regular occurrence.
+22;Three men wearing cloaks stand in the middle of the road. They ask the party for help, saying that their horses have run off. If the party helps them, the men attack. If they don’t, the men attack anyway.
+23;The players discover a small village that is populated with shadows and zombies. The villagers are actually shadows wearing robes and robes of leather armor. The shadows are under the control of a necromancer who lives in the town chapel.
+24;The party comes across a field of mushrooms. As they walk through the mushrooms, they notice that they are getting taller and taller. In fact, they are growing as the party walks through them. If the party doesn’t stop, they will be crushed by the mushrooms.
+25;The players stumble upon three old women sitting around a fire and singing songs about the old days. They are actually witches who are casting a magical spell to summon a demon prince into the world. They will try to stop the party from interrupting their ritual by attempting to cast a spell on them.
+26;A group of people are gathered around a fire and telling stories about a nearby ruin. They claim that it is haunted by an ancient ghost who has been seen recently in the area.
+27;A group of hunters from a nearby village asks the party for help finding a lost hunting dog. The hunters are actually werewolves who are using their dogs to lure in prey before transforming and killing them.
+28;A group of men approach the party and say they need help finding their friend who has gone missing. When they find their friend, he is dead and has been drained of blood by vampires. The men are vampires who are looking for new recruits to join their ranks.
+29;An old man wearing rags sits on the side of the road and asks for help finding his lost dog. He claims that his dog is missing because it was taken by goblins who live in a nearby cave system. If players help him, they can find his dog and negotiate with the goblins for information on their activities or for treasure from their leader.
+30;A group of men wearing brown cloaks stand around a fire and discuss their plans for taking over a nearby village and turning it into a cult outpost for their religion. They say that their leader will be arriving soon to help them with this task.
+31;A group of hunters is tracking a small group of goblins. The hunters are talking about joining the army and fighting in the war. They will offer to help the players if they need it.
+32;The players see a group of women singing. The women are celebrating the end of winter.
+33;The players see a man riding a horse. The man is taking a message to a nearby town.
+34;The players see a group of farmers talking about the weather. One farmer says he saw a dragon in the hills last night. He’s worried about his cows being stolen by the dragon.
+35;A group of men are hunting for deer. The leader is upset because one of the men keeps making jokes about the leader’s wife.
+36;A group of women are making a batch of wine. They will offer some wine to the players if they ask.
+37;A group of farmers are planting seeds in their fields.
+38;A group of farmers are planting seeds in their fields. One of the farmers is arguing with another farmer about the price of grain.
+39;Two men are talking about fish in a nearby river. One man says that his brother saw a dragon in the river. The second man says that he saw a dragon in the hills and then it flew over the river and disappeared into the distance.
+40;A group of children are playing with a ball made of twine and sticks.
+41;A party of 2d6 adventurers are sitting around a campfire. They are members of a party that has been traveling together for years. They have been on this quest for 3 years. They are waiting for one of their members to return. One of their members is a Halfling Bard. He has been gone for 2 weeks, and they are worried about him.
+42;In the woods, the party hears a group of Goblins arguing with each other. Two of them are trying to convince the other two to join them on a quest to find treasure. The other two are reluctant to go with them.
+43;A group of 2d6 Elves are on a journey through the forest. They are on their way to a nearby city to conduct business there. They are carrying sacks of goods with them as they walk through the forest.
+44;A party of 2d6 Gnomes are on their way to a nearby town. They are on their way to sell their goods to the merchants there. They are carrying sacks of goods with them as they walk through the forest.
+45;On their way through the forest, the party hears a group of Humans arguing with each other. One of them is trying to convince the others to join him on a quest to find treasure. The other three are reluctant to go with him.
+46;A party of 2d6 Half-Orcs are on their way to a nearby city. They are on their way to join an Orc mercenary company there. They are carrying spears and shields as they walk through the forest.
+47;Two male elves carrying spears and shields are walking through the forest. They are on their way to join an Orc mercenary company in a nearby city.
+48;A party of 2d6 humans are sitting around a campfire. They are members of a party that has been traveling together for years. They have been on this quest for 3 months. They are waiting for one of their members to return. One of their members is a human Barbarian. He has been gone for 2 days, and they are worried about him.
+49;A party of 2d6 Half-Elves are on their way to a nearby city. They are on their way to join an elven mercenary company there. They are carrying bows and arrows as they walk through the forest.
+50;A party of 2d4 Goblins are running through the woods, away from an unseen threat that is chasing them!
+51;A wild boar is running in circles, bleeding from a gash in its side.
+52;A group of 1d6 hunters rides past, laughing and cursing.  
+53;A group of 1d4+2 hunters are walking through the forest. They are on their way to a nearby village to sell their furs and meat.
+54;A group of 1d4+4 hunters are walking through the forest. They are on their way back from a nearby village where they sold their furs and meat. They are laughing and joking about all the ale they can drink when they get back home.
+55;A group of 1d4+4 hunters are walking through the forest. They are on the way to a nearby village where they will sell their furs and meat for as much as they can get for them. They are talking about all the ale they can drink when they get back home.
+56;A group of 1d6+6 soldiers are marching through the forest. They are on their way to a nearby city to report for duty. They are singing songs of battle and drinking away their fears of death.
+57;A group of 1d4+4 soldiers are marching through the forest. They are on their way to a nearby city to report for duty. They are singing songs of battle and drinking away their fears of death.
+58;A group of 1d4+4 hunters are walking through the forest. They are on their way to a nearby village to sell their furs and meat for as much as they can get for them at the local market. They are talking about how hungry they are and how good a meal they will have when they get back home.
+59;A group of 1d4+2 hunters ride past on horseback, laughing and cursing. They are on their way to attack a nearby fortress.
+60;A group of 1d6 hunters ride past on horseback, laughing and cursing. They are on their way to attack a nearby ruin in the name of Zan.
+61;A pair of centaurs are looking for something that was stolen from them.
+62;A group of 2d10 orcs are sitting around a campfire singing songs about their victories over the humans.
+63;The party hears a group of 2d6 humans arguing about the best way to defeat the local orcs.
+64;A group of 1d4+2 gnomes are sitting around a campfire, waiting for their dinner to cook. They tell players that they’re on their way to a nearby village to sell their wares.
+65;The party hears a group of 2d6 humans arguing about the best way to defeat the local orcs. One of them has a map that shows where the orcs are hiding out.
+66;A man named Alfred offers players information about the local area for a price. He’s a bit of a con artist and will try to trick players if they’re not careful.
+67;The party sees a group of 2d4 mercenaries who are looking for work. They’re willing to work for anyone who offers them a decent wage.
+68;A group of 2d4 mercenaries are looking for work. They’ve been hired to escort a group of traveling merchants to a nearby village.
+69;The party sees a group of 1d4+2 dwarves who are in the area looking for work. They’re willing to work for anyone who offers them a decent wage.
+70;A group of 2d6 guards are on patrol, making sure no one causes any trouble in the area.
+71;Three wild boars are huddled against a tree, trying to keep warm. If attacked, they will fight back.
+72;Two hungry wolves are chasing after a deer. If the players get in their way, the wolves will attack them.
+73;A group of children are playing in the snow. They will cheerfully ask the players if they want to play with them.
+74;A merchant is walking along the road, carrying a heavy load. The players can offer to help him carry his load. If they do, he will give them a small reward.
+75;A man is sitting on a tree branch, singing a song about nature.
+76;A small hillock rises up in the middle of the road. It has been created by the local druids as a small shrine to nature.
+77;A group of men are sitting around a campfire, telling stories about their adventures in the forest. They will ask the players if they want to hear their story.
+78;A group of villagers are gathered around a small fire, talking about their problems. The players can offer to help them with their problems.
+79;Three wagons are stuck in the mud, blocking the road. A group of villagers is trying to get them out of the mud. They will ask for help from the players.
+80;An old man is walking along the road, telling stories about when he was young and adventuring. He will offer to tell his stories to the players if they want to hear them.
+81;An owlbear roars and attacks, but then it transforms into a normal owl and flys away.
+82;A group of halflings are playing a game of chance. One of them will ask the players to join them and place a bet. If players lose, they will owe the halflings money.
+83;The players come across a group of 4d6 men who are battling with each other. They will not stop fighting until one side wins.
+84;A man is sitting on the ground. He is holding his head and muttering ‘I can’t believe it! I can’t believe it!’
+85;Players come across an old man who is sitting on a rock by the side of the road. He looks sad and lonely. If players talk to him, he will tell them a story about how he was once a famous knight who fought in many famous battles. He will ask players to tell him about themselves and then tell them that they remind him of himself when he was young. He will then become happy for a short time before becoming sad again and telling players that none of his friends or family will visit because they are all ashamed of him and his actions in recent years.
+86;The players come across a group of 5d6 men who are arguing about whether or not someone is guilty of a crime. They will continue arguing until one side wins.
+87;An old man is sitting on the ground, looking very sad. He will ask players for help, but then become angry and tell them to leave him alone if they do not want to give him help.
+88;A group of old men are sitting around a fire, telling stories about their past adventures. They will invite the players to join them if they wish to listen to their stories.
+89;A woman is sitting on the ground, weeping. She will tell players that she has lost her child and asks them to help her find it. She will then become angry at the players if they do not help her find her child, even though they do not know where it is or if it exists at all.
+90;Players come across a group of 3d6 men who are fighting with each other over a pile of gold coins that one of them has found and doesn’t want to split with the others because he wants it all for himself
+91;An insane loner, with a bow and arrow, is hunting for food. He attacks the players if they get too close. He’ll try to run away if he takes any damage. He’s dressed poorly and has a wild look in his eyes. The loner is actually a spy for a nearby kingdom and has been placed here to gather information on the players.
+92;Players hear an argument between two men, who are standing by a tree. One man is saying, ‘No, that’s not what we agreed.’ The other man replies, ‘You don’t have a choice. You need the money.’ The first man says, ‘But what about my family?’ The second man says, ‘I’m sorry.’ The second man gives the first man a bag of coins and says, ‘Here, this should help.’ The first man says, ‘Thanks.’ The two men walk away in different directions. The first man is a bandit and this was a ransom payment.
+93;A group of 4d4+4 hobgoblins are standing around a campfire, cooking a wild boar they have just killed. They will attack the players on sight.
+94;An elderly man is sitting on the ground, gathering up sticks. He will ask the players for help gathering up sticks. If the players help him, he will reward them with a magic potion that allows the user to see through walls for one hour.
+95;A group of 3d4+3 gnolls are arguing about whether or not to attack the players. One of the gnolls says, ‘I don’t care if we get in trouble for it. We need to attack them.’ One of the other gnolls says, ‘But what if we lose? Then we’ll be in trouble.’ The first gnoll says, ‘That’s true…’
+96;Two goblins are chasing a squirrel around in circles. One goblin says to the other, ‘C’monnn… Just one more time…’ They continue to run in circles until the players get close, at which point they abandon their efforts and attack the players.
+97;A group of 2d6+2 bandits are sitting around a campfire, drinking and laughing. They will attack the players on sight.
+98;Two men are arguing over a woman named Mary. One man says, ‘Mary is my girlfriend and I don’t want you hitting on her anymore.’ The other man replies, ‘She’s not your girlfriend! She’s my girlfriend!’
+99;A group of 3d4+3 hobgoblins are sitting around a campfire, drinking and laughing. They will attack the players on sight.
+100;A group of 2d6+2 goblins are standing around a campfire, cooking a wild boar they have just killed. They will attack the players on sight.

@@ -1,0 +1,100 @@
+1;Keg the halfling is drunk and is trying to walk home. He is stumbling and singing a bawdy song. He will offer players a drink from his flask if they help him home.
+2;An old man is sitting on the side of the road. He is begging for money and food.
+3;A group of soldiers are marching down the road. The soldiers are on their way to the castle.
+4;A group of children are playing with a ball. One of the children kicks a ball too hard and it breaks a window. The children run away to hide.
+5;A woman is walking down the road with her child. The child is crying because she has lost her doll.
+6;Two men are standing outside a tavern arguing over a bet they made on a horse race.
+7;A man is standing outside of a tavern arguing with the bartender. The man is trying to get his money back because the drink he was sold was bad.
+8;Three men are sitting on the side of the road near a broken wagon. One of the men is injured and needs help with his injury.
+9;A group of children are gathering firewood for their families. They will offer to sell some firewood to players if they want to buy it.
+10;Two men are standing outside of a tavern arguing over a bet they made on a horse race.
+11;Zoranth the wizard is going to cast a spell. The villagers are gathering around to watch.
+12;At the center of town, a group of men and women are trying to convince the town’s officials to put on a play.
+13;A man is walking around town, singing a song about how he was slighted by someone, who is named in the song.
+14;A woman is walking around town, singing a song about how she was slighted by someone, who is named in the song.
+15;A group of men are gathered around, talking about the bandits that attacked their caravan on their way into town.
+16;A group of people are gathered around an open grave, talking about the person who was buried there.
+17;Two men are standing near the well, talking about how they should go fishing soon.
+18;A man is walking around town, talking about how he wishes he were as handsome as someone else who is named in the conversation.
+19;A man is walking around town, talking about how he wishes he could find someone to marry, but no one seems to be interested in marrying him.
+20;Three men are gathered around, talking about the body that was found in the river recently. They are debating whether it was a suicide or murder
+21;Xaolin is a merchant in the town who has a small bird that has a beautiful song. The merchant will try to sell it to the players. If they refuse, he will threaten to tell their ‘secret’. The merchant knows that the party is a group of adventurers but doesn’t know their specific identities. He will threaten to tell everyone in town. He has no intention of doing so, but he’s hoping the players will buy it from him for a high price. If players don’t buy the bird, he will warn them of a dangerous path on the way to the next town. He won’t tell them the truth.
+22;A group of boys are playing in the street. They are playing with wooden swords. They are fighting with each other. A random encounter on the way to the next town after a long campaign.
+23;A group of men are sitting in a bar, talking about wine and women. They will give the players some useful information about the next adventure.
+24;A group of women are talking about an upcoming festival. They will ask you to be their date for the festival. The players can accept or decline the offer. If they accept, they will be asked to wear fancy clothes, but it will be worth it because they will get to eat expensive food and drink lots of wine during the festival. The women are actually a group of thieves and they will kidnap you if you accept their offer.
+25;A group of children are walking through the village, throwing stones at stray dogs and cats. If players approach, the children will run away and hide behind their parents’ legs. The parents will scold the children and then apologize to the players for their children’s behavior.
+26;A group of men are sitting in a bar, talking about a dangerous creature that is terrorizing the area. They will give the players some useful information about the creature and then ask them to defeat it for them.
+27;A group of children are playing in the street. They are playing with wooden swords. They are fighting with each other. They will ask you to join their fight by choosing one side. You can join their fight or you can ignore them and continue walking down the main road.
+28;A group of men are sitting on a park bench, talking about politics and religion. They will give you some useful information about the politics and religion of the area you are in if you listen to them talk for a while.
+29;A group of men are sitting on a park bench, talking about sports and gambling. They will ask you to join their drinking game if you listen to them talk for a while.
+30;A group of men are sitting in a bar, talking about an upcoming festival and an upcoming sports tournament. The men will give you some useful information about the festival if you listen to them talk for a while.
+31;I heard that a strange man is walking around town this morning. He is looking for something but no one knows what.
+32;A strange man is walking around town this morning. He is dressed in a red robe and is wearing a red hat. He appears to be lost.
+33;A group of young men are sitting around in a tavern, talking about the strange man who is walking around town this morning. They say he looks like a wizard but no one knows if he is or not.
+34;A man is walking around town, trying to sell his dog. He says the dog is a champion in the dog races.
+35;A man is walking around, yelling that he has lost his dog. He is offering a reward of 1 gold piece to anyone who finds it.
+36;A man is sitting by the side of the road, begging for food and money. He says he is on his way to the city to find work but has run out of food and money along the way.
+37;You see a group of young women, wearing long dresses, walking down the street and singing as they go.
+38;You see a group of young women, wearing short skirts and low cut tops, walking down the street and laughing as they go.
+39;You see a group of men and women walking down the street, talking about the strange man who is walking around town this morning. They say he looks like a wizard but no one knows if he is or not. They also say that he is looking for something but no one knows what it is that he is looking for.
+40;You see a strange looking man walking down the street, looking around at everyone and everything as he goes.
+41;A storm has blown in, and a group of three old men are huddled on the porch of the village tavern, talking about the weather. The man on the left is the mayor, and the other two are village elders. The mayor has a large, bulbous nose, and the other two men have large, bulbous noses.
+42;A drunk man is belligerently arguing with the bartender about how the bartender cheated him at dice.
+43;A young boy named Billy is selling matches for two copper pieces each. He’s always too shy to ask for the sale.
+44;A man named Edward is selling belts for ten copper pieces each. He is a very good salesman, and can talk about the craftsmanship of his belts for hours if someone asks.
+45;A group of five women are gossiping about the local lord’s daughter, who is getting married soon. They all think that the Lord’s daughter is a gold digger and will only marry for money.
+46;A priest named Samuel is sitting on a bench, silently praying in front of a shrine to a god of justice and law.
+47;A bar fight breaks out in the tavern!
+48;A woman named Gertrude has lost her cat in the woods near the village. She has been looking for her cat for two days now, and she is exhausted and close to giving up. She is wearing a cloak with a hood, and her eyes are puffy from crying. She’s holding a lantern, which is flickering and almost close to burning out. She’s wearing dirty boots and gloves, which are covered in mud and scratches from climbing trees. If players help her find her cat, she will reward them with a magic item worth between 10-20 GP.
+49;Two young men are talking about how one of them got his left hand caught in a millstone and had to be rescued by his friend. They’re both laughing about how funny it was that his friend had to rescue him from getting his hand chopped off.
+50;Three men are talking about how they heard a merchant caravan was coming through town late at night, and how they were going to sneak out of town to go steal from it at night.
+51;Lute player is really a bard in disguise. He will sing a song about a nearby dungeon to the party. If they investigate the dungeon, they will find it is haunted by a ghost.
+52;A group of children are playing a game of tag. One of them is blindfolded. He will stumble and fall over.
+53;A musician is walking down the road, singing about his lost love. He will ask people for information about her. If the party asks him questions, he will quote ‘actual facts’ about the party’s adventures instead of giving them any information about his lost love.
+54;A priest is walking down the road. He will offer to bless the party’s weapons and armor.
+55;A circle of stones has been set up around a fire pit. A group of elderly men are sitting around the fire pit, talking about how great they used to be adventurers. They will try to convince the party to come and join them!
+56;The party sees a group of women dancing in a circle. They are dancing in a strange way, almost like they are casting a spell. If the party investigates, they will find that the women are actually a coven of witches, and they are trying to hex passing strangers into frogs!
+57;The party sees a man sitting on the side of the road, crying. He will tell them that he has lost all his money gambling at the local tavern. If the party gives him any money, he will say ‘You know, I think I’m just going to stay here and be poor.’
+58;The party sees a man riding a donkey down the road. He is dressed in expensive clothes and jewelry. He looks like a nobleman. If the party approaches him, he will say ‘I am looking for my servants.’ He will then ask for directions to the local tavern, which is actually his home! If he is disturbed or asked about his servants again, he will attack!
+59;A group of children are playing a game of tag in an open area on the side of the road. One of them is blindfolded.
+60;‘I tried to warn them!’ says a man wearing tattered clothes and holding a bloody sword. He is standing over a dead body. If you talk to this man, he will say: ‘They wouldn’t listen! They wouldn’t listen to me! But they’ll listen… when they hear it from their own dead lips!’
+61;Hanging from the gallows, a man’s body swings in the wind. His name was Sam and he was a thief. His body will remain there for a month before anyone comes along to cut him down and bury him.
+62;A group of children are playing hide-and-seek. One of them is hiding in the bushes. If players approach, he will yell ‘Ready or not, here I come!’ and make a mad dash for his hideout. If he makes it he will yell ‘You’re it!’ and the other children will scatter.
+63;A group of children are playing tag. One of them is It. He has a big red ‘IT’ on his forehead. If players approach, he will run away and tag the other children. All of them will then run away from players.
+64;A group of children are playing jump rope. They are chanting an old tune: ‘One, two, three, four, the King is dead! One, two, three, four, the King is dead! One, two, three, four, the King is dead!’ They do not stop until the players interrupt them.
+65;A group of children are playing with a ball. They are playing catch with each other. They try to catch the ball with their teeth. If they catch it they will spit it back out to continue the game.
+66;A man named Jack is sitting on the steps to his home, crying. He has lost his prized sheepdog and has no way to replace him. He wants players to help him find his dog. His dog is actually a wolf that has been trained to act like a sheepdog.
+67;A man named Sam is sitting on the steps to his home, drinking ale. He is drunk and wants to fight anyone who approaches him.
+68;A man named Sam is sitting on the steps to his home, sobbing. He was just fired from his job as a blacksmith’s assistant because of his drinking problem. He needs work again but doesn’t have any skills other than blacksmithing.
+69;A group of children are playing with a ball made of rags. They are playing keep away with each other. The ball will fall apart if anyone tries to catch it or tackle anyone else while they’re holding it.
+70;A group of children are playing with a ball made of rags. They are playing catch with each other. If anyone tries to catch the ball or tackle anyone else while they’re holding it, it will fall apart in their hands.
+71;A group of traveling bards are singing and dancing outside the village tavern. They are looking for a place to perform for the night.
+72;A group of local merchants are complaining about the cost of goods in the local market. They are looking for a new location to set up shop.
+73;A group of drunken revelers are stumbling down the main street. They are singing a song about a local noble who is a drunkard and a fool.
+74;A man is standing at the top of the main street, holding a sign that says ‘Repent! The end is nigh!’
+75;A man is walking down the main street, carrying a huge stack of books. He is trying to sell the books, but no one is buying them. He is trying to find someone who will buy them so he can eat that night.
+76;A group of children are playing a game of tag in a nearby park. One of the children falls down and starts to cry. Several nearby adults rush to the child’s aid, scolding the other children and telling them to be more careful around the other children.
+77;Several men are standing around a nearby tavern, talking about a recent battle they fought in. They are bragging about their own bravery and skill in battle, but they are not very convincing.
+78;A young woman is walking down the main street, carrying a basket full of flowers. She is going to give them to her sweetheart who is a soldier in the local garrison.
+79;A man is walking down the main street, carrying a huge sack on his back. He looks like he has been traveling for days. He asks if anyone has seen his donkey, but no one has seen it. He then asks if anyone has seen his donkey’s pack animal, but no one has seen it either. He then says ‘Damn!’ and continues on his way.
+80;A group of children are playing a game of tag in a nearby park. One of the children falls down and starts to cry. Several nearby adults rush to the child’s aid, scolding the other children and telling them to be more careful around the other children.
+81;Eager youth: A boy runs up to the PCs and tells them that he has seen a dragon flying overhead. The boy is lying.
+82;A man is being attacked by rats. He is wearing a green robe, and can tell the PCs that he is a wizard, but he is not evil.
+83;A man is being attacked by rats. He is wearing a green robe, and can tell the PCs that he is a wizard, but he is not evil. He will ask the PCs for help.
+84;A woman is standing in the middle of the street. She is holding a large frying pan and she will try to hit anyone who comes too close.
+85;A group of children are playing with a ball. They will try to steal it from the players.
+86;A group of children are playing with a ball. They will ask the players for help.
+87;A group of children are playing with a ball. They will offer to trade the players their ball for one of their toys.
+88;A man is standing on his front porch and he will welcome the players to the village and offer them some information about the area if they stop to talk with him.
+89;A man is standing on his front porch and he will yell at the players to get off his property if they stop to talk with him.
+90;A woman is standing in the middle of the street, yelling at some children who are gathered around her.
+91;Yawning Orc warrior is looking for something. He will ask the party to help. If they do they will be rewarded with a small bag of gold. The orc is actually a thief and will attack the party if they don’t help him.
+92;The party has been ambushed. A group of three bandits are on horses. They are looking for horses to steal.
+93;The party sees a woman playing the harp. She is singing in an elven language. She is actually a Bard from a noble family and she has been sent to the village to learn humility.
+94;A man named Tobias has been cursed by a witch. He is turning into a beast and he needs help.
+95;A group of 1d4+1 goblin scouts are searching for humans. If they find the party, they will attack.
+96;A group of 1d4+1 goblin scouts are searching for humans. If they find the party, they will attack. They are working for the Witch of the Lantern Jaws. She is trying to take over the nearby town.
+97;A man named Matthew is being attacked by wererats! The wererats are working for the Witch of the Lantern Jaws. He is trying to warn people about her plans, but no one believes him.
+98;A group of 1d4+2 goblins are arguing over their next meal. One says they should keep the humans they have captured alive and eat them later, but the other says that they should kill them now because they smell bad and it’s not right to keep them alive when they smell bad.
+99;A man named Adam is being attacked by a group of ghouls! The ghouls are working for the Witch of the Lantern Jaws! He is trying to warn people about her plans, but no one believes him.
+100;A group of 1d4+2 goblins are arguing over their next meal. One says they should keep the humans they have captured alive and eat them later, but the other says that they should kill them now because they smell bad and it’s not right to keep them alive when they smell bad

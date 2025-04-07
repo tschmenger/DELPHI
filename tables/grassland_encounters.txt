@@ -1,0 +1,100 @@
+1;Zombified humans are running toward the players. They attack them and if they are defeated, they turn into undead humans.
+2;The players see a group of men practicing archery. If any player approaches too closely, they will be shot by the men.
+3;The players see a group of men practicing swordplay. If any player approaches too closely, they will be attacked by the men.
+4;A man is lying on the ground dead. If players investigate, they find a gold coin in his hand. If they try to pick up the coin, it will transform into a giant spider which will attack the players.
+5;Players hear a loud noise. If they investigate, they see a group of men fighting over a bag full of gold coins. The men will attack any players who approach them.
+6;A troll approaches the players and asks for their help in killing a group of men who are hunting their kind for sport. He will attack the players if they refuse to help him.
+7;A man is lying on the ground, dead. If players investigate, they find a magic item in his hand.
+8;A group of men are standing in front of a hole in the ground. They will not let anyone get any closer than 20 feet to the hole without attacking them first.
+9;A man is lying on the ground, dead. If players investigate, they find a pouch full of gold coins in his hand.
+10;A pack of 4d6 wolves attacks the party
+11;Unexpectedly, two elven horse thieves are running away from the party. They are very fast and know these lands well. They will try to evade capture but not get killed.
+12;A farmer is walking with his dog to check on his pigs.
+13;A flock of birds are flying in the distance. They are flying low and making loud chattering noises. The birds are just in front of the party. If the party gets closer, they will discover it is a flock of crows who are attacking a dying horse. The crows want to eat the horse but they are fighting among themselves because they don’t want to share meat!
+14;A group of men and women are celebrating the harvest with a party. The party is loud and they are singing and dancing. The party is across the river and across the road and behind a hill.
+15;A man is standing on top of a hill and he is yelling at the party, “Come on over! I got some hot cider! Come on! It’s cold out there! I got some food too! Come on over!”
+16;A man is walking with his dog toward a small orchard. The orchard has 2d10 apple trees in it and each tree has a small wooden bucket next to it filled with apples. The man and his dog are going to collect apples from the orchard.
+17;A woman is walking down the road toward the party. The woman is carrying a basket of apples. She is going to sell them at the market in the closest town. She will not sell any apples to the party without a bribe or without an accident or without being kidnapped or without being beaten up.
+18;Two elderly men are walking down the road toward the party. They are walking slowly and they are talking about how life used to be back in the day.
+19;A group of dogs are running in the distance. They are running toward the party. If the party gets closer, they will discover it is a pack of 2d6 wild dogs who want to eat them!
+20;A group of men and women are celebrating the harvest with a party. The party is loud and they are singing and dancing. The party is across the river and across the road and behind a hill.
+21;Foul Gas: A large area of the grassland has been covered in a foul, green gas. Creatures who breathe the gas will become sick for 1d4 hours. The sickened condition cannot be removed for 1d4 hours. The gas smells terrible and causes 1 point of Constitution damage per hour anyone breathes it. The gas dissipates after 1d4 hours.
+22;Band of Brigands: A band of brigands has been seen in the area. The bandits are led by a bugbear with a patch over one eye and a large scar on his face. The band of brigands intends to raid the next caravan that passes through the region.
+23;Kobolds Hunting: A group of kobolds has been seen recently in the area. The group is led by a large kobold with a bow and a sword. The kobolds are hunting in the area.
+24;Half-Elf Beggar: A half-elf is sitting on the side of the road. He is begging for food and money. He is actually a thief and will attack anyone who gives him something.
+25;Gossiping Peasants: Three peasants are sitting around a fire, gossiping. They are talking about the local lord and what a tyrant he is.
+26;Wandering Cow: A wandering cow is in the grassland. It is walking around, mooing loudly.
+27;Crying Baby: A baby is crying in the grassland. It is being looked after by its mother who is sitting nearby.
+28;A Man In Black Clothes: A man in black clothes and a black cape is standing in the grassland. He is standing still and staring at a particular spot on the ground. The man doesn’t respond to questions or commands. If approached, the man will vanish in a puff of smoke! If attacked, the man will teleport away!
+29;While Riding Through The Grassland a mounted patrol passes by and asks for identification from any strangers who happen to be in the area!
+30;…A Large Black Dragon Swoops Down From The Sky And Attacks!
+31;Foulbeard the Green, a half-orc mercenary swordsman, is offering 10 gold pieces if a party member will join him on a quest to kill a group of goblins. He has never killed a goblin before.
+32;A group of gnomes are running around in a panic because they are late to a meeting at the local gnome community center. If the party helps them get to the center on time, they will be rewarded with a meal and a place to sleep.
+33;A group of 3d6 villagers are running from giant spiders. The spiders are level 5 and can be befriended with a successful Diplomacy check at -5.
+34;The party sees a man dressed in robes. If they approach him, he will ask for directions to a nearby town. He is actually an Illusionist Wizard and will cast ‘Deception’ on the party if they give him the wrong directions.
+35;Two men are arguing about whether wizards or warriors are better. If the party joins in, the men will ask for their opinion and then storm away mad. If the party sides with the men arguing about wizards being better, they will give the party a magic sword. If the party sides with the men arguing about warriors being better, they will give the party a magic shield.
+36;Three old men are sitting together talking about how much they miss young people. If anyone asks them what they are talking about, they will say that they were talking about how much they miss young people.
+37;A group of hunters are trying to catch a deer. They will offer the party 10 gold pieces if they help them capture it.
+38;A man is sitting on the side of the road drinking wine and singing sad songs about his lost love. If the party talks to him, he will ask them to find his love and bring her back to him. If they do, they will find that the love is already married and has no interest in being with this man again.
+39;A group of 3d6 bandits attack! They are level 2, have basic equipment, and have 2d6 gp each.
+40;Three men are walking down the road together talking about how much they miss young people. If anyone asks them what they are talking about, they will say that they were talking about how much they miss young people.
+41;Ugly goblins are running away from an ugly bugbear.
+42;A beautiful lady just came from a nearby tower. She is looking for help.
+43;Four drunk knights are arguing about who is better – the 2nd level knight or the 4th level knight.
+44;A local farmer is looking for his missing cow. He is offering a reward of 2d6 silver coins to anyone who finds his cow.
+45;A man is selling 2d6+2 lemons for 2 copper pieces each.
+46;A party of 2d6 scouts are looking for signs of an approaching army. They are looking for tracks, broken branches, etc. They look at the party suspiciously before riding off.
+47;Two young men are arguing about who’s better – a wizard or a thief. They offer to sell a party a magic item for 1d4+4 gold pieces.
+48;A party of 2d6 thieves are planning a robbery of a nearby village. They discuss this in front of the players, making it easy to discover their plans.
+49;A man is selling 2d6+2 lemons for 2 copper pieces each.
+50;A nearby village is celebrating its most recent harvest.
+51;Eerie sounds of a war party can be heard from a hilltop. It’s actually a pack of wolves practicing howl, but they’re pretty good.
+52;A merchant is looking for an escort to his wagon. He’s trying to get through a dangerous part of the grasslands without being robbed.
+53;A merchant has an amazing deal on fine swords. The swords are actually made of glass and are worthless.
+54;A group of 3d6 peasants are looking for someone to lead them away from the danger of the grasslands. They will follow the first person they meet who looks like they know what they’re doing.
+55;While searching for food, a group of 3d4 gnolls discover a well-hidden treasure chest full of silver coins.
+56;A group of 4d4 goblins are hunting in the grasslands, hoping to catch some game for their tribe. They are led by a goblin shaman who is trying to prove his worth by catching something big.
+57;A group of 3d4 bandits are looking for someone to rob. They will attack anyone who looks rich or powerful, but will run away if it looks like they’re going to lose or if someone looks poor or weak.
+58;A man with a horse and wagon approaches the party and asks them if they have seen his missing son. He says his son was traveling this way, but hasn’t been heard from in several weeks.
+59;A merchant is selling maps that supposedly show where treasure is buried in the grasslands, but they’re actually blank maps. If someone buys one, he will tell them that he will mark it up later and sell it to them for double the price later that day.
+60;A thief has set up a trap in the road by placing a chest in the middle of the road with a sign that says ‘Free Stuff!’ written on it in an attempt to get people to stop and open the chest for him to rob them blind.
+61;Narrow trail. You see a group of mounted soldiers racing towards the players. They are from the nearby fort. They are looking for a group of thieves that was seen on the trail. They will question the players. If a thief is found, the soldiers will take them to the fort for questioning. If no thieves are found, they will continue to search for them.
+62;The players hear a group of gnomes singing. They are sitting on a hill. They are a group of traveling entertainers. They will ask the players to participate in a performance with them.
+63;A pack of wolves are hunting in the area. If the players approach them, they will attack. If not, they will continue to hunt.
+64;A small group of men are in the process of burying a dead friend/family member. They will walk away quietly if the players do not bother them.
+65;You see three women sitting by the side of the trail. They are selling food and water to travellers. They have enough food and water to sell to the players as well.
+66;The trail goes through a narrow ravine. A group of hunters are sitting atop the cliffs on either side of the trail. If the players pass through the ravine, they will be ambushed by the hunters.
+67;The trail passes by a small village that has been recently attacked by a pack of wolves. The villagers are in a panic about the attacks. A local priest is trying to calm them down, but it’s not working very well. If the players help, they will be rewarded handsomely by the priest.
+68;The trail passes by an abandoned mine entrance. If players enter, they will find a trapped room with a chest full of treasures (this is an old spellbook). If they decide to open it, they will be attacked by a group of kobolds who were hiding in the room (about 8 kobolds).
+69;A group of 1d10 men are sitting around a campfire near the trail. They are resting after a long day of hunting nearby wildlife (they are hunters). They will ask the players if they want to join them for dinner and drinks (they’re friendly and want to make friends with new people in the area).
+70;A group of women (about 1dare gathered around an old well near the trail. They are talking about an old legend about a magic mirror that was said to be buried nearby (it’s an old spellbook).
+71;Kneel down, fold your hands together, and pray to the goddess of the grasslands. A tiny old woman with a gnarled cane appears. She is dressed in rags and has a faded blue tattoo on her forehead which reads, ‘Justice.’ She tells the players they are trespassing on sacred land and they must leave. If they don’t, she will curse them.
+72;Two sickly, starving half-orcs stumble out of the brush, begging for food and water. They were hired to kill the party but can’t even stand up.
+73;A group of 2d6+4 bumbling, babbling humans (1d4 wizards, 1d4 clerics, 1d4 warriors, 1d4 rogues) come riding in on horses. They are lost and want directions to the nearest village. They were on their way to a nearby city to buy supplies but got lost.
+74;Three bandits are sitting around a campfire laughing and joking. One of them is missing an eye and has a big scar across his face. The other two are good looking, young, and attractive. They tell players that they can’t let them pass through their territory without paying a toll. They will attack if players don’t pay up.
+75;Two old men, both wearing cloaks and hoods, sit on rocks and stare at the sky for hours at a time. If disturbed, they will tell players that they are waiting for a dragon to pass overhead so they can kill it and take its scales back to their village.
+76;A group of 3d6+6 knights in full plate armor on giant warhorses thunder past the players at full gallop. Their armor is rusty, their horses are emaciated, and they look like they have been travelling for days without stopping. The leader has a lance with a banner on it that reads: ‘Vengeance is ours!’
+77;A group of 2d8+5 guards patrol through the grasslands on horseback. They are wearing chainmail armor and have shields slung over their backs. They look tired and hungry but they keep their eyes open for troublemakers.
+78;A group of 2d10+5 mercenaries are sitting around a campfire singing drinking songs and telling stories of their adventures fighting in faraway lands. They look tired but they’re happy to share a drink or two with anyone who asks.
+79;A group of 2d4 half-elves in chainmail armor are running from something behind them. They scream as they run past the players, ‘It’s coming! Run!’
+80;A group of 2d6 rangers with bows and arrows slung over their shoulders are sitting around a fire talking about their latest adventure in the nearby forest. They say that there is a witch living in a tower in the forest who is casting evil magic on the local wildlife.
+81;Eerie cave. The party sees a small, eerie hole in the ground ahead. The hole  is covered with cobwebs.
+82;A small, fuzzy animal scurries away from the party. The party sees a small, fuzzy animal scurrying away from them. The animal is about 1′ long, has big eyes and a big tail, and looks like a cross between a rabbit and a squirrel.
+83;A small animal scurries away from the party. The party sees a small animal scurrying away from them. The animal has big eyes and a big tail, and looks like a cross between a rabbit and a squirrel. It looks like it might be one of the tame animals of the nearby town, but the party doesn’t recognize it.
+84;A small animal is in the bush ahead. The party sees a small animal sitting in the bush ahead. It is sitting up on its haunches and looking at the party with big eyes and a big tail. It looks like it might be one of the tame animals of the nearby town, but the party doesn’t recognize it.
+85;A small animal scurries away from the party. The party sees a small animal scurrying away from them. It looks like it might be one of the tame animals of the nearby town, but the party doesn’t recognize it.
+86;A pack of wild dogs attacks! A pack of wild dogs attacks!
+87;In the distance, a pack of wolves can be heard howling. In the distance, a pack of wolves can be heard howling.
+88;A small rodent scurries across the path in front of the party. The party hears a small rodent scurrying across the path in front of them.
+89;A large bird swoops down and attacks! A large bird swoops down from above and attacks!
+90;A small rodent scurries across the path in front of the party. The party hears a small rodent scurrying across the path in front of them.
+91;Yum, yum! A deer is grazing on some grass. It is not alarmed.
+92;An old woman is sitting on the side of the road, singing her favourite song.
+93;A farmer and his wife are arguing about their daughter’s recent marriage.
+94;A farmer and his wife are arguing about their daughter’s recent elopement.
+95;You see a deer standing in a field. It is not alarmed. As you get closer, it turns into a statue of a deer.
+96;You see a deer standing in a field. It is not alarmed. As you get closer, it runs off into the woods.
+97;You see a deer standing in a field. It is not alarmed. As you get closer, it transforms into a bandit who attacks!
+98;You see two deer standing in a field, grazing on some grass. They are not alarmed. They turn into two bandits who attack!
+99;A group of travelling performers, called The Traveling Players, are putting on a show for the king and his court. The king is so impressed by their acting skills that he offers them a reward, but the leader of the acting troupe says that all they want is for the king to provide them with safe passage through his lands so that they can go to the next kingdom and put on their show there. The king is so impressed that he offers them safe passage and protection for them and their acting troupe to get them to the next kingdom safely.
+100;Two travellers are arguing about whether or not they should cross a bridge which has been washed out.
