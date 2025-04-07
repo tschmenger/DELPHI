@@ -18,3 +18,5 @@ Sources:
 - https://www.reddit.com/r/DnDBehindTheScreen/comments/4jl3xq/random_tables_stupidlyquick_citybuilding/
 - https://www.dndbeyond.com/forums/dungeons-dragons-discussion/dungeon-masters-only/26392-a-d100-non-combat-random-encounter-table
 - https://litrpgreads.com
+- https://www.randroll.com/table/feywild-hazards-npcs/
+- https://www.dndspeak.com/2022/08/30/100-feywild-encounters/
