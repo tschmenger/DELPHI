@@ -91,6 +91,13 @@ document.addEventListener('DOMContentLoaded', async () => {
     const trinket_table = await csvToTable('tables/trinkets.txt');
     // ######### encounters
     const urbanencounter = await csvToTable('tables/urban_encounters.txt');
+    const noncombatencounter = await csvToTable('tables/non_combat_encounter.txt'); 
+    const grassland_enc = await csvToTable('tables/grassland_encounters.txt');
+    const forest_enc = await csvToTable('tables/forest_encounters.txt');
+    const jungle_enc = await csvToTable('tables/jungle_encounters.txt');
+    const village_enc = await csvToTable('tables/village_encounters.txt');
+    const mountain_enc = await csvToTable('tables/mountain_encounters.txt');
+    const feywild_enc = await csvToTable('tables/feywild_encounters.txt');
     // ######### generic buildings
     const generic_toplevel = await csvToTable('tables/generic_building.txt'); 
     const generic_residence = await csvToTable('tables/generic_residence.txt');
@@ -375,6 +382,35 @@ document.addEventListener('DOMContentLoaded', async () => {
         const urbanencounterDescription = `${randomSelect(urbanencounter).trim()}`;
         document.getElementById('urbanencounterDescription').innerHTML = urbanencounterDescription;
     }; 
+    const updatevillageEncounter = () => {
+        const villageencounterDescription = `${randomSelect(village_enc).trim()}`;
+        document.getElementById('villageencounterDescription').innerHTML = villageencounterDescription;
+    }; 
+    const updatenoncombatEncounter = () => {
+        const noncombatencounterDescription = `${randomSelect(noncombatencounter).trim()}`;
+        document.getElementById('noncombatencounterDescription').innerHTML = noncombatencounterDescription;
+    }; 
+    const updategrasslandEncounter = () => {
+        const grasslandencounterDescription = `${randomSelect(grassland_enc).trim()}`;
+        document.getElementById('grasslandencounterDescription').innerHTML = grasslandencounterDescription;
+    }; 
+    const updateforestEncounter = () => {
+        const forestencounterDescription = `${randomSelect(forest_enc).trim()}`;
+        document.getElementById('forestencounterDescription').innerHTML = forestencounterDescription;
+    }; 
+    const updatejungleEncounter = () => {
+        const jungleencounterDescription = `${randomSelect(jungle_enc).trim()}`;
+        document.getElementById('jungleencounterDescription').innerHTML = jungleencounterDescription;
+    }; 
+    const updatemountainEncounter = () => {
+        const mountainencounterDescription = `${randomSelect(mountain_enc).trim()}`;
+        document.getElementById('mountainencounterDescription').innerHTML = mountainencounterDescription;
+    }; 
+    const updatefeywildEncounter = () => {
+        const feywildencounterDescription = `${randomSelect(feywild_enc).trim()}`;
+        document.getElementById('feywildencounterDescription').innerHTML = feywildencounterDescription;
+    }; 
+
     // ####################################### Generic Buildings
     const updateGenericBuildings = async () => {
         const buildingType = randomSelect(generic_toplevel).trim();
@@ -474,6 +510,12 @@ document.addEventListener('DOMContentLoaded', async () => {
         updateFramingEvents();
         updateTrinkets();
         updateUrbanEncounter();
+        updatevillageEncounter();
+        updategrasslandEncounter();
+        updateforestEncounter();
+        updatemountainEncounter();
+        updatejungleEncounter();
+        updatenoncombatEncounter();
         updateGenericBuildings();
         updateSimpleQuests();
         updateComplexQ();
@@ -483,6 +525,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         updateTreasure510();
         updateTreasure1116();
         updateTreasure17();
+        updatefeywildEncounter();
     };
     // ####################################### Creating clickable D20
     // Add event listeners to all d20 buttons within sections
