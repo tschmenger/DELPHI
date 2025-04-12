@@ -65,6 +65,9 @@ body {
         height: 40px; /* Adjust height for mobile */
         margin: 5px;
     }
+    #dungeon_generator {
+        overflow-x: scroll;
+    }
 }
 .content a, a {
     color: #ff6f61; /* Set link color to white */
@@ -293,17 +296,31 @@ button:hover {
     border-radius: 4px;
     margin-left: 8px;
 }
-canvas {
-    border: 1px solid black;
-  }
-  #legend {
-    margin-top: 10px;
-    font-family: Arial, sans-serif;
-  }
-  #legend span {
-    display: inline-block;
-    padding: 5px 10px;
-    margin-right: 10px;
-    border-radius: 3px;
-    color: #fff;
-  }
+
+            
+            /* Make the canvas scroll horizontally if needed */
+            #dungeon_generator {
+                max-width: 100%;
+            }
+            /* Don't stretch the canvas — preserve pixel clarity */
+            #dungeonCanvas {
+                overflow-x: auto;
+                border: 1px solid black;
+                display: inline-block;
+                /* Leave out width: 100% to prevent distortion */
+            }
+
+
+
+
+#legend {
+margin-top: 10px;
+font-family: Arial, sans-serif;
+}
+#legend span {
+display: inline-block;
+padding: 5px 10px;
+margin-right: 10px;
+border-radius: 3px;
+color: #fff;
+}
