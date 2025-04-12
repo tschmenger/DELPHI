@@ -1,0 +1,20 @@
+1;The passageway is dimly lit by flickering torches.
+2;Cracks run along the floor, and dust clouds puff with each step.
+3;A foul, stagnant smell hangs in the air.
+4;The walls are slick with condensation, and the floor is damp.
+5;Roots have broken through the ceiling, hanging like grasping fingers.
+6;A cold draft blows through, carrying faint whispers.
+7;The floor is uneven, strewn with rubble and shattered stone.
+8;A faint humming sound resonates through the walls.
+9;Old claw marks score the stone along one side.
+10;The passage is choked with cobwebs thick enough to tug at your clothes.
+11;Water drips steadily from above, forming puddles below.
+12;Ancient murals line the walls, faded and flaking.
+13;The air feels heavier here, as if pressing down on your shoulders.
+14;A strange, sweet scent lingers—pleasant, but out of place.
+15;A collapsed section forces you to duck and squeeze through.
+16;The stones here are unnaturally warm to the touch.
+17;Bones are scattered across the floor, brittle with age.
+18;Insects scatter as you step forward, retreating into the cracks.
+19;One wall has partially caved in, revealing a glimpse of another chamber.
+20;A recent trail of muddy footprints leads deeper in.

@@ -1,0 +1,5 @@
+1; tomb
+2; mine
+3; temple
+4; stronghold
+5; lair

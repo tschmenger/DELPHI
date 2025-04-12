@@ -1,0 +1,6 @@
+1-3;Brown mold
+4-8;Green slime
+9-10;A Shrieker
+11-15;Spiderwebs
+16-17;Violet fungus
+18-20;Yellow mold

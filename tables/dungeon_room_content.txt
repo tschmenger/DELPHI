@@ -1,0 +1,12 @@
+01-08;Monster (dominant inhabitant)
+09-15;Monster (dominant inhabitant) with treasure 
+16-27;Monster (pet or allied creature)
+28-33;Monster (pet or allied creature) guarding treasure 
+34-42;Monster (random creature)
+43-50;Monster (random creature) with treasure
+51-63;Dungeon hazard
+64-73;Empty room
+74-76;Monster (random creature) remains
+77-88;Trap (see "Random Traps")
+89-94;Trap (see "Random Traps") protecting treasure 
+95-00;Empty room with treasure
