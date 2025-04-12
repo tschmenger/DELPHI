@@ -284,9 +284,9 @@ function generateDungeon(width, height) {
     tilesFilled += newTiles;
   }
   
-  console.log("Tiles filled:", tilesFilled, "Target:", maxTiles, "Fill percentage target:", fillPercentage);
-  console.log("Rooms:", allRooms);
-  console.log("Passages:", allPassages);
+ // console.log("Tiles filled:", tilesFilled, "Target:", maxTiles, "Fill percentage target:", fillPercentage);
+ // console.log("Rooms:", allRooms);
+ // console.log("Passages:", allPassages);
 
   const passageways = allPassages.map((pt, index) => ({
     id: index + 1,
@@ -296,10 +296,6 @@ function generateDungeon(width, height) {
 
   return {grid, passageways };
 }
-
-
-
-
 // ===== Canvas Drawing =====
 function drawDungeon(grid, canvas) {
     // if (!grid || grid.length === 0 || !grid[0]) {
@@ -320,11 +316,16 @@ function drawDungeon(grid, canvas) {
       const tile = grid[y][x];
       ctx.fillStyle = TILE_COLORS[tile] || TILE_COLORS[TILE_EMPTY];
       ctx.fillRect(x * cellWidth, y * cellHeight, cellWidth, cellHeight);
+         // Add black border to non-empty tiles
+      if (tile !== TILE_EMPTY) {
+        ctx.strokeStyle = 'grey';
+        ctx.lineWidth = 0.5;
+        ctx.strokeRect(x * cellWidth, y * cellHeight, cellWidth, cellHeight);
+      }
     }
   }
-  
   // Then, overlay room IDs.
-  ctx.font = `${Math.floor(cellWidth/1.5)}px Arial`;
+  ctx.font = `${Math.floor(cellWidth/1.0)}px Arial`;
   ctx.fillStyle = 'black';
   ctx.textAlign = 'center';
   ctx.textBaseline = 'middle';
@@ -342,7 +343,7 @@ function drawDungeon(grid, canvas) {
       const mid = passage[Math.floor(passage.length/2)];
       const cx = mid.x * cellWidth + cellWidth/2;
       const cy = mid.y * cellHeight + cellHeight/2;
-      ctx.fillStyle = 'red';
+      ctx.fillStyle = 'navy';
       ctx.fillText(passage.id, cx, cy);
     }
   });
@@ -350,11 +351,11 @@ function drawDungeon(grid, canvas) {
 
 // ===== Initialization =====
 window.onload = () => {
-    const canvas = document.getElementById('dungeonCanvas');
-    const { grid, passageways } = generateDungeon(GRID_WIDTH, GRID_HEIGHT);
-    // if (!grid || grid.length === 0 || !grid[0]) {
-    //     console.error("Dungeon generation failed: grid is empty.", grid);
-    //     return;
-    //   }
-    drawDungeon(grid, canvas);
-  };
+  const canvas = document.getElementById('dungeonCanvas');
+  const { grid, passageways } = generateDungeon(GRID_WIDTH, GRID_HEIGHT);
+  // if (!grid || grid.length === 0 || !grid[0]) {
+  //     console.error("Dungeon generation failed: grid is empty.", grid);
+  //     return;
+  //   }
+  drawDungeon(grid, canvas);
+};

@@ -314,20 +314,20 @@ document.addEventListener('DOMContentLoaded', async () => {
         const fixedstring = "4d6x1000 gold pieces and 5d6x100 platinum pieces";
         const processedCoins = processCoins(fixedstring);
         const treasurehoard1116description = randomSelect(treasurehoard1116);
-        console.log(treasurehoard1116description);
+        //console.log(treasurehoard1116description);
         const processedTreasure = processTreasure(treasurehoard1116description);
         document.getElementById('treasurehoard1116description').innerHTML = processedCoins + "<br>" + processedTreasure;
-        console.log(treasurehoard1116description, document.getElementById('treasurehoard1116description').innerHTML);
+        //console.log(treasurehoard1116description, document.getElementById('treasurehoard1116description').innerHTML);
      }
     // ####################################### Treasure_Hoard_17
     const updateTreasure17= () => {
         const fixedstring = "12d6x1000 gold pieces and 8d6x100 platinum pieces";
         const processedCoins = processCoins(fixedstring);
         const treasurehoard17description = randomSelect(treasurehoard17);
-        console.log(treasurehoard17description);
+        //console.log(treasurehoard17description);
         const processedTreasure = processTreasure(treasurehoard17description);
         document.getElementById('treasurehoard17description').innerHTML = processedCoins + "<br>" + processedTreasure;
-        console.log(treasurehoard17description, document.getElementById('treasurehoard17description').innerHTML);
+        //console.log(treasurehoard17description, document.getElementById('treasurehoard17description').innerHTML);
      }
 
     // ####################################### Foods
@@ -489,8 +489,9 @@ document.addEventListener('DOMContentLoaded', async () => {
     const updateDungeons = async () => {
         let dungeonDescription;
         dungeonclassus = randomSelect(dungeonclass).trim();
+        console.log(dungeonclassus);
         const dungeonrooms = await csvToTable(`tables/dungeon_${dungeonclassus}.txt`);
-        console.log(dungeonrooms);
+        // console.log(dungeonrooms);
         dungeonDescription = `This dungeon is a <strong>${dungeonclassus}</strong>.<br>`;
 
         // Dungeon Generator
@@ -513,7 +514,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         // Generate a description for each room based on allRooms (global array)
         let roomDescriptionHTML = allRooms.map(room => {
             const roomContent = randomSelect(dungeonroomcontent).trim();
-            console.log(roomContent);
+            // console.log(roomContent);
             let finalRoomContent = roomContent;
             if (roomContent === "Dungeon hazard") {
                 const hazard = randomSelect(dungeonhazards).trim();
