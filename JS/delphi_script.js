@@ -129,6 +129,11 @@ document.addEventListener('DOMContentLoaded', async () => {
     const complexQstatus =  await csvToTable('tables/complexQ_status.txt');
     const complexQtimelimit =  await csvToTable('tables/complexQ_timelimit.txt');
     const complexQtwists =  await csvToTable('tables/complexQ_twists.txt');
+    const dungeonpassageways = await csvToTable('tables/dungeon_passageway.txt');
+    const dungeonclass = await csvToTable('tables/dungeon_type.txt');
+    const dungeonchamberstate = await csvToTable('tables/dungeon_chamber_state.txt');
+    const dungeonroomcontent = await csvToTable('tables/dungeon_room_content.txt');
+    const dungeonhazards = await csvToTable('tables/dungeon_hazard.txt');
     // ####################################### Setting parameters
     /**
      * Generate a random NPC based on the specified parameters.
@@ -480,6 +485,48 @@ document.addEventListener('DOMContentLoaded', async () => {
         
         document.getElementById('city_Description').innerHTML = city_Description;
     };
+    // ####################################### DUNGEONS
+    const updateDungeons = async () => {
+        let dungeonDescription;
+        dungeonclassus = randomSelect(dungeonclass).trim();
+        const dungeonrooms = await csvToTable(`tables/dungeon_${dungeonclassus}.txt`);
+        console.log(dungeonrooms);
+        dungeonDescription = `This dungeon is a <strong>${dungeonclassus}</strong>.<br>`;
+
+        // Dungeon Generator
+        const canvas = document.getElementById('dungeonCanvas');
+        const context = canvas.getContext('2d');
+        // Clear previous drawing
+        context.clearRect(0, 0, canvas.width, canvas.height);
+        // Generate and draw new dungeon
+        const dungeonData = generateDungeon(GRID_WIDTH, GRID_HEIGHT);
+        // Now dungeonData is an object like { grid: [...], passageways: [...] }
+        const { grid, passageways } = dungeonData;
+        drawDungeon(grid, canvas);
+
+        // Generate a description for each passageway
+        let passageDescriptionHTML = passageways.map(pw => {
+            const desc = randomSelect(dungeonpassageways).trim();
+            return `<strong>Passageway #${pw.id}</strong> – ${desc}`;
+        }).join('<br>');
+
+        // Generate a description for each room based on allRooms (global array)
+        let roomDescriptionHTML = allRooms.map(room => {
+            const roomContent = randomSelect(dungeonroomcontent).trim();
+            console.log(roomContent);
+            let finalRoomContent = roomContent;
+            if (roomContent === "Dungeon hazard") {
+                const hazard = randomSelect(dungeonhazards).trim();
+                finalRoomContent = hazard;
+              }
+            const desc = `${randomSelect(dungeonrooms).trim()}. The state of this room is best described as: ${randomSelect(dungeonchamberstate).trim()}. The room contains: ${finalRoomContent}.`;
+            return `<strong>Room #${room.id}</strong> – ${desc}`;
+        }).join('<br>');       
+
+        dungeonDescription += `<br><br><strong>Room Descriptions:</strong><br>${roomDescriptionHTML}<br><br>
+        <strong>Passage Descriptions:</strong><br>${passageDescriptionHTML}`;
+        document.getElementById('dungeonDescription').innerHTML = dungeonDescription;
+    }
     // ####################################### ####################################### #######################################
     // ####################################### ####################################### Functionality
     // ####################################### Update Everything Function
@@ -526,6 +573,8 @@ document.addEventListener('DOMContentLoaded', async () => {
         updateTreasure1116();
         updateTreasure17();
         updatefeywildEncounter();
+        updateDungeons();
+
     };
     // ####################################### Creating clickable D20
     // Add event listeners to all d20 buttons within sections

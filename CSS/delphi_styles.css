@@ -293,3 +293,17 @@ button:hover {
     border-radius: 4px;
     margin-left: 8px;
 }
+canvas {
+    border: 1px solid black;
+  }
+  #legend {
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+  }
+  #legend span {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-right: 10px;
+    border-radius: 3px;
+    color: #fff;
+  }

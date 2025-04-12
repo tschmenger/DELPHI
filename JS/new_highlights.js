@@ -10,20 +10,20 @@ function applyNewHighlights() {
     //   npcs_category: { selector: 'h2', text: 'NPCs' },
     //   simple_npc_moods: { selector: 'h3', text: 'Simple NPC moods' },
     //   npcs_section: { selector: 'h3', text: 'NPCs' },
-    //  worldbuilding: { selector: 'h2', text: 'Worldbuilding' },
+    worldbuilding: { selector: 'h2', text: 'Worldbuilding' },
     //   key_events: { selector: 'h3', text: 'Key Events' },
     // cities: { selector: 'h3', text: 'Cities' },
     // simple_quests: { selector: 'h3', text: 'Simple quests' },
     // complex_quests: { selector: 'h3', text: 'Complex quests' },
-      encounters: { selector: 'h2', text: 'Encounters' },
-      urban_encounters: { selector: 'h3', text: 'Urban Encounters' },
-      village_encounters: { selector: 'h3', text: 'Village Encounters' },
-      grassland_encounters: { selector: 'h3', text: 'Grassland Encounters' },
-      forest_encounters: { selector: 'h3', text: 'Forest Encounters' },
-      mountain_encounters: { selector: 'h3', text: 'Mountain Encounters' },
-      jungle_encounters: { selector: 'h3', text: 'Jungle Encounters' },
-      nc_encounters: { selector: 'h3', text: 'Non-Combat Encounters' },
-      feywild_encounters: { selector: 'h3', text: 'Feywild Encounters' }
+    // encounters_20250407: { selector: 'h2', text: 'Encounters' },
+    // urban_encounters: { selector: 'h3', text: 'Urban Encounters' },
+    // village_encounters: { selector: 'h3', text: 'Village Encounters' },
+    // grassland_encounters: { selector: 'h3', text: 'Grassland Encounters' },
+    // forest_encounters: { selector: 'h3', text: 'Forest Encounters' },
+    // mountain_encounters: { selector: 'h3', text: 'Mountain Encounters' },
+    // jungle_encounters: { selector: 'h3', text: 'Jungle Encounters' },
+    // nc_encounters: { selector: 'h3', text: 'Non-Combat Encounters' },
+    // feywild_encounters: { selector: 'h3', text: 'Feywild Encounters' }
     //  buildings: { selector: 'h2', text: 'Buildings' },
     //  generic_buildings: { selector: 'h3', text: 'What building?' },
     //   taverns: { selector: 'h3', text: 'Taverns' },
@@ -38,13 +38,13 @@ function applyNewHighlights() {
     //  items: { selector: 'h2', text: 'Items' },
     //   item_quirks: { selector: 'h3', text: 'Item Quirks' },
     //   mild_magic_effects: { selector: 'h3', text: 'Mild magic effects on the player' },
-      // books: { selector: 'h3', text: 'Books' },
-      // loot: { selector: 'h2', text: 'Loot' },
-      // trinkets: { selector: 'h3', text: 'Trinkets' },
-      // hoard_04: {selector: 'h3', text: 'Treasure Hoard Challenge Rating 0-4'},
-      // hoard_510: {selector: 'h3', text: 'Treasure Hoard Challenge Rating 5-10'},
-      // hoard_1116: {selector: 'h3', text: 'Treasure Hoard Challenge Rating 11-16'},
-      // hoard_17: {selector: 'h3', text: 'Treasure Hoard Challenge Rating 17+'}
+    // books: { selector: 'h3', text: 'Books' },
+    // loot: { selector: 'h2', text: 'Loot' },
+    // trinkets: { selector: 'h3', text: 'Trinkets' },
+    // hoard_04: {selector: 'h3', text: 'Treasure Hoard Challenge Rating 0-4'},
+    // hoard_510: {selector: 'h3', text: 'Treasure Hoard Challenge Rating 5-10'},
+    // hoard_1116: {selector: 'h3', text: 'Treasure Hoard Challenge Rating 11-16'},
+    // hoard_17: {selector: 'h3', text: 'Treasure Hoard Challenge Rating 17+'}
     //   magic_items_a: { selector: 'h3', text: 'Magic Items Table A' },
     //   magic_items_b: { selector: 'h3', text: 'Magic Items Table B' },
     //   magic_items_c: { selector: 'h3', text: 'Magic Items Table C' },
@@ -54,6 +54,7 @@ function applyNewHighlights() {
     //   magic_items_g: { selector: 'h3', text: 'Magic Items Table G' },
     //   magic_items_h: { selector: 'h3', text: 'Magic Items Table H' },
     //   magic_items_i: { selector: 'h3', text: 'Magic Items Table I' }
+    dungeonsgenerator: { selector: 'h3', text: "Dungeons"}
     };
   
     // Retrieve which highlights the user has already seen from localStorage.
