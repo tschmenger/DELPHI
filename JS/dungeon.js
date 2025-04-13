@@ -109,8 +109,8 @@ function placePassage(grid, startX, startY, initDir) {
 // Place a room adjacent to the attachment point (attachX, attachY) coming from `fromDir`.
 // When checking collisions, we allow the attach tile even if it isn't empty.
 function placeRoom(grid, attachX, attachY, fromDir) {
-  const roomWidth = Math.floor(Math.random() * 3) + 4;  // widths: 4, 5, or 6
-  const roomHeight = Math.floor(Math.random() * 3) + 4; // heights: 4, 5, or 6
+  const roomWidth = Math.floor(Math.random() * 3) + 5;  // widths: 5, 6, or 7
+  const roomHeight = Math.floor(Math.random() * 3) + 5; // heights: 5, 6, or 7
   
   let startX = attachX;
   let startY = attachY;
@@ -222,6 +222,33 @@ function branchFromRoom(grid, room, initDir, maxBranches = 3) {
   return branches;
 }
 
+// Default fill range (e.g., medium)
+let fillMin = 0.15;
+let fillMax = 0.30;
+
+// Event listeners for dungeon size buttons
+document.getElementById("smallFill").addEventListener("click", () => {
+  fillMin = 0.05;
+  fillMax = 0.15;
+});
+
+document.getElementById("mediumFill").addEventListener("click", () => {
+  fillMin = 0.15;
+  fillMax = 0.30;
+});
+
+document.getElementById("largeFill").addEventListener("click", () => {
+  fillMin = 0.45;
+  fillMax = 0.60;
+});
+
+// Function to get fill percentage based on current range
+function getRandomFillPercentage() {
+    return Math.random() * (fillMax - fillMin) + fillMin;
+}
+
+
+
 // ===== Main Dungeon Generation =====
 function generateDungeon(width, height) {
   allRooms.length = 0;
@@ -231,8 +258,7 @@ function generateDungeon(width, height) {
   const grid = createGrid(width, height);
   let tilesFilled = 0;
   
-  // Fill target (e.g., 15-30%).
-  const fillPercentage = Math.random() * (0.30 - 0.15) + 0.15;
+  const fillPercentage = getRandomFillPercentage();
   //const fillPercentage = 0.15;
   const maxTiles = Math.floor(width * height * fillPercentage);
   
