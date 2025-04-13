@@ -73,7 +73,6 @@ body {
     color: #ff6f61; /* Set link color to white */
     text-decoration: none; /* Remove underline from links */
 }
-/* Optional: Style links on hover */
 .content a:hover, a:hover {
     color: #FF0000; /* Change to a different color on hover */
     text-decoration: underline; /* Add underline on hover */
@@ -214,7 +213,7 @@ button:hover {
 /* Sidebar Styles */
 .sidebar {
     position: fixed;
-    top: 70px; /* Adjust based on your header height */
+    top: 70px; 
     left: 0;
     height: 120px;
     width: 50px; /* Collapsed width */
@@ -296,23 +295,14 @@ button:hover {
     border-radius: 4px;
     margin-left: 8px;
 }
-
-            
-            /* Make the canvas scroll horizontally if needed */
-            #dungeon_generator {
-                max-width: 100%;
-            }
-            /* Don't stretch the canvas — preserve pixel clarity */
-            #dungeonCanvas {
-                overflow-x: auto;
-                border: 1px solid black;
-                display: inline-block;
-                /* Leave out width: 100% to prevent distortion */
-            }
-
-
-
-
+#dungeon_generator {
+    max-width: 100%;
+}
+#dungeonCanvas {
+    overflow-x: auto;
+    border: 1px solid black;
+    display: inline-block;
+}
 #legend {
 margin-top: 10px;
 font-family: Arial, sans-serif;
@@ -323,4 +313,17 @@ padding: 5px 10px;
 margin-right: 10px;
 border-radius: 3px;
 color: #fff;
+}
+.size-button {
+    background-color: #ff6f61; /* Default inactive color */
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.size-button.active {
+    background-color: #007bff; /* Active color, adjust to your taste */
 }
