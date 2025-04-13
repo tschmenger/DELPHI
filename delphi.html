@@ -5,7 +5,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Delphi - the D&D Randomizer</title>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-      <link rel="stylesheet" href="CSS/delphi_styles.css?v20250331">
+      <link rel="stylesheet" href="CSS/delphi_styles.css?v20250413">
   </head>
 <body>
 <!--  ################################### -->
@@ -133,6 +133,11 @@
     <div class="section">
         <h3>Dungeons</h3>
         <div class="content" id="dungeon_generator">
+            <div id="dungeonSizeSelector">
+                <button id="smallFill" class="size-button">Small</button>
+                <button id="mediumFill" class="size-button active">Medium</button>
+                <button id="largeFill" class="size-button">Large</button>
+            </div>
             <canvas id="dungeonCanvas" width="600" height="600"></canvas>
             <div id="legend">
                 <span style="background:#00ff00;color:#000;">Entrance</span>
@@ -547,10 +552,10 @@
 </a>
 </div>
 <script src="JS/csv_utils.js?v=20250412"></script>
-<script src="JS/delphi_script.js?v=20250412"></script>
+<script src="JS/delphi_script.js?v=20250413"></script>
 <script src="JS/delphi_sidebar.js?v=20250412"></script>
 <script src="JS/new_highlights.js?v=20250412"></script>
 <script src="JS/advanced_utils.js?v=20250412"></script>
-<script src="JS/dungeon.js?v=20250412"></script>
+<script src="JS/dungeon.js?v=20250413"></script>
 </body>
 </html>
