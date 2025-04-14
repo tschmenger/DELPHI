@@ -1,0 +1,40 @@
+1; A stray cat’s paw unexpectedly paws at the party from the threshold.
+2; A chipped porcelain mug has been discarded in a corner, forming a small obstacle.
+3; A crumpled scrap of paper, stained with old human words, blocks part of the passage.
+4; A collapsed wooden chair forces the mice to scale it carefully to pass.
+5; A tangle of discarded string coils in the doorway, nearly tripping the adventurers.
+6; A single rusty nail juts from the floor, a relic from careless human repairs.
+7; A faint waft of cheese draws the party over a small patch of spilled food—with hidden risks.
+8; A shallow puddle in a low-lying spot turns the floor slick and treacherous.
+9; A dusty bookshelf leans against the wall, partially obstructing a narrow corridor.
+10; A forgotten, rusted key lies abandoned on the floor, hinting at a long-lost secret.
+11; A scurrying rat briefly defends its tiny stash of scraps near the exit.
+12; A shard of broken glass glimmers on the floor, both enticing and dangerous.
+13; A toppled flower pot reveals a hidden scrap of parchment beneath a clump of soil.
+14; A creaky floorboard, sensitive to weight, threatens to alert nearby dangers if stepped on too hard.
+15; A narrow alcove behind a pile of abandoned tools offers shelter—and possibly a trap.
+16; A small, murky puddle of water offers refreshment, but its source is questionable.
+17; A thin beam of sunlight pierces through a crack, momentarily dazzling the party as it hints at an exit.
+18; A discarded piece of fabric lies across the corridor, posing both a hiding spot and a hazard.
+19; A single, tarnished coin rests unassumingly on the floor—its value dubious but its history intriguing.
+20; A lone paperclip is strewn in the center of a tiled floor, its mundane form hinting at forgotten human clutter.
+21; A dented thimble lies on its side, doubling as a tiny container for odd bits of treasure.
+22; A spilled drop of ink forms an inky puddle, creating a slick hazard in an otherwise dry corridor.
+23; A loose floor tile reveals a narrow crevice littered with forgotten crumbs, hinting at past foraging.
+24; A small pile of dry leaves, swept indoors by the wind, clogs a narrow passage with an organic barrier.
+25; A cracked porcelain figurine is perched on a shelf, its expression frozen in time as if guarding the room.
+26; A stray scrap of fabric tangles around a tiny nail, temporarily forming a makeshift rope or trap.
+27; A half-burnt candle stub still offers a faint glow, marking the corner of a darkened area.
+28; A cluttered workbench with scattered nails and loose screws creates a minor, yet hazardous obstacle.
+29; A narrow beam of light streams through a hole in the wall, illuminating a solitary object in its path.
+30; An abandoned, rusted mousetrap sits in waiting, its mechanism a latent threat if disturbed.
+31; A singular, twisted piece of rebar protrudes from a small pile of rubble, a remnant of human neglect.
+32; An ink-stained scrap of parchment is pinned against a crumbling wall, offering a brief glimpse into old records.
+33; A forgotten pair of spectacles rests on a dusty shelf, their lenses reflecting the dim light.
+34; A slowly dripping faucet creates a rhythmic sound, the droplets pooling into a minor water hazard.
+35; A dusty cloth drapes over a tiny pedestal, subtly hiding what might be a useful object.
+36; A clump of cobwebs in the corner tangles around scattered debris, posing a slight entanglement risk.
+37; A small, cracked mirror leans against the wall, warping reflections and challenging perceptions for a moment.
+38; A faint trail of tiny footprints leads toward a darkened recess, hinting at the recent passage of another.
+39; A crumpled scrap of fabric lies abandoned on the floor, evidence of a small scuffle or hurried exit.
+40; A solitary, chipped porcelain spoon is forgotten near a doorway, a mundane relic of human clutter.
