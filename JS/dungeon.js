@@ -22,7 +22,7 @@ const DIRECTIONS = [
   { dx: -1, dy: 0  }  // Left
 ];
 
-// Grid dimensions (can be adjusted)
+// Grid dimensions 
 const GRID_WIDTH = 50;
 const GRID_HEIGHT = 50;
 
@@ -30,11 +30,9 @@ const GRID_HEIGHT = 50;
 let roomCounter = 1;
 let passageCounter = 1;
 
-// Arrays to store the room and passage objects (if needed later)
+// Arrays to store the room and passage objects 
 const allRooms = [];
 const allPassages = [];
-
-// ===== Helper Functions =====
 
 // Create and initialize the grid as a 2D array filled with TILE_EMPTY.
 function createGrid(width, height) {
@@ -49,7 +47,7 @@ function createGrid(width, height) {
   return grid;
 }
 
-// Check if (x, y) is within bounds and the tile is empty.
+// Checkig if (x, y) is within bounds and the tile is empty
 function isValidTile(grid, x, y) {
   return (
     x >= 0 && y >= 0 &&
@@ -59,8 +57,7 @@ function isValidTile(grid, x, y) {
 }
 
 // ===== Generation Functions =====
-
-// Place the entrance. (Here we place it on the left center edge.)
+// Place the entrance 
 function placeEntrance(grid) {
   const x = 0;
   const y = Math.floor(grid.length / 2);
@@ -68,9 +65,7 @@ function placeEntrance(grid) {
   return { x, y };
 }
 
-// Place a passage starting from (startX, startY) in the direction `dir`.
-// It creates a passage of length 3-5 tiles and randomly decides to make an L-shaped turn.
-// In placePassage, remove ID assignment:
+// Placing a passage starting from (startX, startY) in the direction `dir`.
 function placePassage(grid, startX, startY, initDir) {
     const passageLength = Math.floor(Math.random() * 3) + 3; // length between 3 and 5
     let currentX = startX;
@@ -107,10 +102,11 @@ function placePassage(grid, startX, startY, initDir) {
   
 
 // Place a room adjacent to the attachment point (attachX, attachY) coming from `fromDir`.
-// When checking collisions, we allow the attach tile even if it isn't empty.
+// When checking collisions, allow the attached tile even if it isn't empty.
 function placeRoom(grid, attachX, attachY, fromDir) {
   const roomWidth = Math.floor(Math.random() * 3) + 5;  // widths: 5, 6, or 7
   const roomHeight = Math.floor(Math.random() * 3) + 5; // heights: 5, 6, or 7
+  // should add different room geometries
   
   let startX = attachX;
   let startY = attachY;
@@ -132,10 +128,10 @@ function placeRoom(grid, attachX, attachY, fromDir) {
   for (let y = startY; y < startY + roomHeight; y++) {
     for (let x = startX; x < startX + roomWidth; x++) {
       if (x < 0 || y < 0 || y >= grid.length || x >= grid[0].length) {
-        return null; // Out-of-bounds.
+        return null; // Out-of-bounds
       }
       if (!(x === attachX && y === attachY) && grid[y][x] !== TILE_EMPTY) {
-        return null; // Collision.
+        return null; // Collision
       }
     }
   }
@@ -153,15 +149,15 @@ function placeRoom(grid, attachX, attachY, fromDir) {
     roomHeight,
     attachX,
     attachY,
-    id: roomCounter++  // assign a unique id to the room
+    id: roomCounter++  // assign a unique id to the room for labelling and describing it later
   };
   
   allRooms.push(room);
   return room;
 }
 
-// Try to build a branch: place a passage and then a room at its end.
-// If room placement fails, revert the passage.
+// building a branch: place a passage and then a room at its end
+// If room placement fails, revert the passage
 function tryBranch(grid, startPoint, dir, initDir) {
     const passage = placePassage(grid, startPoint.x, startPoint.y, dir);
     if (passage.length === 0) return null;
@@ -169,17 +165,17 @@ function tryBranch(grid, startPoint, dir, initDir) {
     const branchEnd = passage[passage.length - 1];
     const newRoom = placeRoom(grid, branchEnd.x, branchEnd.y, initDir);
     if (!newRoom) {
-      // Revert the passage if room placement fails.
+      // Revert the passage if room placement fails
       passage.forEach(pt => { grid[pt.y][pt.x] = TILE_EMPTY; });
       return null;
     }
-    // Now that the branch is successful, assign an ID to the passage.
+    // Now that the branch is successful, assign an ID to the passage
     passage.id = passageCounter++;
     allPassages.push(passage);
     return { passage, room: newRoom };
   }
 
-// Branch from an existing room. Only add branches that connect the room to a new room.
+// Branch from an existing room. Only adding branches that connect the room to a new room
 function branchFromRoom(grid, room, initDir, maxBranches = 3) {
   const numBranches = Math.floor(Math.random() * maxBranches) + 1;
   const branches = [];
@@ -350,7 +346,7 @@ function drawDungeon(grid, canvas) {
       }
     }
   }
-  // Then, overlay room IDs.
+  // overlay room IDs
   ctx.font = `${Math.floor(cellWidth/1.0)}px Arial`;
   ctx.fillStyle = 'black';
   ctx.textAlign = 'center';
@@ -362,10 +358,10 @@ function drawDungeon(grid, canvas) {
     ctx.fillText(room.id, cx, cy);
   });
   
-  // Optionally, label passages.
+  // label passages
   allPassages.forEach(passage => {
     if (passage.length) {
-      // Pick the middle cell as representative.
+      // Pick the middle cell as representative
       const mid = passage[Math.floor(passage.length/2)];
       const cx = mid.x * cellWidth + cellWidth/2;
       const cy = mid.y * cellHeight + cellHeight/2;

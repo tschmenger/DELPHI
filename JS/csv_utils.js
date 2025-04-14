@@ -7,11 +7,7 @@ async function csvToTable(path) {
     const response = await fetch(path);
     const text = await response.text();
     const rows = text.split('\n').map(row => row.split(';'));
-
-    // Debug: Log the parsed rows
     // console.log("Parsed Rows:", rows);
-
-    // const table = rows.map(row => ({ weight: parseInt(row[0]), value: row[1] }));
     const table = [];
     rows.forEach(row => {
         const [range, value] = row;
@@ -25,13 +21,10 @@ async function csvToTable(path) {
             table.push({ weight: 1, value });
         }
     });
-
     // Debug: Log the constructed table
-    console.log("Constructed Table:", table);
-
+    // console.log("Constructed Table:", table);
     return table;
 }
-
 /**
  * Randomly select an item from the table based on weights.
  * @param {Array} table - The table of objects with weights and values.
@@ -40,12 +33,8 @@ async function csvToTable(path) {
 
 function randomSelect(table) {
     const totalWeight = table.reduce((sum, item) => sum + item.weight, 0);
-
-    // Debug: Log the total weight
     // console.log("Total Weight:", totalWeight);
-
     if (totalWeight === 0) return null; // Avoid division by zero
-
     const random = Math.floor(Math.random() * totalWeight);
     let upto = 0;
     for (const item of table) {
@@ -54,12 +43,10 @@ function randomSelect(table) {
         }
         upto += item.weight;
     }
-    return null; // In case of any error
+    return null; 
 }
-
 // Function to roll a dice for subtables
 function randomSubtable(line) {
-// Use regex to extract the dice part (e.g., d8) if needed.
 const diceMatch = line.match(/\(d(\d+)\)/);
 if (!diceMatch) {
     console.warn("No dice roll found; returning full line.");

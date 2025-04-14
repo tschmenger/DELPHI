@@ -98,6 +98,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     const village_enc = await csvToTable('tables/village_encounters.txt');
     const mountain_enc = await csvToTable('tables/mountain_encounters.txt');
     const feywild_enc = await csvToTable('tables/feywild_encounters.txt');
+    const mausritter = await csvToTable('tables/mausritter_encounters.txt');
     // ######### generic buildings
     const generic_toplevel = await csvToTable('tables/generic_building.txt'); 
     const generic_residence = await csvToTable('tables/generic_residence.txt');
@@ -163,10 +164,6 @@ document.addEventListener('DOMContentLoaded', async () => {
     // ####################################### Yes/No with impro choices
     const updateYesNoSection = () => {
         const yesNoAnswer = randomSelect(yesNoTable);
-
-        // Debug: Log the selected answer
-        // console.log("Selected Answer:", yesNoAnswer);
-
         document.getElementById('yesNoAnswer').textContent = yesNoAnswer;
     };
     // ####################################### Immersion
@@ -177,10 +174,6 @@ document.addEventListener('DOMContentLoaded', async () => {
     // ####################################### Simple NPC Moods
     const updateNPCmood = () => {
         const NPCmoodAnswer = randomSelect(NPCmoodtable);
-
-        // Debug: Log the selected answer
-        // console.log("Selected Answer:", yesNoAnswer);
-
         document.getElementById('NPCmoodAnswer').textContent = NPCmoodAnswer;
     };
     // ####################################### Inns & Taverns
@@ -415,13 +408,16 @@ document.addEventListener('DOMContentLoaded', async () => {
         const feywildencounterDescription = `${randomSelect(feywild_enc).trim()}`;
         document.getElementById('feywildencounterDescription').innerHTML = feywildencounterDescription;
     }; 
-
+    const updateMausritter = () => {
+        const mausritterDescription = `${randomSelect(mausritter).trim()}`;
+        document.getElementById('mausritterDescription').innerHTML = mausritterDescription;
+    }; 
     // ####################################### Generic Buildings
     const updateGenericBuildings = async () => {
         const buildingType = randomSelect(generic_toplevel).trim();
         let buildingDescription;
 
-        // Use if-else statements to determine the description based on the building type
+        // Using if-else statements to determine the description based on the building type
         if (buildingType === "Residence") {
             genericbuildingDescription = `<strong>The residence in front of you is</strong> ${randomSelect(generic_residence)}`;
         } else if (buildingType === "Religious") {
@@ -436,8 +432,6 @@ document.addEventListener('DOMContentLoaded', async () => {
             console.error("Unknown building type:", buildingType);
             genericbuildingDescription = "Unknown building type.";
         }
-    
-        // Update the HTML with the generated description
         document.getElementById('genericbuildingDescription').innerHTML = genericbuildingDescription;
     };
     // ####################################### Simple Quests
@@ -489,7 +483,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     const updateDungeons = async () => {
         let dungeonDescription;
         dungeonclassus = randomSelect(dungeonclass).trim();
-        console.log(dungeonclassus);
+        //console.log(dungeonclassus);
         const dungeonrooms = await csvToTable(`tables/dungeon_${dungeonclassus}.txt`);
         // console.log(dungeonrooms);
         dungeonDescription = `This dungeon is a <strong>${dungeonclassus}</strong>.<br>`;
@@ -497,7 +491,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         // Dungeon Generator
         const canvas = document.getElementById('dungeonCanvas');
         const context = canvas.getContext('2d');
-        // Clear previous drawing
+        // Clear previous canvas drawing
         context.clearRect(0, 0, canvas.width, canvas.height);
         // Generate and draw new dungeon
         const dungeonData = generateDungeon(GRID_WIDTH, GRID_HEIGHT);
@@ -575,7 +569,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         updateTreasure17();
         updatefeywildEncounter();
         updateDungeons();
-
+        updateMausritter();
     };
     // ####################################### Creating clickable D20
     // Add event listeners to all d20 buttons within sections
@@ -612,7 +606,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         });
     });
 });
-// Get all the buttons
+// Get all the buttons, you get a button, you get a button, everyone gets a button
 const sizeButtons = document.querySelectorAll('.size-button');
 sizeButtons.forEach(button => {
     button.addEventListener('click', () => {

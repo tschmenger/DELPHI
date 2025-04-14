@@ -18,10 +18,10 @@ body {
 }
 .header-image {
     width: 100%;
-    max-width: 80px; /* Adjust based on your design needs */
+    max-width: 80px; 
     height: auto;
     display: block;
-    margin: 0 auto 20px; /* Adjust margin as needed */
+    margin: 0 auto 20px;
 }
 @media (max-width: 600px) {
     .header-image {
@@ -75,7 +75,7 @@ body {
 }
 .content a:hover, a:hover {
     color: #FF0000; /* Change to a different color on hover */
-    text-decoration: underline; /* Add underline on hover */
+    text-decoration: underline; 
 }
 h1 {
     font-size: 2.5em;
@@ -104,10 +104,10 @@ button:hover {
     right: 10px;
     width: 20px;
     height: 40px;
-    border-radius: 10%; /* Make it circular */
+    border-radius: 10%; 
     background-color: #fff;
     color: #000;
-    font-size: 24px; /* Adjust font size for the icon */
+    font-size: 24px; 
     display: flex;
     align-items: center;
     justify-content: center;
@@ -121,7 +121,7 @@ button:hover {
     transform: rotate(180deg);
 }
 .section {
-    position: relative; /* Ensure the button is positioned relative to the section */
+    position: relative; 
     margin-top: 20px;
     border-radius: 8px;
     overflow: hidden;
@@ -129,7 +129,7 @@ button:hover {
     transition: box-shadow 0.3s;
 }
 .section h2 {
-    position: relative; /* Ensure the button is positioned relative to the section */
+    position: relative;
     cursor: pointer;
     background-color: #2c2c2c;
     padding: 15px;
@@ -141,7 +141,7 @@ button:hover {
     color: #ff6f61;
 }
 .section h3 {
-    position: relative; /* Ensure the button is positioned relative to the section */
+    position: relative; 
     cursor: pointer;
     background-color: #363131;
     padding: 15px;
@@ -248,13 +248,13 @@ button:hover {
 }
 
 .sidebar-content .dice-button {
-    width: 50px; /* Increase width to make buttons more visible */
-    height: 50px; /* Increase height to make buttons more visible */
+    width: 50px; 
+    height: 50px; 
     margin: 5px 0;
-    border-radius: 0; /* Remove rounded border */
+    border-radius: 0; 
     background-color: #fff;
     color: #000;
-    font-size: 20px; /* Adjust font size for better visibility */
+    font-size: 20px; 
     display: flex;
     align-items: center;
     justify-content: center;
@@ -325,5 +325,69 @@ color: #fff;
 }
 
 .size-button.active {
-    background-color: #007bff; /* Active color, adjust to your taste */
+    background-color: #007bff; 
 }
+
+
+/* Basic sidebar styles */
+.menu-sidebar {
+    position: fixed;
+    top: 0;
+    left: 30%; /* Center the sidebar */
+    width: 40%; /* Set the width to 40% */
+    background-color: #f5f5f5;
+    border-bottom: 1px solid #ddd;
+    overflow: hidden;
+    height: 0;
+    transition: height 0.3s ease;
+    z-index: 1000;
+  }
+
+/* When the sidebar is active, set an explicit height */
+.menu-sidebar.active {
+    height: 300px;    
+    overflow-y: auto;
+
+  }
+
+/* Styling for the toggle button */
+.menu-toggle {
+position: fixed;
+top: 10px;
+right: 10px;
+background: none;
+border: none;
+font-size: 24px;
+z-index: 1001;
+}
+
+/* Styling sidebar navigation */
+.menu-sidebar ul {
+list-style: none;
+padding: 20px;
+margin: 0;
+background-color:#121212;
+}
+
+.menu-sidebar li {
+margin: 10px 0;
+}
+
+.menu-sidebar a {
+text-decoration: none;
+color: #ff6f61;
+font-weight: bold;
+}
+
+
+@media (max-width: 600px) {
+.menu-sidebar.active {
+height: 100vh;
+}
+.menu-toggle {
+position: static;
+font-size: 28px;
+top: 10px; right: 10px;
+}
+}
+  

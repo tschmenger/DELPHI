@@ -1,5 +1,5 @@
 function applyNewHighlights() {
-    // Configuration object with keys for each header to highlight.
+    // Configuration object with keys for each header to highlight
     // For each key, specify:
     // - selector: "h2" or "h3" (depending on your element type)
     // - text: a substring that should appear in the header's textContent
@@ -10,12 +10,12 @@ function applyNewHighlights() {
     //   npcs_category: { selector: 'h2', text: 'NPCs' },
     //   simple_npc_moods: { selector: 'h3', text: 'Simple NPC moods' },
     //   npcs_section: { selector: 'h3', text: 'NPCs' },
-    worldbuilding: { selector: 'h2', text: 'Worldbuilding' },
+    worldbuilder_V2: { selector: 'h2', text: 'Worldbuilding' },
     //   key_events: { selector: 'h3', text: 'Key Events' },
     // cities: { selector: 'h3', text: 'Cities' },
     // simple_quests: { selector: 'h3', text: 'Simple quests' },
     // complex_quests: { selector: 'h3', text: 'Complex quests' },
-    // encounters_20250407: { selector: 'h2', text: 'Encounters' },
+     encounters_20250414: { selector: 'h2', text: 'Encounters' },
     // urban_encounters: { selector: 'h3', text: 'Urban Encounters' },
     // village_encounters: { selector: 'h3', text: 'Village Encounters' },
     // grassland_encounters: { selector: 'h3', text: 'Grassland Encounters' },
@@ -24,6 +24,7 @@ function applyNewHighlights() {
     // jungle_encounters: { selector: 'h3', text: 'Jungle Encounters' },
     // nc_encounters: { selector: 'h3', text: 'Non-Combat Encounters' },
     // feywild_encounters: { selector: 'h3', text: 'Feywild Encounters' }
+       mausritter_encounters_V2: { selector: 'h3', text: 'Mausritter Encounters' },
     //  buildings: { selector: 'h2', text: 'Buildings' },
     //  generic_buildings: { selector: 'h3', text: 'What building?' },
     //   taverns: { selector: 'h3', text: 'Taverns' },
@@ -54,29 +55,29 @@ function applyNewHighlights() {
     //   magic_items_g: { selector: 'h3', text: 'Magic Items Table G' },
     //   magic_items_h: { selector: 'h3', text: 'Magic Items Table H' },
     //   magic_items_i: { selector: 'h3', text: 'Magic Items Table I' }
-    dungeonsgenerator: { selector: 'h3', text: "Dungeons"}
+    dungeonsgenerating_V2: { selector: 'h3', text: "Dungeons"}
     };
   
-    // Retrieve which highlights the user has already seen from localStorage.
+    // Retrieving which highlights the user has already seen from localStorage
     const seenHighlights = JSON.parse(localStorage.getItem("seenHighlights")) || {};
   
     // Loop over each configuration entry.
     Object.entries(newHighlights).forEach(([key, { selector, text }]) => {
-      // Only process if this header hasn't been acknowledged yet.
+      // Only process if this header hasn't been acknowledged yet
       if (!seenHighlights[key]) {
-        // Get all elements matching the selector (h2 or h3).
+        // Get all elements matching the selector (h2 / h3)
         const elements = Array.from(document.querySelectorAll(selector));
-        // Find the first element whose text includes the specified substring.
+        // Find the first element whose text includes the specified substring
         const targetElement = elements.find(el => el.textContent.includes(text));
   
         if (targetElement) {
-          // Create a "NEW" badge.
+          // Create a "NEW" badge
           const newBadge = document.createElement("span");
           newBadge.classList.add("new-badge");
           newBadge.textContent = " NEW";
           targetElement.appendChild(newBadge);
   
-          // When the header is clicked, mark this highlight as seen and remove the badge.
+          // When the header is clicked, mark this highlight as seen and remove the badge
           targetElement.addEventListener("click", () => {
             seenHighlights[key] = true;
             localStorage.setItem("seenHighlights", JSON.stringify(seenHighlights));
